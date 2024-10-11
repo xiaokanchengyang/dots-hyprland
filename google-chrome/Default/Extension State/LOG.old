@@ -1,0 +1,9 @@
+2024/10/11-15:15:42.697 e9a Reusing MANIFEST /home/change/.config/google-chrome/Default/Extension State/MANIFEST-000001
+2024/10/11-15:15:42.698 e9a Recovering log #13
+2024/10/11-15:15:42.701 e9a Level-0 table #16: started
+2024/10/11-15:15:42.712 e9a Level-0 table #16: 376946 bytes OK
+2024/10/11-15:15:42.713 e9a Recovering log #16
+2024/10/11-15:15:42.714 e9a Reusing old log /home/change/.config/google-chrome/Default/Extension State/000016.log 
+2024/10/11-15:15:42.725 e9a Delete type=2 #17
+2024/10/11-15:15:42.725 e9a Delete type=0 #3
+2024/10/11-15:15:42.725 e9a Delete type=0 #13

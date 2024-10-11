@@ -1,0 +1,62 @@
+.equatio .excalidraw {
+  --color-primary: var(--brandColorBlue);
+  --ui-font: "Roboto", "RobotoDraft", Helvetica, Arial, sans-serif; }
+  .equatio .excalidraw .HintViewer {
+    font-size: 1em;
+    color: #fff;
+    background-color: var(--brandColorBlue);
+    border-radius: var(--border-radius-md); }
+  .equatio .excalidraw .excalidraw-button, .equatio .excalidraw .ExcButton, .equatio .excalidraw .library-menu-browse-button {
+    font-weight: 600;
+    border: 2px solid var(--brandColorBlue);
+    color: var(--brandColorBlue);
+    padding: 11px 0;
+    font-size: 15px;
+    font-family: "Open Sans", Arial, sans-serif;
+    border-radius: 30px; }
+    .equatio .excalidraw .excalidraw-button:hover, .equatio .excalidraw .ExcButton:hover, .equatio .excalidraw .library-menu-browse-button:hover {
+      background-color: var(--brandColorBlue);
+      color: #fff; }
+    .equatio .excalidraw .excalidraw-button[disabled], .equatio .excalidraw .ExcButton[disabled], .equatio .excalidraw .library-menu-browse-button[disabled] {
+      opacity: 0.6; }
+    .equatio .excalidraw .excalidraw-button.sidebar__dock, .equatio .excalidraw .excalidraw-button.sidebar__close, .equatio .excalidraw .ExcButton.sidebar__dock, .equatio .excalidraw .ExcButton.sidebar__close, .equatio .excalidraw .library-menu-browse-button.sidebar__dock, .equatio .excalidraw .library-menu-browse-button.sidebar__close {
+      color: var(--color-on-surface); }
+  .equatio .excalidraw .sidebar {
+    font-family: "Open Sans", Arial, sans-serif; }
+    .equatio .excalidraw .sidebar .sidebar__header {
+      color: var(--color-primary);
+      font-size: 1.125rem;
+      font-weight: bold; }
+    .equatio .excalidraw .sidebar .sidebar-tabs-root {
+      padding-bottom: 0;
+      margin-bottom: 0; }
+    .equatio .excalidraw .sidebar .library-menu-items-container > div {
+      padding-bottom: 0;
+      margin-bottom: 0; }
+  .equatio .excalidraw .library-unit {
+    width: 100%;
+    justify-content: left; }
+    .equatio .excalidraw .library-unit .library-unit__dragger {
+      aspect-ratio: 1;
+      max-width: 80px;
+      max-height: 80px;
+      margin: 0 10px; }
+    .equatio .excalidraw .library-unit .library-menu-items-container__item__label {
+      font-size: 0.8em;
+      word-wrap: break-word;
+      width: 130px; }
+    .equatio .excalidraw .library-unit:hover {
+      background-color: #66d4ff;
+      color: #1B2231; }
+  .equatio .excalidraw .library-menu-items-container__items .sticky {
+    z-index: 1; }
+  .equatio .excalidraw .welcome-screen-decor, .equatio .excalidraw .welcome-screen-menu button, .equatio .excalidraw .welcome-screen-menu-item__text {
+    color: var(--brandColorBlue); }
+    .equatio .excalidraw .welcome-screen-decor > svg, .equatio .excalidraw .welcome-screen-menu button > svg, .equatio .excalidraw .welcome-screen-menu-item__text > svg {
+      filter: drop-shadow(3px 5px 2px var(--th-slate-light)); }
+  .equatio .excalidraw .Toast {
+    background-color: var(--brandColorBlue); }
+    .equatio .excalidraw .Toast p {
+      color: #fff; }
+  .equatio .excalidraw input[type=text]::placeholder {
+    color: var(--text-primary-color); }

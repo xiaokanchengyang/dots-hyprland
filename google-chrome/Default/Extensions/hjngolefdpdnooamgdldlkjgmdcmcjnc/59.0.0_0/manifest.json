@@ -1,0 +1,102 @@
+{
+   "action": {
+      "default_title": "Equatio"
+   },
+   "background": {
+      "service_worker": "background-wrapper.js"
+   },
+   "commands": {
+      "_execute_action": {
+         "suggested_key": {
+            "chromeos": "Alt+Shift+Q",
+            "linux": "Alt+Shift+Q",
+            "mac": "Alt+Shift+Q",
+            "windows": "Alt+Shift+Q"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "content/chromeBundle.js" ],
+      "matches": [ "https://docs.google.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "content/officeBundle.js" ],
+      "matches": [ "https://*.sharepoint.com/*", "https://onedrive.live.com/*", "https://*.officeapps.live.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "content/formBundle.js" ],
+      "matches": [ "https://docs.google.com/forms/*", "https://docs.google.com/*/forms/*", "https://docs.google.com/*picker*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "content/htmlEditorApiInjector.js" ],
+      "matches": [ "https://*/*", "http://*/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "content/docsCanvas.js" ],
+      "matches": [ "https://docs.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": false,
+      "js": [ "content/equatioApi.js" ],
+      "matches": [ "https://pdf.dev.texthelp.com/*", "https://orbit.texthelp.com/*", "https://orbitnote-us.staging.texthelp.com/*", "https://orbitnote.staging.texthelp.com/*", "https://*.coursera.org/*", "https://*.dev-coursera.org/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": false,
+      "js": [ "content/mathspaceBundle.js" ],
+      "matches": [ "https://equatio.texthelp.com/*", "https://equatio.dev.texthelp.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'",
+      "sandbox": "sandbox allow-scripts; script-src 'self' 'unsafe-eval'; worker-src blob:"
+   },
+   "default_locale": "en_US",
+   "description": "__MSG_appDesc__",
+   "externally_connectable": {
+      "matches": [ "https://equatio.texthelp.com/*" ]
+   },
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "content/assets/equatioicon128.png",
+      "16": "content/assets/equatioicon16.png",
+      "32": "content/assets/equatioicon32.png",
+      "48": "content/assets/equatioicon48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu03k2og+Rw/cHR/bgMjJ4j2jgxaeay+qwMyYHp+/27nh6ARocEo/+kP7mQp94XHUZGeJVDjXpXKUsDycex0f8+OPPg0L/7Zqvhew9ykA/9+YcbVppsdL5pMPplcpLaSO7YuCQuDKi7JL5vAfkv7CaIveUC7Pi4wP/yYRIWnm81XKOBM3LwRh5ctTRpIU+3e9TxUT6zo5FmweWhBUIE9RLyH/iHvjoWJo2Wyd0nO8bQQIqdwWitNOeaSZ2RxGb3rhoyFjECoUggF5nFLey48wzxbXr9MZ78Vgm9EaEjtnTihaXj/38ZQoZFJsCpmGIMf47wzSCrCWBsKGq6rB18BwKQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "oauth2": {
+      "client_id": "1012020947112-ej46u2phchai2guaj81fk9lb7pp2mm3q.apps.googleusercontent.com",
+      "scopes": [ "email", "profile" ]
+   },
+   "permissions": [ "activeTab", "tabs", "alarms", "storage", "identity", "identity.email", "gcm", "scripting" ],
+   "sandbox": {
+      "pages": [ "mmlWorker/index.html", "desmos/calculator.html", "desmos/graph.html" ]
+   },
+   "short_name": "Equatio",
+   "storage": {
+      "managed_schema": "schema.json"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "59.0.0",
+   "version_name": "59.0.0",
+   "web_accessible_resources": [ {
+      "extension_ids": [  ],
+      "matches": [ "https://docs.google.com/*" ],
+      "resources": [ "content/docsMessagingApi.js", "annotate-canvas.js" ]
+   }, {
+      "extension_ids": [  ],
+      "matches": [ "https://*.sharepoint.com/*", "https://onedrive.live.com/*", "https://*.officeapps.live.com/*" ],
+      "resources": [ "content/docsMessagingApi.js" ]
+   }, {
+      "extension_ids": [  ],
+      "matches": [ "https://*/*", "http://*/*" ],
+      "resources": [ "content/*", "mathjaxFrame/*", "mmlWorker/*", "annotate-canvas.js", "desmos/*" ]
+   } ]
+}

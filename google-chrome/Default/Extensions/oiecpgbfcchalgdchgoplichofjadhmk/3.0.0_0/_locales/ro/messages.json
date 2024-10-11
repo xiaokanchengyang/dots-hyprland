@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Ștergeți istoricul browserului, memoria cache și cookie-urile pentru Google Chrome într-un singur clic!"
+   },
+   "app_name": {
+      "message": "Curățător istoric și cache"
+   },
+   "options_common": {
+      "message": "Opțiuni comune"
+   },
+   "options_common_1": {
+      "message": "Reîncărcați automat fila activă după ștergere"
+   },
+   "options_common_2": {
+      "message": "Butonul plutitor „Cache Cleaner” pe toate paginile"
+   },
+   "options_everything": {
+      "message": "Tot"
+   },
+   "options_header": {
+      "message": "OPȚIUNI"
+   },
+   "options_last_day": {
+      "message": "Ultima zi"
+   },
+   "options_last_hour": {
+      "message": "Ultima ora"
+   },
+   "options_last_month": {
+      "message": "Luna trecuta"
+   },
+   "options_last_week": {
+      "message": "Săptămâna trecută"
+   },
+   "options_remove": {
+      "message": "Date de eliminat"
+   },
+   "options_remove_appcache": {
+      "message": "Aplicația Cache"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 oferă un mecanism de memorie în cache a aplicațiilor care permite aplicațiilor bazate pe web să fie offline. Dezvoltatorii pot folosi interfața Application Cache (AppCache) pentru a specifica resursele pe care browserul ar trebui să le cache și să le pună la dispoziția utilizatorilor offline. Aplicațiile care se încarcă în cache și funcționează corect chiar dacă utilizatorii fac clic pe butonul de actualizare atunci când sunt offline. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">Citește mai mult\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "ascunzătoare"
+   },
+   "options_remove_cache_desc": {
+      "message": "Textul paginilor web pe care le-ați vizitat în Google Chrome este eliminat de pe computer. Navigatoarele stochează elemente ale paginilor web pentru a accelera încărcarea paginii web în următoarea vizită. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Citește mai mult\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "fursecuri"
+   },
+   "options_remove_cookies_desc": {
+      "message": "Fișiere stocate pe computer de site-uri web pe care le-ați vizitat. Aceste fișiere conțin informații despre utilizator, cum ar fi preferințele pentru site-uri web sau informații despre profil. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Citiți mai multe\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(Opțiuni)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "Ștergeți numai următoarele (rapid)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "Nu ștergeți următoarele (lent)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "Nu sunt definite filtre"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "Adaugă domeniu"
+   },
+   "options_remove_db": {
+      "message": "DB indexată"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB este o API pentru stocarea din partea clientului a unor cantități semnificative de date structurate, care permite, de asemenea, căutări performante ale acestor date folosind indexuri. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">Citiți mai multe\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "Descărcări"
+   },
+   "options_remove_downloads_desc": {
+      "message": "Lista de fișiere descărcate cu Google Chrome este șters, dar fișierele reale nu sunt eliminate din computer. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Citiți mai multe\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "Date Formular"
+   },
+   "options_remove_forms_desc": {
+      "message": "Toate intrările dvs. de completare automată și înregistrările de text introduse pe formularele web sunt șterse. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Citiți mai multe\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "Sisteme de fișiere"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Aplicațiile Chrome pot utiliza] API-ul chrome.fileSystem pentru a crea, citi, naviga și scrie în sistemul de fișiere local al utilizatorului. Cu această API, aplicațiile Chrome pot citi și scrie într-o locație selectată de utilizator. De exemplu, o aplicație editor de text poate utiliza API-ul pentru a citi și scrie documente locale. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">Citește mai mult\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "Istorie"
+   },
+   "options_remove_history_desc": {
+      "message": "Ștergerea istoricului de navigare șterge în mod special următoarele: adrese web pe care le-ați vizitat din pagina Istoric, textul în cache al acestor pagini, instantanee ale acestor pagini pentru imagini care apar pe pagina fila nouă, Orice adrese IP pre-preluate din acele pagini. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Citiți mai multe\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "Parole"
+   },
+   "options_remove_passwords_desc": {
+      "message": "Înregistrările cu numele de utilizator și parolele sunt șterse. Dacă utilizați un Mac, înregistrările dvs. de parolă sunt șterse din Keychain Access. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Citește mai mult\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "Date despre pluginuri"
+   },
+   "options_remove_plugin_desc": {
+      "message": "Orice date din partea clientului stocate de pluginuri care utilizează API-ul NPAPI ClearSiteData. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">Citiți mai multe\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Web SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "Baza de date Web SQL este o API-ul paginii web pentru stocarea datelor în baze de date care poate fi interogată folosind o variantă de SQL. [...] Grupul de lucru pentru aplicații web W3C a încetat să funcționeze în caietul de sarcini în noiembrie 2010, invocând o lipsă de implementări independente (adică, utilizarea unui sistem de baze de date, altul decât SQLite, ca backend), motivul pentru care specificația nu a putut fi mișcată. înainte de a deveni o Recomandare W3C. Un standard de stocare alternativ potențial este IndexedDB. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">Citește mai mult\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "Depozitare locală"
+   },
+   "options_remove_storage_desc": {
+      "message": "DOM Storage [care include Local Storage] este conceput pentru a oferi o alternativă mai mare, mai sigură și mai ușor de utilizat la stocarea informațiilor în cookie-uri. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">Citește mai mult\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "Curat!"
+   },
+   "popup_clear": {
+      "message": "clar"
+   },
+   "popup_clearing": {
+      "message": "Clearing ..."
+   },
+   "popup_label_rate": {
+      "message": "Vă rugăm să ne evaluați!"
+   },
+   "popup_manage": {
+      "message": "Opțiuni"
+   }
+}

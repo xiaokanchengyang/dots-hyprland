@@ -1,0 +1,1 @@
+(()=>{var e=document.head||document.documentElement,t=chrome.runtime.getURL("annotate-canvas.js"),n=document.createElement("script");n.src=t,n.async=!1,n.defer=!1,n.setAttribute("data-extension-id",chrome.runtime.id),e.appendChild(n)})();

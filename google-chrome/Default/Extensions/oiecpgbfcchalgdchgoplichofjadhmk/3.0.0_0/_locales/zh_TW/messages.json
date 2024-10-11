@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "一鍵清除Google Chrome瀏覽器的瀏覽器歷史記錄，緩存和cookie！"
+   },
+   "app_name": {
+      "message": "歷史記錄和緩存清除器"
+   },
+   "options_common": {
+      "message": "常用選項"
+   },
+   "options_common_1": {
+      "message": "清除後自動重新加載活動標籤"
+   },
+   "options_common_2": {
+      "message": "所有頁面上的浮動按鈕“ Cache Cleaner”"
+   },
+   "options_everything": {
+      "message": "一切"
+   },
+   "options_header": {
+      "message": "選件"
+   },
+   "options_last_day": {
+      "message": "最後一天"
+   },
+   "options_last_hour": {
+      "message": "上一個小時"
+   },
+   "options_last_month": {
+      "message": "上個月"
+   },
+   "options_last_week": {
+      "message": "上個星期"
+   },
+   "options_remove": {
+      "message": "要刪除的數據"
+   },
+   "options_remove_appcache": {
+      "message": "應用緩存"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5提供了一種應用程序緩存機制，該機制使基於Web的應用程序可以脫機運行。開發人員可以使用應用程序緩存（AppCache）界面來指定瀏覽器應緩存的資源，並可供脫機用戶使用。即使用戶脫機時單擊刷新按鈕，緩存的應用程序也會加載並正常工作。 — \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">閱讀更多\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "快取"
+   },
+   "options_remove_cache_desc": {
+      "message": "您在Google Chrome瀏覽器中訪問過的網頁文字已從計算機中刪除。瀏覽器存儲網頁元素，以在您下次訪問期間加快網頁的加載速度。 — \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">閱讀更多\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "餅乾"
+   },
+   "options_remove_cookies_desc": {
+      "message": "您訪問過的網站存儲在您計算機上的文件。這些文件包含用戶信息，例如網站的首選項或個人資料信息。 — \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">閱讀更多\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "（選項）"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "僅清除以下內容（快速）"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "不要清除以下內容（緩慢）"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "未定義過濾器"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "新增網域"
+   },
+   "options_remove_db": {
+      "message": "索引數據庫"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB是用於客戶端存儲大量結構化數據的API，它還可以使用索引對這些數據進行高性能搜索。 — \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">閱讀更多\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "下載"
+   },
+   "options_remove_downloads_desc": {
+      "message": "您使用Google Chrome瀏覽器下載的文件列表將被清除，但實際文件不會從計算機中刪除。 — \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">閱讀更多\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "表格數據"
+   },
+   "options_remove_forms_desc": {
+      "message": "您在網絡表單上輸入的所有自動填充條目和文本記錄都將被刪除。 — \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">閱讀更多\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "文件系統"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Chrome應用程序可以使用] chrome.fileSystem API創建，讀取，導航和寫入用戶的本地文件系統。借助此API，Chrome Apps可以讀寫用戶選擇的位置。例如，文本編輯器應用可以使用API讀取和寫入本地文檔。 [...] — \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">閱讀更多\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "歷史"
+   },
+   "options_remove_history_desc": {
+      "message": "清除瀏覽歷史記錄會專門刪除以下內容：您從“歷史記錄”頁面訪問過的Web地址，這些頁面的緩存文本，“新標籤”頁面上顯示的圖像的那些頁面的快照，從這些頁面中預提取的任何IP地址。 — \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">閱讀更多\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "密碼"
+   },
+   "options_remove_passwords_desc": {
+      "message": "用戶名和密碼的記錄將被刪除。如果您使用的是Mac，則密碼記錄將從“鑰匙串訪問”中刪除。 — \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">閱讀更多\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "插件數據"
+   },
+   "options_remove_plugin_desc": {
+      "message": "由使用NPAPI ClearSiteData API的插件存儲的任何客戶端數據。 — \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">閱讀更多\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Web SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "Web SQL數據庫是用於將數據存儲在數據庫中的網頁API，可以使用SQL的變體查詢該數據庫。 [...] W3C Web應用程序工作組於2010年11月停止研究該規範，理由是缺乏獨立的實現（即，使用SQLite以外的數據庫系統作為後端）是該規範無法移動的原因成為W3C建議。一種潛在的替代存儲標準是IndexedDB。 — \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">閱讀更多\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "本地存儲"
+   },
+   "options_remove_storage_desc": {
+      "message": "DOM存儲（包括本地存儲）旨在提供更大，更安全，更易於使用的替代方法，以將信息存儲在cookie中。 — \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">閱讀更多\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "清潔！"
+   },
+   "popup_clear": {
+      "message": "明確"
+   },
+   "popup_clearing": {
+      "message": "清除中..."
+   },
+   "popup_label_rate": {
+      "message": "請給我們評分！"
+   },
+   "popup_manage": {
+      "message": "選件"
+   }
+}

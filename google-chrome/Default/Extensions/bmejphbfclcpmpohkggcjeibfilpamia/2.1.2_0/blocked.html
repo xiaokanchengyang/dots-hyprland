@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Site Blocked - Netcraft Extension</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link
+            rel="stylesheet"
+            type="text/css"
+            href="Style/common.css"
+        />
+        <link
+            rel="stylesheet"
+            type="text/css"
+            href="Style/blocked.css"
+        />
+
+        <script type="text/javascript" src="JavaScript/pages/blocked.js"></script>
+    </head>
+    <body>
+        <div class="main-grid">
+            <div class="error-container">
+                <img
+                    alt="Netcraft Logo"
+                    src="Images/logo-white.svg"
+                    class="netcraft-logo"
+                />
+                <div class="title">
+                    <p id="title">Suspected Malicious Page</p>
+                </div>
+
+                <div class="left-align">
+                    <p class="resourceInformation" id="resourceInformation">This page <span id="crime"></span> the following resource: <span class="url fixed-width" id="resource"></span></p>
+                </div>
+
+                <div class="left-align">
+                    <p class="resourceInformation" id="leakInformation">An attempt to send data to the following domain was blocked: <span class="url fixed-width" id="dropDomain"></span></p>
+                </div>
+
+                <div class="left-align">
+                    <p>This page has been blocked by the Netcraft Extension.</p>
+                </div>
+
+                <div class="left-align">
+                    <p class="additionalInformation" id="additionalInformation"></p>
+                </div>
+
+                <div class="left-align" id="urlContainer">
+                    Blocked URL:
+                    <span class="url fixed-width" id="url"></span>
+                </div>
+
+                <div class="right-align">
+                    <p>
+                        <button class="white-text-button" id="markSafe">
+                            Report mistake
+                        </button>
+                    </p>
+                </div>
+                <div class="right-align">
+                    <p>
+                        <button class="white-text-button" id="visit">
+                            Visit anyway
+                        </button>
+                    </p>
+                </div>
+                <div>
+                    <ul class="social-links">
+                        <li class="social-links__item">
+                            <a id="shareReddit" title="Submit to Reddit" target="_blank" rel="noopener noreferrer">
+                                <img class="social-links-icon" src="Images/FontAwesome/reddit-alien.svg" title="Reddit">
+                            </a>
+                        </li>
+                        <li class="social-links__item">
+                            <a id="shareTwitter" title="Share on Twitter" target="_blank" rel="noopener noreferrer">
+                                <img class="social-links-icon" src="Images/FontAwesome/twitter.svg" title="Twitter">
+                            </a>
+                        </li>
+                        <li class="social-links__item">
+                            <a id="shareFacebook" title="Share on Facebook" target="_blank" rel="noopener noreferrer">
+                                <img class="social-links-icon" src="Images/FontAwesome/facebook-f.svg" title="Facebook">
+                            </a>
+                        </li>
+                        <li class="social-links__item">
+                            <a id="shareLinkedIn" title="Share on LinkedIn" target="_blank" rel="noopener noreferrer">
+                                <img class="social-links-icon" src="Images/FontAwesome/linkedin-in.svg" title="LinkedIn">
+                            </a>
+                        </li>
+                        <li class="social-links__item">
+                            <a id="shareHackerNews" title="Submit to Hacker News" target="_blank" rel="noopener noreferrer">
+                                <img class="social-links-icon" src="Images/FontAwesome/hacker-news.svg" title="YCombinator">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <p>
+                    <a href="#" target="_blank" rel="noopener noreferrer" id="rate">
+                        Rate Netcraft
+                    </a>
+                </p>
+            </div>
+        </div>
+        <footer>Copyright &copy; Netcraft Ltd. All rights reserved.</footer>
+    </body>
+</html>

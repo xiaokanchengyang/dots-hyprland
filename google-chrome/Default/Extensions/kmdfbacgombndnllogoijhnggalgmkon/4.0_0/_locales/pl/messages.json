@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "Sprawdź stronę internetową w poszukiwaniu wirusów / złośliwego"
+   },
+   "city": {
+      "message": "Miasto"
+   },
+   "clickHere": {
+      "message": "kliknij tutaj"
+   },
+   "commentPage": {
+      "message": "Prosimy zostawić swoje komentarze na temat tej strony"
+   },
+   "commentWebsite": {
+      "message": "Prosimy zostawić swoje opinie o aktualnej witryny"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "embedCode": {
+      "message": "Umieścić ten wpis na swojej stronie / blogu po prostu skopiuj poniższy kod HTML poniżej i umieść go na swojej stronie internetowej"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "Host"
+   },
+   "hostingCompany": {
+      "message": "Firma Hosting"
+   },
+   "hostingOwner": {
+      "message": "Hosting/Właściciel"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "Adres IP"
+   },
+   "ipv4": {
+      "message": "Adres IPv4"
+   },
+   "ipv6": {
+      "message": "Adres IPv6"
+   },
+   "location": {
+      "message": "Położenie"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "Brak danych"
+   },
+   "nsServers": {
+      "message": "NS Serwery"
+   },
+   "otherSites": {
+      "message": "Inne strony na IP"
+   },
+   "owner": {
+      "message": "Właściciel"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "Czytać i pisać komentarze na temat tego bieżącej strony (lub o produktach na tej stronie)"
+   },
+   "permLink": {
+      "message": "Link do komentarzy"
+   },
+   "popularity": {
+      "message": "Popularność"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "Opinie o stronie"
+   },
+   "reviewsWebsite": {
+      "message": "Ogólne Opinie internetowa"
+   },
+   "safeWeb": {
+      "message": "Norton Antywirus"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "zobacz kraj"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "odwiedzających dziennie"
+   },
+   "website": {
+      "message": "Website"
+   },
+   "websitePopularity": {
+      "message": "Popularność strony internetowej (w przybliżeniu)"
+   },
+   "websiteReview": {
+      "message": "Opinie internetowa"
+   },
+   "websiteReviewHint": {
+      "message": "Czytać i pisać opinie o tej witrynie internetowej"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "Popularny Świat Ocena Website"
+   },
+   "worldRanking": {
+      "message": "Popularny Świat WWW Ocena (Alexa)"
+   },
+   "worldRankingHint": {
+      "message": "Schemat ten wyświetla ranking strony tylko wtedy, gdy jest on umieszczony w górnym 100.000 najczęściej odwiedzanych stron internetowych na całym świecie. . Jeśli witryna ma obecnie pozycję w rankingu poniżej 100000 nie będzie widać żadnych danych i nie trzeba kliknąć na ten schemat, aby zobaczyć na stronie swoją aktualną pozycję w rankingu UNESCO \n najczęściej odwiedzanych stron - Alexa Ranking - \n # 1 - Facebook \n # 2 - Google \n # 3 - Youtube \n ... ... \n ... # 1000 - Icloud.com (około 250.000 odwiedzających dziennie) \n ... # 5000 - Totaljobs (około 40.000 odwiedzających dziennie) \n ... # 10000 - Akamai (około 25.000 odwiedzających dziennie) \n ... # 50000 - Wikitree (około 10.000 odwiedzających dziennie) \n ... # 100000 - Transpole (około 5000 odwiedzających dziennie) \n ... # 300000 - Tweaktv (około 3000 odwiedzających dziennie) \n ... # 600000 - Springest (około 1300 odwiedzin dziennie) \n ... # 1000000 - Elain (około 250 odwiedzających dziennie) \n ... ..."
+   }
+}

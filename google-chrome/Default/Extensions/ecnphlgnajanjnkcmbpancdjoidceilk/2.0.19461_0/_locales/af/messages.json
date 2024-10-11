@@ -1,0 +1,41 @@
+{
+   "AnnotateWithKami": {
+      "message": "Annoteer met Kami"
+   },
+   "CheckingAssignmentType": {
+      "message": "Gaan tans opdragtipe na …"
+   },
+   "GotIt": {
+      "message": "Het dit"
+   },
+   "GradeWithKami": {
+      "message": "Gradeer met Kami"
+   },
+   "KamiAssignment": {
+      "message": "Kami-opdrag"
+   },
+   "KamiIsAttachingYourFile": {
+      "message": "Kami heg tans jou lêer aan"
+   },
+   "LearnMore": {
+      "message": "Meer inligting"
+   },
+   "MakeEditsToAssignedWorkAndPublishChangesToAllStudentsCopies": {
+      "message": "Wysig werk wat toegewys is en publiseer veranderinge na alle studente se afskrifte."
+   },
+   "OpenWithKami": {
+      "message": "Maak oop met Kami"
+   },
+   "PleaseKeepThisWindowOpenAndOnTop": {
+      "message": "Hou asseblief hierdie venster oop en aan die bokant"
+   },
+   "UnknownErrorCouldNotGetMessageFromErrorCard": {
+      "message": "Onbekende fout: Kon nie die boodskap vanaf die foutkaart kry nie"
+   },
+   "UpdateWithKami": {
+      "message": "Dateer op met Kami"
+   },
+   "UpdateWork": {
+      "message": "Dateer werk op"
+   }
+}

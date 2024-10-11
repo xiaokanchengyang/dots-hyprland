@@ -1,0 +1,7 @@
+<application>
+  <component name="UISettings">
+    <option name="COLOR_BLINDNESS" value="deuteranopia" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="CONTRAST_SCROLLBARS" value="true" />
+  </component>
+</application>

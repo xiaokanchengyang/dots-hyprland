@@ -1,0 +1,2 @@
+import{m as o}from"./DieEiE9e.js";import{l as r}from"./BAD7DE-7.js";const t=l=>o.jsx(r,{icon:o.jsx("svg",{xmlns:"http://www.w3.org/2000/svg",width:"100%",height:"100%",fill:"none",viewBox:"0 0 40 40",children:o.jsx("path",{fill:"currentColor",d:"m26.458 15-6.466 6.467L13.525 15a1.66 1.66 0 0 0-2.35 0c-.65.65-.65 1.7 0 2.35l7.65 7.65c.65.65 1.7.65 2.35 0l7.65-7.65c.65-.65.65-1.7 0-2.35-.65-.633-1.717-.65-2.367 0Z"})}),...l});t.displayName="IconCaretDown";export{t as n};
+//# sourceMappingURL=wJ2w6DWc.js.map

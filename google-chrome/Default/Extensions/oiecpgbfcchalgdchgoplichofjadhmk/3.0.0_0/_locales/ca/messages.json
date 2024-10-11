@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Netegeu l&#39;historial, la memòria cau i les galetes del navegador per a Google Chrome amb un sol clic."
+   },
+   "app_name": {
+      "message": "Netejador d&#39;història i cau"
+   },
+   "options_common": {
+      "message": "Opcions comunes"
+   },
+   "options_common_1": {
+      "message": "Torneu a carregar automàticament la pestanya activa després d’esborrar-la"
+   },
+   "options_common_2": {
+      "message": "Botó flotant \"Cache Cleaner\" a totes les pàgines"
+   },
+   "options_everything": {
+      "message": "Tot"
+   },
+   "options_header": {
+      "message": "OPCIONS"
+   },
+   "options_last_day": {
+      "message": "L'últim dia"
+   },
+   "options_last_hour": {
+      "message": "Última hora"
+   },
+   "options_last_month": {
+      "message": "El mes passat"
+   },
+   "options_last_week": {
+      "message": "La setmana passada"
+   },
+   "options_remove": {
+      "message": "Dades per eliminar"
+   },
+   "options_remove_appcache": {
+      "message": "Memòria cau de l'aplicació"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 proporciona un mecanisme d’emmagatzematge en memòria cau d’aplicacions que permet que les aplicacions basades en web s’executin fora de línia. Els desenvolupadors poden utilitzar la interfície Cache d’aplicacions (AppCache) per especificar recursos que el navegador hauria de posar en memòria cau i posar a disposició dels usuaris fora de línia. Les aplicacions que es carreguen en memòria cau funcionen correctament, fins i tot si els usuaris fan clic al botó d’actualització quan no estan fora de línia. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">Llegir més\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "Cache"
+   },
+   "options_remove_cache_desc": {
+      "message": "El text de les pàgines web que heu visitat a Google Chrome s’elimina del vostre ordinador. Els navegadors emmagatzemen elements de les pàgines web per accelerar la càrrega de la pàgina web durant la propera visita. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Llegir més\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "Cookies"
+   },
+   "options_remove_cookies_desc": {
+      "message": "Arxius emmagatzemats al vostre ordinador per llocs web que heu visitat. Aquests fitxers contenen informació de l’usuari, com ara preferències de llocs web o informació de perfil. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Llegir més\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(opcions)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "Netegeu només el següent (ràpid)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "No esborreu el següent (lent)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "No hi ha filtres definits"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "Afegeix domini"
+   },
+   "options_remove_db": {
+      "message": "DB indexat"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB és una API per a l'emmagatzematge al costat del client de quantitats importants de dades estructurades, que també permet cercar aquestes dades d'alt rendiment mitjançant índexs. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">Llegir més\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "Descàrregues"
+   },
+   "options_remove_downloads_desc": {
+      "message": "S'elimina la llista de fitxers que heu baixat mitjançant Google Chrome, però no se suprimeixen del vostre ordinador. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Llegir més\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "Formulari de dades"
+   },
+   "options_remove_forms_desc": {
+      "message": "S'eliminaran totes les entrades d'emplenament automàtic i els registres de text que heu introduït als formularis web. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Llegir més\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "Sistemes d’arxius"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Les aplicacions de Chrome poden utilitzar] l'API de chrome.fileSystem per crear, llegir, navegar i escriure al sistema de fitxers local de l'usuari. Amb aquesta API, Chrome Apps pot llegir i escriure en una ubicació seleccionada per l’usuari. Per exemple, una aplicació d’editor de text pot utilitzar l’API per llegir i escriure documents locals. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">Llegiu\u003C/a> - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">ne més\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "Història"
+   },
+   "options_remove_history_desc": {
+      "message": "El fet d’esborrar l’historial de navegació elimina específicament el següent: Adreces web que heu visitat de la pàgina d’Historial, text de la memòria cau d’aquestes pàgines, Captures d’interès d’aquestes pàgines per a les imatges que apareixen a la pàgina de la pestanya nova, les adreces IP prèviament obtingudes d’aquestes pàgines. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Llegir més\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "Contrasenyes"
+   },
+   "options_remove_passwords_desc": {
+      "message": "S'eliminaran els registres dels noms d'usuari i de les contrasenyes. Si utilitzeu un Mac, els registres de contrasenya se suprimeixen de Keychain Access. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Llegir més\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "Dades del complement"
+   },
+   "options_remove_plugin_desc": {
+      "message": "Qualsevol dada del client emmagatzemada per plug-in que utilitzi l'API NPAPI ClearSiteData. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">Llegir més\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Web SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "Base de dades Web SQL és una API de pàgina web per emmagatzemar dades a bases de dades que es poden consultar amb una variant de SQL. [...] El grup de treball per a aplicacions web del W3C va deixar de funcionar en l'especificació el novembre de 2010, tot citant una falta d'implementacions independents (és a dir, l'ús d'un sistema de bases de dades que no sigui SQLite com a backend) com a motiu pel qual l'especificació no es podia moure. endavant es convertirà en una Recomanació del W3C. Un estàndard d’emmagatzematge alternatiu potencial és IndexedDB. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">Llegir més\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "Emmagatzematge local"
+   },
+   "options_remove_storage_desc": {
+      "message": "Emmagatzematge DOM [que inclou emmagatzematge local] està dissenyat per proporcionar una alternativa més gran, més segura i fàcil d’utilitzar per emmagatzemar informació a les cookies. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">Llegir més\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "Neteja!"
+   },
+   "popup_clear": {
+      "message": "Clar"
+   },
+   "popup_clearing": {
+      "message": "S'estan eliminant ..."
+   },
+   "popup_label_rate": {
+      "message": "Valoreu-nos!"
+   },
+   "popup_manage": {
+      "message": "Opcions"
+   }
+}

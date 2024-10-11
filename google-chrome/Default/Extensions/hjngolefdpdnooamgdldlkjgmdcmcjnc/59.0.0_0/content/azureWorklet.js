@@ -1,0 +1,1 @@
+(()=>{class s extends AudioWorkletProcessor{constructor(s){super(s)}process(s,r){for(var e=s[0],o=[],t=0;t<e.length;t+=1)o[t]=e[t];return this.port.postMessage(o[0]),!0}}registerProcessor("speech-processor",s)})();

@@ -1,0 +1,159 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	outline: none;
+}
+
+@font-face {
+	font-family: 'UniNeueBook';
+	src: url("../fonts/UniNeueBook.otf");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'UniNeueHeavy';
+	src: url("../fonts/UniNeueHeavy.otf");
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	font-family: 'Monda', sans-serif;
+	font-size: 18px;
+	color: #5d7ce0;
+	background: #191919;
+	width: 420px;
+}
+
+b {
+	font-family: 'Monda', sans-serif;
+}
+
+.white-box {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100px;
+}
+
+.logo {
+	width: 280px;
+	height: 72px;
+	background: url(/img/Logo-for-light-bg.svg) center/contain no-repeat;
+}
+
+#logo {
+	padding-right: 0px;
+	width: 350px;
+	display: inline-block;
+}
+
+.gray-box {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: #cbcdd0;
+	height: 60px;
+	margin-top: 50px;
+}
+
+.btns-box {
+	border: 1px solid transparent;
+	border-radius: 4px;
+	margin-top: -60px;
+	
+}
+
+.btns-box .btn {
+	width: 170px;
+	border-radius: 4px;
+	align-items: center;
+	justify-content: center;
+	cursor: pointer;
+}
+
+.options-icon {
+	width: 25px;
+	height: 25px;
+	margin-right: 10px;
+}
+
+.navbar-nav>li {
+  
+  position: relative;
+  display: block;
+  
+  border-radius: 5px;
+  
+  color: #fff;
+  min-width: 50px;
+  text-align: center;
+}
+#default {
+  width: 42px;
+  display: inline-block;
+  height: 36px;
+}
+
+#default .btn-lg{
+  padding:5px 7px;
+}
+
+.btn {
+  z-index: 1;
+  
+  & + & {
+    margin-left: 1em;
+  }
+}
+
+
+.completed {
+  animation: buttonpop 0.4s cubic-bezier(.19,.74,.61,.96);
+  z-index: 2;
+}
+
+@keyframes buttonpop {
+  0% {
+	  transform:scale(1,1);
+  }
+  40% {
+	  transform:scale(1.2, 1.2);
+  }
+  60% {
+	  transform:scale(1.2, 1.2);
+  }
+  100% {
+	  transform:scale(1,1);
+  } 
+}
+
+.teaser {
+	display: block;
+	height: 100px;
+	background: #cbcdd0;
+	border: none;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-decoration: none;
+	color: black;
+	font-size: 1.2rem;
+	transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+  
+  .teaser:hover {
+	background-color: #3e3b3b;
+	text-decoration:none;
+	color:#c0c0c0;
+  }
+  
+  .teaser .five-stars{
+	color:#f1ea11;
+	font-size:43px;
+	line-height:22px;
+}
+

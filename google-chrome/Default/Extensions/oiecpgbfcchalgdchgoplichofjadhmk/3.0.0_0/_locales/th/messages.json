@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "ล้างประวัติเบราว์เซอร์แคชและคุกกี้สำหรับ Google Chrome ได้ในคลิกเดียว!"
+   },
+   "app_name": {
+      "message": "ทำความสะอาดประวัติ &amp; แคช"
+   },
+   "options_common": {
+      "message": "ตัวเลือกทั่วไป"
+   },
+   "options_common_1": {
+      "message": "โหลดแท็บที่ใช้งานใหม่โดยอัตโนมัติหลังจากการล้าง"
+   },
+   "options_common_2": {
+      "message": "ปุ่มลอย \"Cache Cleaner\" ในทุกหน้า"
+   },
+   "options_everything": {
+      "message": "ทุกอย่าง"
+   },
+   "options_header": {
+      "message": "ตัวเลือก"
+   },
+   "options_last_day": {
+      "message": "วันสุดท้าย"
+   },
+   "options_last_hour": {
+      "message": "ชั่วโมงสุดท้าย"
+   },
+   "options_last_month": {
+      "message": "เดือนที่แล้ว"
+   },
+   "options_last_week": {
+      "message": "อาทิตย์ที่แล้ว"
+   },
+   "options_remove": {
+      "message": "ข้อมูลที่จะลบ"
+   },
+   "options_remove_appcache": {
+      "message": "แอพแคช"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 มีกลไกการแคชแอปพลิเคชันที่ช่วยให้แอปพลิเคชันบนเว็บทำงานแบบออฟไลน์ นักพัฒนาสามารถใช้อินเทอร์เฟซของแอปพลิเคชันแคช (AppCache) เพื่อระบุทรัพยากรที่เบราว์เซอร์ควรแคชและทำให้ผู้ใช้ออฟไลน์พร้อมใช้งาน แอปพลิเคชันที่แคชโหลดและทำงานอย่างถูกต้องแม้ว่าผู้ใช้จะคลิกปุ่มรีเฟรชเมื่อออฟไลน์ - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">อ่านเพิ่มเติม\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "ขุมทรัพย์"
+   },
+   "options_remove_cache_desc": {
+      "message": "ข้อความของหน้าเว็บที่คุณเข้าชมใน Google Chrome ถูกลบออกจากคอมพิวเตอร์ของคุณ เบราว์เซอร์จัดเก็บองค์ประกอบของหน้าเว็บเพื่อเพิ่มความเร็วในการโหลดหน้าเว็บในระหว่างที่คุณเยี่ยมชมครั้งต่อไป - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">อ่านเพิ่มเติม\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "คุ้กกี้"
+   },
+   "options_remove_cookies_desc": {
+      "message": "ไฟล์ที่เก็บไว้ในคอมพิวเตอร์ของคุณโดยเว็บไซต์ที่คุณเคยเข้าชม ไฟล์เหล่านี้มีข้อมูลผู้ใช้เช่นค่ากำหนดสำหรับเว็บไซต์หรือข้อมูลโปรไฟล์ - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">อ่านเพิ่มเติม\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(ตัวเลือก)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "ล้างเฉพาะสิ่งต่อไปนี้ (เร็ว)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "อย่าล้างข้อมูลต่อไปนี้ (ช้า)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "ไม่ได้กำหนดตัวกรอง"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "เพิ่มโดเมน"
+   },
+   "options_remove_db": {
+      "message": "ฐานข้อมูลดัชนี"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB เป็น API สำหรับการจัดเก็บข้อมูลฝั่งลูกค้าจำนวนมากของข้อมูลที่มีโครงสร้างซึ่งยังช่วยให้การค้นหาประสิทธิภาพสูงของข้อมูลนี้โดยใช้ดัชนี - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">อ่านเพิ่มเติม\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "ดาวน์โหลด"
+   },
+   "options_remove_downloads_desc": {
+      "message": "รายการไฟล์ที่คุณดาวน์โหลดด้วย Google Chrome จะถูกล้าง แต่ไฟล์จริงจะไม่ถูกลบออกจากคอมพิวเตอร์ของคุณ - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">อ่านเพิ่มเติม\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "แบบฟอร์มข้อมูล"
+   },
+   "options_remove_forms_desc": {
+      "message": "รายการป้อนอัตโนมัติและบันทึกข้อความทั้งหมดที่คุณป้อนในเว็บฟอร์มจะถูกลบ - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">อ่านเพิ่มเติม\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "ระบบไฟล์"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Chrome Apps อาจใช้] chrome.fileSystem API เพื่อสร้างอ่านนำทางและเขียนไปยังระบบไฟล์ของผู้ใช้ ด้วย API นี้ Chrome Apps สามารถอ่านและเขียนไปยังตำแหน่งที่ผู้ใช้เลือก ตัวอย่างเช่นแอปตัวแก้ไขข้อความสามารถใช้ API เพื่ออ่านและเขียนเอกสารท้องถิ่น [... ] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">อ่านเพิ่มเติม\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "ประวัติศาสตร์"
+   },
+   "options_remove_history_desc": {
+      "message": "การล้างประวัติการเข้าชมของคุณจะลบเฉพาะรายการต่อไปนี้: ที่อยู่เว็บที่คุณเข้าชมจากหน้าประวัติข้อความแคชของหน้าเหล่านั้นภาพรวมของหน้าเหล่านั้นสำหรับภาพที่ปรากฏบนหน้าแท็บใหม่ที่อยู่ IP ใด ๆ ที่ดึงมาล่วงหน้าจากหน้าเหล่านั้น - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">อ่านเพิ่มเติม\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "รหัสผ่าน"
+   },
+   "options_remove_passwords_desc": {
+      "message": "บันทึกชื่อผู้ใช้และรหัสผ่านจะถูกลบ หากคุณใช้ Mac บันทึกรหัสผ่านของคุณจะถูกลบออกจาก Keychain Access - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">อ่านเพิ่มเติม\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "ข้อมูลปลั๊กอิน"
+   },
+   "options_remove_plugin_desc": {
+      "message": "ข้อมูลฝั่งไคลเอ็นต์ใด ๆ ที่จัดเก็บโดยปลั๊กอินที่ใช้ NPAPI ClearSiteData API - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">อ่านเพิ่มเติม\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "เว็บ SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "ฐานข้อมูล Web SQL เป็น API ของเว็บเพจสำหรับการจัดเก็บข้อมูลในฐานข้อมูลที่สามารถสอบถามได้โดยใช้ตัวแปร SQL [... ] W3C Web Applications Working Group หยุดการทำงานกับข้อมูลจำเพาะในเดือนพฤศจิกายน 2010 โดยอ้างว่าไม่มีการใช้งานที่เป็นอิสระ (เช่นการใช้ระบบฐานข้อมูลอื่นนอกเหนือจาก SQLite เป็นแบ็กเอนด์) เนื่องจากเหตุผลที่สเปคไม่สามารถเคลื่อนย้ายได้ ไปข้างหน้าเพื่อเป็นคำแนะนำของ W3C มาตรฐานหน่วยเก็บข้อมูลทางเลือกหนึ่งที่มีศักยภาพคือ IndexedDB - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">อ่านเพิ่มเติม\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "การจัดเก็บในท้องถิ่น"
+   },
+   "options_remove_storage_desc": {
+      "message": "DOM Storage [ซึ่งรวมถึง Local Storage] ได้รับการออกแบบมาเพื่อมอบทางเลือกที่มีขนาดใหญ่ขึ้นปลอดภัยขึ้นและง่ายต่อการใช้งานในการจัดเก็บข้อมูลในคุกกี้ - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">อ่านเพิ่มเติม\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "Clean!"
+   },
+   "popup_clear": {
+      "message": "ชัดเจน"
+   },
+   "popup_clearing": {
+      "message": "ลบ ..."
+   },
+   "popup_label_rate": {
+      "message": "กรุณาให้คะแนนเรา!"
+   },
+   "popup_manage": {
+      "message": "ตัวเลือก"
+   }
+}

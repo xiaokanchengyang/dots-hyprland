@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "Проверить вебсайт на вирусы"
+   },
+   "city": {
+      "message": "Город"
+   },
+   "clickHere": {
+      "message": "смотреть"
+   },
+   "commentPage": {
+      "message": "Пожалуйста, не стесняйтесь оставлять свои комментарии об этой веб-странице"
+   },
+   "commentWebsite": {
+      "message": "Пожалуйста, не стесняйтесь оставить свои отзывы о текущем веб-сайте"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "embedCode": {
+      "message": "Чтобы разместить этот обзор на своем сайте / блоге просто скопируйте следующий HTML-код и разместите его на своей веб-странице"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "Хост"
+   },
+   "hostingCompany": {
+      "message": "Хостинг Компания"
+   },
+   "hostingOwner": {
+      "message": "Хостинг/Владелец"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "IP Адрес"
+   },
+   "ipv4": {
+      "message": "IPv4 Адрес"
+   },
+   "ipv6": {
+      "message": "IPv6 Адрес"
+   },
+   "location": {
+      "message": "Местоположение"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "Нет данных"
+   },
+   "nsServers": {
+      "message": "NS Сервера"
+   },
+   "otherSites": {
+      "message": "Другие сайты на IP"
+   },
+   "owner": {
+      "message": "Владелец"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "Читайте и пишите комментарии об этой текущей странице (или о продукции на этой странице)"
+   },
+   "permLink": {
+      "message": "Постоянная ссылка на комментарии"
+   },
+   "popularity": {
+      "message": "Популярность"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "Комментарии о странице"
+   },
+   "reviewsWebsite": {
+      "message": "Общие отзывы о сайте"
+   },
+   "safeWeb": {
+      "message": "Norton Антивирус"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "смотрите страну"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "посетителей в день"
+   },
+   "website": {
+      "message": "Вебсайт"
+   },
+   "websitePopularity": {
+      "message": "Популярность сайта (примерно)"
+   },
+   "websiteReview": {
+      "message": "Вебсайт отзывы"
+   },
+   "websiteReviewHint": {
+      "message": "Читайте и пишите отзывы oб этом вебсайте"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "Мировой рейтинг популярности сайта"
+   },
+   "worldRanking": {
+      "message": "Позиция сайта в мировом рейтинге (Alexa)"
+   },
+   "worldRankingHint": {
+      "message": "Эта диаграмма показывает позицию вебсайта в мировом рейтинге популярности, если вебсайт входит в число 100,000 наиболее посещаемых вебсайтов во всем мире. Если положение вебсайта в рейтинге ниже 100,000, вы не видите каких-либо данных, и вам надо кликнуть на эту диаграмму, чтобы видеть текущее положение сайта в мировом рейтинге. \n Наиболее посещаемые вебсайты - Alexa Рейтинг -\n#1 - Facebook\n#2 - Google\n#3 - Youtube\n... ...\n... #1,000 - Icloud (около 250,000 посетителей в день)\n... #5,000 - Totaljobs (около 40,000 посетителей в день)\n... #10,000 - Akamai (около 25,000 польз. в день)\n... #50,000 - Wikitree (около 10,000 польз. в день)\n... #100,000 - Transpole (около 5,000 польз. в день)\n... #300,000 - Tweaktv (около 3,000 польз. в день)\n... #600,000 - Springest (около 1,300 польз. в день)\n... #1,000,000 - Elain (около 250 посетителей в день)\n... ..."
+   }
+}

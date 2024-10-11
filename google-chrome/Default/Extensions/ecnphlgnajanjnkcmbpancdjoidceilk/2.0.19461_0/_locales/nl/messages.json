@@ -1,0 +1,44 @@
+{
+   "AnnotateWithKami": {
+      "message": "Aantekeningen maken met Kami"
+   },
+   "CheckingAssignmentType": {
+      "message": "Opdrachttype controleren..."
+   },
+   "ClassView": {
+      "message": "Klasweergave"
+   },
+   "GotIt": {
+      "message": "Begrepen"
+   },
+   "GradeWithKami": {
+      "message": "Beoordelen met Kami"
+   },
+   "KamiAssignment": {
+      "message": "Kami-opdracht"
+   },
+   "KamiIsAttachingYourFile": {
+      "message": "Kami voegt je bestand toe"
+   },
+   "LearnMore": {
+      "message": "Meer informatie"
+   },
+   "MakeEditsToAssignedWorkAndPublishChangesToAllStudentsCopies": {
+      "message": "Pas het opgegeven werk aan en publiceer de wijzigingen in de documenten van alle leerlingen."
+   },
+   "OpenWithKami": {
+      "message": "Openen met Kami"
+   },
+   "PleaseKeepThisWindowOpenAndOnTop": {
+      "message": "Houd dit venster open en bovenaan"
+   },
+   "UnknownErrorCouldNotGetMessageFromErrorCard": {
+      "message": "Onbekende fout: kon bericht niet ophalen van foutenkaart"
+   },
+   "UpdateWithKami": {
+      "message": "Aanpassen met Kami"
+   },
+   "UpdateWork": {
+      "message": "Werk aanpassen"
+   }
+}

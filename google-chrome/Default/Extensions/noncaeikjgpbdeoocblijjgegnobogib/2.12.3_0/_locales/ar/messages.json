@@ -1,0 +1,149 @@
+{
+   "addErrorBad": {
+      "message": "تعذرت الإضافة."
+   },
+   "addErrorDupp": {
+      "message": "تمت الإضافة بالفعل."
+   },
+   "addFavoritesLabel": {
+      "message": "قائمة المفضلة"
+   },
+   "addSkippedLabel": {
+      "message": "قائمة التجاهل"
+   },
+   "addSuccess": {
+      "message": "تمت الإضافة."
+   },
+   "addTranslateDbg": {
+      "message": "إضافة [example.org] إلى [قائمة المفضلة]"
+   },
+   "addVerb": {
+      "description": "part of 'Add example.org to Favorites List' sentence",
+      "message": "إضافة"
+   },
+   "adjust": {
+      "message": "المزيد من الإعدادات..."
+   },
+   "adjustColorsHeader": {
+      "message": "ضبط لون التظليل"
+   },
+   "adjustOnlineDicts": {
+      "message": "ضبط قواميس الإنترنت لقائمة المرور بالفأرة وقائمة السياق"
+   },
+   "adjustPopupHlHeader": {
+      "message": "ضبط القائمة المنبثقة للتعبيرات المظللة"
+   },
+   "adjustPopupOwHeader": {
+      "message": "ضبط القائمة المنبثقة للتعبيرات غير المظللة"
+   },
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "يظلل الكلمات والعبارات النادرة بالقاموس الموجودة على صفحات الويب ما ييسر تعلم اللغة الإنجليزية ويسوع المفردات."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store. Note to the translator: Do not translate first two words 'Words Discoverer'",
+      "message": "Word Discoverer: وسع مفرداتك"
+   },
+   "dictNameHeader": {
+      "message": "اسم القاموس:"
+   },
+   "dictUrlHeader": {
+      "message": "رابط القاموس:"
+   },
+   "disabledDescription": {
+      "message": "تظليل مواقع \"قائمة المفضلة\" فقط."
+   },
+   "emptyListError": {
+      "message": "هذه القائمة فارغة ;)"
+   },
+   "enableIdiomsLabel": {
+      "message": "تمكين تظليل العبارات"
+   },
+   "enableWordsLabel": {
+      "message": "تمكين تظليل الكلمات"
+   },
+   "enabledDescription": {
+      "message": "تظليل كافة المواقع باستثناء الموجودة في \"قائمة التجاهل\"."
+   },
+   "importInfo": {
+      "message": "ستتم إضافة كلمات جديدة إلى المفردات الحالية."
+   },
+   "loadVocab": {
+      "message": "استيراد المفردات"
+   },
+   "menuItem": {
+      "description": "Text in context menu",
+      "message": "إضافة إلى المفردات"
+   },
+   "rateInfo1": {
+      "description": "1-st part of \"Not highlighting 100 most common English words\" sentence",
+      "message": "لا تظليل"
+   },
+   "rateInfo2": {
+      "description": "2-nd part of \"Not highlighting 100 most common English words\" sentence",
+      "message": "أكثر الكلمات الإنجليزية شعبية"
+   },
+   "rateTranslateDbg": {
+      "message": "عدم تظليل أكثر 100 كلمة شعبية في اللغة الإنجليزية"
+   },
+   "rbAlways": {
+      "message": "عرض القائمة المنبثقة عند المرور بالفأرة"
+   },
+   "rbKey": {
+      "message": "عرض القائمة المنبثقة عند المرور بالفأرة والضغط بزر [Ctrl]"
+   },
+   "rbNever": {
+      "message": "لا تظهر القائمة المنبثقة"
+   },
+   "restoreDefaults": {
+      "message": "استعادة الضبط الافتراضي"
+   },
+   "saveVisuals": {
+      "message": "حفظ"
+   },
+   "saveVocab": {
+      "message": "تصدير المفردات"
+   },
+   "selectFile": {
+      "message": "اختر الملف..."
+   },
+   "showVocab": {
+      "message": "عرض المفردات"
+   },
+   "switchModeLabel": {
+      "message": "تغيير النمط"
+   },
+   "testBtn": {
+      "message": "اختبار"
+   },
+   "tipInfo": {
+      "message": "لإضافة تعبير جديد إلى مفرداتك يمكنك استخدام قائمة المرور بالفأرة، أو قائمة سياق المتصفح (حدد النص + انقر بالزر الأيمن)، أو المدخل التالي:"
+   },
+   "toVerb": {
+      "description": "part of 'Add example.org to Favorites List' sentence",
+      "message": "إلى"
+   },
+   "useBackground": {
+      "message": "استخدام تظليل الخلفية"
+   },
+   "useBold": {
+      "message": "استخدام الخط الغامق"
+   },
+   "useQuotes": {
+      "message": "استخدام علامات الاقتباس (بدلا من التظليل)"
+   },
+   "useText": {
+      "message": "استخدام تظليل النص"
+   },
+   "vocabSizeInfo1": {
+      "description": "1-st part of \"Your vocabulary size: 100 words.\" sentence",
+      "message": "حجم مفرداتك:"
+   },
+   "vocabSizeInfo2": {
+      "description": "2-nd part of \"Your vocabulary size: 100 words.\" sentence",
+      "message": "كلمات:"
+   },
+   "vocabSizeTranslateDbg": {
+      "message": "حجم مفرداتك: 100 كلمة."
+   }
+}

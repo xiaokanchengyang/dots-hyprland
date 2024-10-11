@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "Periksa Website Virus / Malware"
+   },
+   "city": {
+      "message": "Kota"
+   },
+   "clickHere": {
+      "message": "klik di sini"
+   },
+   "commentPage": {
+      "message": "Jangan ragu untuk meninggalkan komentar Anda tentang halaman web"
+   },
+   "commentWebsite": {
+      "message": "Silahkan untuk meninggalkan ulasan tentang situs saat ini"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "embedCode": {
+      "message": "Untuk menempatkan Ulasan ini di website / blog cukup salin kode html berikut di bawah ini dan menempatkannya di halaman web Anda"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "Host"
+   },
+   "hostingCompany": {
+      "message": "Hosting Kompi"
+   },
+   "hostingOwner": {
+      "message": "Hosting/Pemilik"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "Alamat IP"
+   },
+   "ipv4": {
+      "message": "Alamat IPv4"
+   },
+   "ipv6": {
+      "message": "Alamat IPv6"
+   },
+   "location": {
+      "message": "Tempat"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "Tidak ada data"
+   },
+   "nsServers": {
+      "message": "Nama server"
+   },
+   "otherSites": {
+      "message": "Lain situs di IP"
+   },
+   "owner": {
+      "message": "Pemilik"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "Membaca dan menulis komentar tentang halaman saat ini (atau tentang produk di halaman ini)"
+   },
+   "permLink": {
+      "message": "Tetap link ke komentar"
+   },
+   "popularity": {
+      "message": "Popularitas"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "Halaman Web Ulasan"
+   },
+   "reviewsWebsite": {
+      "message": "Umum Situs Ulasan"
+   },
+   "safeWeb": {
+      "message": "Norton Antivirus"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "melihat negara"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "pengunjung per hari"
+   },
+   "website": {
+      "message": "Situs web"
+   },
+   "websitePopularity": {
+      "message": "Popularitas Website (Sekitar)"
+   },
+   "websiteReview": {
+      "message": "Situs Ulasan"
+   },
+   "websiteReviewHint": {
+      "message": "Membaca dan menulis ulasan tentang situs ini"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "Situs Populer Dunia Penilaian"
+   },
+   "worldRanking": {
+      "message": "Situs Populer Dunia Penilaian (Alexa)"
+   },
+   "worldRankingHint": {
+      "message": "Diagram ini menampilkan peringkat untuk situs web hanya jika terdaftar di atas 100.000 yang paling banyak dikunjungi website di seluruh dunia. . Jika situs saat ini memiliki posisi peringkat di bawah 100.000 Anda tidak akan melihat data apapun dan Anda akan perlu untuk mengklik pada diagram ini untuk melihat situs posisi saat ini di peringkat situs dunia \n Kebanyakan Website Dikunjungi - Alexa Ranking - \n # 1 - Facebook \n # 2 - Google \n # 3 - Youtube \n ... ... \n ... # 1.000 - Icloud.com (sekitar 250.000 pengunjung per hari) \n ... # 5.000 - Totaljobs (sekitar 40.000 pengunjung per hari) \n ... # 10.000 - Akamai (sekitar 25.000 pengunjung per hari) \n ... # 50.000 - Wikitree (sekitar 10.000 pengunjung per hari) \n ... # 100.000 - Transpole (sekitar 5.000 pengunjung per hari) \n ... # 300.000 - Tweaktv (sekitar 3.000 pengunjung per hari) \n ... # 600.000 - Springest (sekitar 1.300 pengunjung per hari) \n ... # 1.000.000 - Elain (sekitar 250 pengunjung per hari) \n ... ..."
+   }
+}

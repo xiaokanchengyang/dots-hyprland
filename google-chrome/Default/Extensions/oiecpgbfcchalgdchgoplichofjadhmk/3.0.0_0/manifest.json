@@ -1,0 +1,33 @@
+{
+   "action": {
+      "default_icon": {
+         "38": "img/icon_38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "__MSG_app_name__"
+   },
+   "background": {
+      "service_worker": "/js/bg-worker.js"
+   },
+   "default_locale": "en",
+   "description": "__MSG_app_description__",
+   "homepage_url": "https://history-and-cache-clean.freeonlineapps.net",
+   "icons": {
+      "128": "img/icon_128.png",
+      "16": "img/icon_16.png",
+      "48": "img/icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgMwI4a7mdUo1PfSYJNbk/9TBVEW8O5wGwsycZESPeU+tBF2msF5oQXdlEDTUCDetuFW1V2UBC4NgfRp4UZ27gNTSib8sBNPnvjCbiKIw1y2jPeuT4a3nos8cnF3tCiKIH/OS5NmJN29JCrUExI0DxEx2lb9DG9p1HwUflVvp2VhmSYzNz70BGdivLrts3fwttTiGJ0unm18yhliAJj6839muQNUxcxC3Zy47MiAmISlSmQzu5YbDHude7zMQFpZ3R7lokomMdZuxoZqiQHZkIIA2s+8NXYcyAaXGGinxVhpoho/BKe9KsDhEzOfuT1N6tbjndP8KOxk1y1T7nwzRhwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_app_name__",
+   "offline_enabled": true,
+   "options_page": "options.html",
+   "permissions": [ "activeTab", "storage", "browsingData", "cookies" ],
+   "short_name": "history & web cache cleaner",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.0",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "img/*" ]
+   } ]
+}

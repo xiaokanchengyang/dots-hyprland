@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "वायरस / मैलवेयर के लिए एक वेबसाइट की जाँच करें"
+   },
+   "city": {
+      "message": "शहर"
+   },
+   "clickHere": {
+      "message": "यहाँ क्लिक करें"
+   },
+   "commentPage": {
+      "message": "इस वेब पेज के बारे में अपनी टिप्पणी छोड़ने के लिए स्वतंत्र महसूस"
+   },
+   "commentWebsite": {
+      "message": "मौजूदा वेबसाइट के बारे में अपनी समीक्षा छोड़ने के लिए स्वतंत्र महसूस"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "ईमेल"
+   },
+   "embedCode": {
+      "message": "अपनी वेबसाइट / ब्लॉग पर इस समीक्षा को जगह बस निम्नलिखित html नीचे दिए गए कोड को कॉपी करें और अपने वेब पेज में जगह"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "मेज़बान"
+   },
+   "hostingCompany": {
+      "message": "होस्टिंग कंपनी"
+   },
+   "hostingOwner": {
+      "message": "मालिक / होस्टिंग"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "आईपी ​​पता"
+   },
+   "ipv4": {
+      "message": "आईपी ​​v4 पता"
+   },
+   "ipv6": {
+      "message": "आईपी ​​v6 पता"
+   },
+   "location": {
+      "message": "स्थान"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "कोई डेटा नहीं"
+   },
+   "nsServers": {
+      "message": "नाम सर्वर"
+   },
+   "otherSites": {
+      "message": "आईपी पते पर साइटों"
+   },
+   "owner": {
+      "message": "मालिक"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "पढ़ें और इस वर्तमान पृष्ठ (या इस पृष्ठ पर उत्पादों के बारे में) के बारे में टिप्पणी लिखने"
+   },
+   "permLink": {
+      "message": "टिप्पणी करने के लिए स्थायी कड़ी"
+   },
+   "popularity": {
+      "message": "लोकप्रियता"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "वेब पेज समीक्षाएँ"
+   },
+   "reviewsWebsite": {
+      "message": "जनरल वेबसाइट की समीक्षा"
+   },
+   "safeWeb": {
+      "message": "वेब एंटीवायरस"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "देश को देखने"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "प्रति दिन आगंतुकों"
+   },
+   "website": {
+      "message": "वेबसाइट"
+   },
+   "websitePopularity": {
+      "message": "इस वेबसाइट की लोकप्रियता (लगभग)"
+   },
+   "websiteReview": {
+      "message": "वेबसाइट की समीक्षा"
+   },
+   "websiteReviewHint": {
+      "message": "पढ़ें और इस वेबसाइट के बारे में समीक्षा लिखने"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "वेबसाइट की दुनिया में लोकप्रिय रेटिंग"
+   },
+   "worldRanking": {
+      "message": "वेबसाइट विश्व लोकप्रिय रैंकिंग "
+   },
+   "worldRankingHint": {
+      "message": "यह चित्र एक वेबसाइट के लिए एक रैंकिंग दिखाता है सिर्फ अगर यह शीर्ष 100.000 में सूचीबद्ध है सबसे वेबसाइटों दुनिया भर का दौरा किया. यदि साइट वर्तमान में 100.000 के नीचे एक रैंकिंग स्थिति है आप किसी भी डेटा नहीं देख सकते हैं और आप इस चित्र पर क्लिक करने की जरूरत साइट विश्व साइट की रैंकिंग में अपने वर्तमान स्थिति को देखना होगा.\n अधिकांश वेबसाइटों का दौरा किया alexa रैंकिंग -\n#1 - Facebook\n#2 - Google\n#3 - Youtube\n... ...\n#10,000 - Akamai\n... ...\n#300,000 - Tweaktv\n... ..."
+   }
+}

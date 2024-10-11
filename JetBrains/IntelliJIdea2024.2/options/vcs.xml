@@ -1,0 +1,28 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://lws@git.020wenyi.com/r/wyoa_comm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.020wenyi.com" />
+          <option name="userName" value="lws" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="C:\Users\Ending\Desktop" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+</application>

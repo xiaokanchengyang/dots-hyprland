@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "Kiểm tra một trang web cho virus / phần mềm độc hại"
+   },
+   "city": {
+      "message": "Thành phố"
+   },
+   "clickHere": {
+      "message": "nhấn vào đây"
+   },
+   "commentPage": {
+      "message": "Xin vui lòng để lại ý kiến ​​của bạn về trang web này"
+   },
+   "commentWebsite": {
+      "message": "Xin vui lòng để lại đánh giá của bạn về trang web hiện tại"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "embedCode": {
+      "message": "Để đặt này nhận xét trên trang web / blog của bạn chỉ đơn giản là sao chép đoạn mã sau html dưới đây và đặt nó trong trang web của bạn"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "Máy chủ"
+   },
+   "hostingCompany": {
+      "message": "Công ty lưu trữ"
+   },
+   "hostingOwner": {
+      "message": "Lưu trữ/Chủ"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "Địa chỉ IP"
+   },
+   "ipv4": {
+      "message": "Địa chỉ IPv4"
+   },
+   "ipv6": {
+      "message": "Địa chỉ IPv6"
+   },
+   "location": {
+      "message": "Nơi"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "không có dữ liệu"
+   },
+   "nsServers": {
+      "message": "Tên máy chủ"
+   },
+   "otherSites": {
+      "message": "Các trang khác về IP"
+   },
+   "owner": {
+      "message": "Chủ sở hữu"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "Đọc và viết bình luận về điều này trang hiện tại (hoặc về các sản phẩm trên trang này)"
+   },
+   "permLink": {
+      "message": "Liên kết thường trực với ý kiến"
+   },
+   "popularity": {
+      "message": "Phổ biến"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "Trang web Nhận xét"
+   },
+   "reviewsWebsite": {
+      "message": "Trang Của Nhận xét chung"
+   },
+   "safeWeb": {
+      "message": "Web chống virus"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "Thấy đất nước"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "truy cập hàng ngày"
+   },
+   "website": {
+      "message": "Trang web của"
+   },
+   "websitePopularity": {
+      "message": "Trang web phổ biến (khoảng)"
+   },
+   "websiteReview": {
+      "message": "Web Nhận xét"
+   },
+   "websiteReviewHint": {
+      "message": "Đọc và viết các ý kiến về trang web này"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "Thế giới trang web được ưa thích Danh hiệu"
+   },
+   "worldRanking": {
+      "message": "Trang web Thế giới Phổ biến Đánh giá (Alexa)"
+   },
+   "worldRankingHint": {
+      "message": "Sơ đồ này sẽ hiển thị một bảng xếp hạng cho một trang web chỉ khi nó được liệt kê trong top 100.000 truy cập nhiều nhất các trang web trên toàn thế giới. . Trang web nếu trang web hiện đang có một vị trí xếp hạng dưới 100.000 bạn sẽ không thấy bất kỳ dữ liệu và bạn sẽ cần phải bấm vào biểu đồ này để xem trang web vị trí hiện tại trên bảng xếp hạng trang web của thế giới \n truy cập nhiều nhất - Xếp hạng Alexa - \n # 1 - Facebook \n # 2 - Google \n # 3 - Youtube \n ... ... \n ... # 1000 - Icloud.com (khoảng 250.000 khách truy cập mỗi ngày) \n ... # 5000 - Totaljobs (khoảng 40.000 khách truy cập mỗi ngày) \n ... # 10.000 - Akamai (khoảng 25.000 khách truy cập mỗi ngày) \n ... # 50.000 - Wikitree (khoảng 10.000 du khách mỗi ngày) \n ... # 100.000 - Transpole (khoảng 5.000 khách truy cập mỗi ngày) \n ... # 300.000 - Tweaktv (khoảng 3.000 khách truy cập mỗi ngày) \n ... # 600.000 - Springest (khoảng 1.300 khách truy cập mỗi ngày) \n ... # 1.000.000 - Elain (khoảng 250 khách truy cập mỗi ngày) \n ... ..."
+   }
+}

@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "ワンクリックでGoogle Chromeのブラウザー履歴、キャッシュ、Cookieをクリアします！"
+   },
+   "app_name": {
+      "message": "履歴とキャッシュクリーナー"
+   },
+   "options_common": {
+      "message": "共通オプション"
+   },
+   "options_common_1": {
+      "message": "クリア後にアクティブなタブを自動的にリロードする"
+   },
+   "options_common_2": {
+      "message": "すべてのページのフローティングボタン「キャッシュクリーナー」"
+   },
+   "options_everything": {
+      "message": "すべて"
+   },
+   "options_header": {
+      "message": "オプション"
+   },
+   "options_last_day": {
+      "message": "最終日"
+   },
+   "options_last_hour": {
+      "message": "最後の時間"
+   },
+   "options_last_month": {
+      "message": "先月"
+   },
+   "options_last_week": {
+      "message": "先週"
+   },
+   "options_remove": {
+      "message": "削除するデータ"
+   },
+   "options_remove_appcache": {
+      "message": "アプリキャッシュ"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5は、Webベースのアプリケーションをオフラインで実行できるようにするアプリケーションキャッシングメカニズムを提供します。開発者は、アプリケーションキャッシュ（AppCache）インターフェイスを使用して、ブラウザーがキャッシュし、オフラインユーザーが利用できるようにするリソースを指定できます。キャッシュされたアプリケーションは、ユーザーがオフラインのときに更新ボタンをクリックしてもロードされ、正常に動作します。 — \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">続きを読む\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "キャッシュ"
+   },
+   "options_remove_cache_desc": {
+      "message": "Google Chromeでアクセスしたウェブページのテキストはコンピューターから削除されます。ブラウザーはWebページの要素を保存して、次回のアクセス時にWebページの読み込みを高速化します。 — \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">続きを読む\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "クッキー"
+   },
+   "options_remove_cookies_desc": {
+      "message": "アクセスしたWebサイトによってコンピューターに保存されたファイル。これらのファイルには、Webサイトの設定やプロファイル情報などのユーザー情報が含まれています。 — \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">続きを読む\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "（オプション）"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "次のもののみをクリアします（高速）"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "以下をクリアしないでください（遅い）"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "フィルタが定義されていません"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "ドメインを追加"
+   },
+   "options_remove_db": {
+      "message": "インデックス付きDB"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDBは、大量の構造化データをクライアント側で保存するためのAPIであり、インデックスを使用したこのデータの高性能検索も可能にします。 — \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">続きを読む\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "ダウンロード"
+   },
+   "options_remove_downloads_desc": {
+      "message": "Google Chromeを使用してダウンロードしたファイルのリストは消去されますが、実際のファイルはコンピューターから削除されません。 — \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">続きを読む\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "フォームデータ"
+   },
+   "options_remove_forms_desc": {
+      "message": "Webフォームに入力したすべてのオートフィルエントリとテキストのレコードが削除されます。 — \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">続きを読む\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "ファイルシステム"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Chromeアプリで使用可能] chrome.fileSystem APIを使用して、ユーザーのローカルファイルシステムを作成、読み取り、ナビゲート、および書き込みします。このAPIを使用すると、Chromeアプリはユーザーが選択した場所を読み書きできます。たとえば、テキストエディターアプリはAPIを使用してローカルドキュメントの読み取りと書き込みを行うことができます。 [...] — \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">続きを読む\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "歴史"
+   },
+   "options_remove_history_desc": {
+      "message": "閲覧履歴をクリアすると、以下が削除されます：履歴ページからアクセスしたWebアドレス、それらのページのキャッシュテキスト、新しいタブページに表示される画像のそれらのページのスナップショット、それらのページからプリフェッチされたIPアドレス。 — \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">続きを読む\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "パスワード"
+   },
+   "options_remove_passwords_desc": {
+      "message": "ユーザー名とパスワードの記録は削除されます。 Macを使用している場合、パスワードレコードはキーチェーンアクセスから削除されます。 — \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">続きを読む\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "プラグインデータ"
+   },
+   "options_remove_plugin_desc": {
+      "message": "NPAPI ClearSiteData APIを使用するプラグインによって保存されたクライアント側のデータ。 — \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">続きを読む\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Web SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "Web SQL Databaseは、SQLのバリアントを使用して照会できるデータベースにデータを格納するためのWebページAPIです。 [...] W3C Webアプリケーションワーキンググループは、仕様が移動できなかった理由として、独立した実装（つまり、SQLite以外のデータベースシステムをバックエンドとして使用）の欠如を理由に、2010年11月に仕様の作業を中止しましたW3C勧告になります。潜在的な代替ストレージ標準の1つはIndexedDBです。 — \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">続きを読む\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "ローカルストレージ"
+   },
+   "options_remove_storage_desc": {
+      "message": "[ローカルストレージを含む] DOMストレージは、Cookieに情報を保存するための、より大きく、より安全で、使いやすい代替手段を提供するように設計されています。 — \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">続きを読む\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "掃除！"
+   },
+   "popup_clear": {
+      "message": "クリア"
+   },
+   "popup_clearing": {
+      "message": "クリアしています..."
+   },
+   "popup_label_rate": {
+      "message": "評価してください！"
+   },
+   "popup_manage": {
+      "message": "オプション"
+   }
+}

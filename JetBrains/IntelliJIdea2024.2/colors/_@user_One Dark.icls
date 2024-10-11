@@ -1,0 +1,76 @@
+<scheme name="_@user_One Dark" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2021-10-12T15:37:06</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2021.2.2.0.0</property>
+    <property name="modified">2021-10-28T14:33:19</property>
+    <property name="originalScheme">One Dark</property>
+    <property name="partialSave">true</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <colors>
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_COPIED" value="73c990" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="59626f" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
+    <option name="FILESTATUS_MERGED" value="61aeef" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="c679dd" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="98c379" />
+    <option name="FILESTATUS_changelistConflict" value="ff6347" />
+    <option name="FILESTATUS_modifiedOutside" value="61aeef" />
+    <option name="LOOKUP_COLOR" value="3d424b" />
+    <option name="SEPARATOR_BELOW_COLOR" value="" />
+  </colors>
+  <attributes>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="61afef" />
+        <option name="EFFECT_COLOR" value="61afef" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="353940" />
+        <option name="ERROR_STRIPE_COLOR" value="4d78cc" />
+      </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="353940" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

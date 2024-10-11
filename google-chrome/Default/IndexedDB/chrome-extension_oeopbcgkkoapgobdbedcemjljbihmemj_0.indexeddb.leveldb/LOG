@@ -1,0 +1,19 @@
+2024/10/11-15:15:54.182 113a Reusing MANIFEST /home/change/.config/google-chrome/Default/IndexedDB/chrome-extension_oeopbcgkkoapgobdbedcemjljbihmemj_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/11-15:15:54.182 113a Recovering log #24
+2024/10/11-15:15:54.186 113a Reusing old log /home/change/.config/google-chrome/Default/IndexedDB/chrome-extension_oeopbcgkkoapgobdbedcemjljbihmemj_0.indexeddb.leveldb/000024.log 
+2024/10/11-15:16:24.350 1138 Moved #24 to level-1 1068338 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2024/10/11-15:17:54.354 113a Compacting 1@1 + 1@2 files
+2024/10/11-15:17:54.365 113a Generated table #26@1: 71 keys, 31591 bytes
+2024/10/11-15:17:54.365 113a Compacted 1@1 + 1@2 files => 31591 bytes
+2024/10/11-15:17:54.379 113a compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/11-15:17:54.379 113a Delete type=2 #22
+2024/10/11-15:17:54.379 113a Delete type=2 #24
+2024/10/11-15:34:54.898 1151 Level-0 table #28: started
+2024/10/11-15:34:54.915 1151 Level-0 table #28: 4057353 bytes OK
+2024/10/11-15:34:54.929 1151 Delete type=0 #24
+2024/10/11-15:38:24.843 1138 Compacting 1@1 + 1@2 files
+2024/10/11-15:38:24.852 1138 Generated table #29@1: 74 keys, 59304 bytes
+2024/10/11-15:38:24.852 1138 Compacted 1@1 + 1@2 files => 59304 bytes
+2024/10/11-15:38:24.862 1138 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/11-15:38:24.863 1138 Delete type=2 #26
+2024/10/11-15:38:24.863 1138 Delete type=2 #28

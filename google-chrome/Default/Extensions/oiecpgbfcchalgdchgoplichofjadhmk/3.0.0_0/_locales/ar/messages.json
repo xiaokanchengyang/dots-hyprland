@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "امسح سجل المتصفح وذاكرة التخزين المؤقت وملفات تعريف الارتباط لـ Google Chrome بنقرة واحدة فقط!"
+   },
+   "app_name": {
+      "message": "منظف التاريخ والذاكرة المؤقتة"
+   },
+   "options_common": {
+      "message": "خيارات مشتركة"
+   },
+   "options_common_1": {
+      "message": "إعادة تحميل علامة التبويب النشطة تلقائيًا بعد المقاصة"
+   },
+   "options_common_2": {
+      "message": "زر عائم \"منظف ذاكرة التخزين المؤقت\" في جميع الصفحات"
+   },
+   "options_everything": {
+      "message": "كل شىء"
+   },
+   "options_header": {
+      "message": "خيارات"
+   },
+   "options_last_day": {
+      "message": "بالأمس"
+   },
+   "options_last_hour": {
+      "message": "الساعة الأخيرة"
+   },
+   "options_last_month": {
+      "message": "الشهر الماضي"
+   },
+   "options_last_week": {
+      "message": "الاسبوع الماضي"
+   },
+   "options_remove": {
+      "message": "البيانات المراد إزالتها"
+   },
+   "options_remove_appcache": {
+      "message": "ذاكرة التخزين المؤقت للتطبيق"
+   },
+   "options_remove_appcache_desc": {
+      "message": "يوفر HTML5 آلية للتخزين المؤقت للتطبيقات تتيح تشغيل التطبيقات المستندة إلى الويب دون اتصال. يمكن للمطورين استخدام واجهة التطبيق Cache (AppCache) لتحديد الموارد التي يجب على المتصفح تخزينها مؤقتًا وإتاحتها للمستخدمين غير المتصلين. يتم تحميل التطبيقات المخزنة مؤقتًا بشكل صحيح حتى لو قام المستخدمون بالنقر فوق زر التحديث عندما يكونون غير متصلين. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">اقرأ المزيد\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "مخبأ"
+   },
+   "options_remove_cache_desc": {
+      "message": "تتم إزالة نص صفحات الويب التي قمت بزيارتها في Google Chrome من جهاز الكمبيوتر الخاص بك. تخزن المستعرضات عناصر صفحات الويب لتسريع تحميل صفحة الويب أثناء زيارتك القادمة. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">اقرأ المزيد\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "بسكويت"
+   },
+   "options_remove_cookies_desc": {
+      "message": "الملفات المخزنة على جهاز الكمبيوتر الخاص بك عن طريق المواقع التي قمت بزيارتها. تحتوي هذه الملفات على معلومات المستخدم ، مثل تفضيلات مواقع الويب أو معلومات الملف الشخصي. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">اقرأ المزيد\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(خيارات)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "امسح فقط التالي (سريع)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "لا تمسح ما يلي (بطيء)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "لا مرشحات محددة"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "إضافة المجال"
+   },
+   "options_remove_db": {
+      "message": "DB مفهرسة"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB هو واجهة برمجة تطبيقات للتخزين من جانب العميل لكميات كبيرة من البيانات المهيكلة ، والتي تتيح أيضًا عمليات البحث عالية الأداء لهذه البيانات باستخدام الفهارس. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">اقرأ المزيد\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "التحميلات"
+   },
+   "options_remove_downloads_desc": {
+      "message": "يتم مسح قائمة الملفات التي قمت بتنزيلها باستخدام Google Chrome ، ولكن لا تتم إزالة الملفات الفعلية من جهاز الكمبيوتر الخاص بك. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">اقرأ المزيد\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "بيانات النموذج"
+   },
+   "options_remove_forms_desc": {
+      "message": "يتم حذف جميع إدخالات الملء التلقائي وسجلات النص التي أدخلتها في نماذج الويب. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">اقرأ المزيد\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "أنظمة الملفات"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[قد تستخدم تطبيقات Chrome] chrome.fileSystem API لإنشاء نظام الملفات المحلي للمستخدم وقراءته والتنقل فيه والكتابة إليه. باستخدام واجهة برمجة التطبيقات هذه ، يمكن لـ Chrome Apps القراءة والكتابة إلى موقع محدد من قبل المستخدم. على سبيل المثال ، يمكن لتطبيق محرر النصوص استخدام واجهة برمجة التطبيقات لقراءة وكتابة الوثائق المحلية. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">اقرأ المزيد\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "التاريخ"
+   },
+   "options_remove_history_desc": {
+      "message": "يؤدي حذف محفوظات الاستعراض الخاصة بك على وجه التحديد إلى حذف ما يلي: عناوين الويب التي قمت بزيارتها من صفحة السجل ، والنص المخزن مؤقتًا لتلك الصفحات ، ولقطات تلك الصفحات للصور التي تظهر على صفحة علامة تبويب جديدة ، وأي عناوين IP تم جلبها مسبقًا من تلك الصفحات. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">اقرأ المزيد\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "كلمات السر"
+   },
+   "options_remove_passwords_desc": {
+      "message": "يتم حذف سجلات أسماء المستخدمين وكلمات المرور. إذا كنت تستخدم نظام Mac ، فسيتم حذف سجلات كلمة المرور الخاصة بك من Keychain Access. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">اقرأ المزيد\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "البرنامج المساعد البيانات"
+   },
+   "options_remove_plugin_desc": {
+      "message": "أي بيانات من جانب العميل مخزنة بواسطة المكونات الإضافية التي تستخدم NPAPI ClearSiteData API. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">اقرأ المزيد\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "مزود الويب"
+   },
+   "options_remove_sql_desc": {
+      "message": "Web SQL Database عبارة عن واجهة برمجة تطبيقات لصفحة ويب لتخزين البيانات في قواعد البيانات التي يمكن الاستعلام عنها باستخدام متغير SQL. [...] توقفت مجموعة عمل تطبيقات الويب W3C عن العمل في المواصفات في نوفمبر 2010 ، مشيرة إلى عدم وجود تطبيقات مستقلة (أي استخدام نظام قاعدة بيانات بخلاف SQLite كخلفية) لأن السبب لا يمكن نقل المواصفات إلى الأمام لتصبح توصية W3C. أحد معايير التخزين البديلة المحتملة هو IndexedDB. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">اقرأ المزيد\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "التخزين المحلي"
+   },
+   "options_remove_storage_desc": {
+      "message": "تم تصميم DOM Storage [التي تتضمن التخزين المحلي] لتوفير بديل أكبر وأكثر أمانًا وأسهل للاستخدام لتخزين المعلومات في ملفات تعريف الارتباط. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">اقرأ المزيد\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "نظيفة!"
+   },
+   "popup_clear": {
+      "message": "واضح"
+   },
+   "popup_clearing": {
+      "message": "المقاصة..."
+   },
+   "popup_label_rate": {
+      "message": "ارجوك قم بتقييمنا!"
+   },
+   "popup_manage": {
+      "message": "خيارات"
+   }
+}

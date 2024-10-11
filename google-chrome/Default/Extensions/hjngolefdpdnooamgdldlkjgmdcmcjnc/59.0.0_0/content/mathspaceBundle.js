@@ -1,0 +1,1 @@
+(()=>{var e=e=>{"equatio_mathspace_ext_tab_closed"===e.action&&window.postMessage(e)};chrome.runtime.onMessage.addListener(e)})();

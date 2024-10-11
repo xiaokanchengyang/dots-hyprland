@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "وائرس / میلویئر کے لئے ایک ویب سائٹ چیک کریں"
+   },
+   "city": {
+      "message": "شہر"
+   },
+   "clickHere": {
+      "message": "یہاں کلک کریں"
+   },
+   "commentPage": {
+      "message": "براہ کرم اس ویب کے صفحے کے بارے میں اپنے تبصرے چھوڑ بلا جھجھک"
+   },
+   "commentWebsite": {
+      "message": "براہ کرم موجودہ ویب سائٹ کے بارے میں آپ کے جائزے پر چھوڑ بلا جھجھک"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "ای میل"
+   },
+   "embedCode": {
+      "message": "آپ کی ویب سائٹ / بلاگ پر اس کا جائزہ کرنے کے لئے جگہ صرف مندرجہ ذیل HTML ذیل میں دیئے گئے کوڈ کو کاپی کریں اور اپنے ویب کے صفحے میں ڈال"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "انٹرنیٹ میزبان"
+   },
+   "hostingCompany": {
+      "message": "ہوسٹنگ کمپنی"
+   },
+   "hostingOwner": {
+      "message": "ہوسٹنگ، مالک"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "IP ایڈریس"
+   },
+   "ipv4": {
+      "message": "IPv4 ایڈریس"
+   },
+   "ipv6": {
+      "message": "IPv6 ایڈریس"
+   },
+   "location": {
+      "message": "مقام"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "کوئی ڈیٹا نہیں"
+   },
+   "nsServers": {
+      "message": "نام سرورز"
+   },
+   "otherSites": {
+      "message": "IP پر دیگر سائٹس"
+   },
+   "owner": {
+      "message": "مالک"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "اس موجودہ صفحے کے بارے میں تبصرے (یا اس صفحے پر مصنوعات) پڑھیں اور لکھنے"
+   },
+   "permLink": {
+      "message": "مستقل تبصرے لنک"
+   },
+   "popularity": {
+      "message": "مقبولیت"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "ویب پیج جائزہ"
+   },
+   "reviewsWebsite": {
+      "message": "عمومی ویب سائٹ کا جائزہ"
+   },
+   "safeWeb": {
+      "message": "ویب ینٹیوائرس"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "ملک"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "فی دن زائرین"
+   },
+   "website": {
+      "message": "ویب سائٹ"
+   },
+   "websitePopularity": {
+      "message": "ویب سائٹ کی مقبولیت (تقریبا)"
+   },
+   "websiteReview": {
+      "message": "ویب سائٹ جائزہ"
+   },
+   "websiteReviewHint": {
+      "message": "اس ویب سائٹ کے بارے میں جائزے پڑھیں اور لکھنے"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "ویب سائٹ عالمی درجہ بندی ڈاؤن لوڈ، اتارنا"
+   },
+   "worldRanking": {
+      "message": "ویب سائٹ عالمی درجہ بندی ڈاؤن لوڈ، اتارنا (Alexa)"
+   },
+   "worldRankingHint": {
+      "message": "یہ سب سے زیادہ ویب سائٹس کا دورہ کیا دنیا بھر میں سب سے اوپر 100،000 میں درج کیا جاتا ہے صرف اس صورت میں یہ تصویر ایک ویب سائٹ کے لئے ایک درجہ بندی کو ظاہر کرتا ہے. . سائٹ فی الحال 100،000 درج ذیل کسی بھی درجہ بندی کی پوزیشن ہے اگر آپ کو کسی بھی اعداد و شمار کو نہیں دیکھیں گے اور آپ کو دنیا کی ویب سائٹ کی درجہ بندی میں ویب سائٹ اس کی موجودہ پوزیشن کو دیکھنے کے لئے اس تصویر پر کلک کرنے کے لئے کی ضرورت ہو گی ہے \n سب سے زیادہ ویب سائٹس کا دورہ کیا - Alexa درجہ بندی - ہے \n # 1 - فیس بک ہے \n # 2 - Google گوگل کے ہے \n # 3 - یو ٹیوب ہے \n ... ... ن ... # 1،000 - Icloud.com (فی دن بھر میں 250،000 زائرین) ہے \n ... # 5،000 - Totaljobs (فی دن بھر میں 40،000 زائرین) ہے \n ... # 10،000 - Akamai (فی دن بھر میں 25،000 زائرین) ہے \n ... # 50،000 - Wikitree (فی دن بھر میں 10،000 زائرین) ہے \n ... # 100،000 - Transpole (فی دن کے ارد گرد 5،000 زائرین) ہے \n ... # 300،000 - Tweaktv (فی دن کے ارد گرد 3،000 زائرین) ہے \n ... # 600،000 - (فی دن 1،300 زائرین کے ارد گرد) Springest ہے \n ... # 1،000،000 - Elain (فی دن کے ارد گرد 250 زائرین) ہے \n ... ..."
+   }
+}

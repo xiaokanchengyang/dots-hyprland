@@ -1,0 +1,76 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CWMHostShowPopupAction">
+      <i c="1" l="1728552164221" />
+    </e>
+    <e n="EditCustomProperties">
+      <i c="2" l="1728553906494" />
+    </e>
+    <e n="EditCustomVmOptions">
+      <i c="4" l="1728553894689" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="40" l="1728554461658" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1728553911966" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="3" l="1728552766784" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="1" l="1728552775176" />
+    </e>
+    <e n="HelpTopics">
+      <i c="1" l="1728553753827" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="3" l="1728553884700" />
+    </e>
+    <e n="Register">
+      <i c="1" l="1728553879768" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1728550544443" />
+    </e>
+    <e n="RunClass">
+      <i c="1" l="1728554542479" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="5" l="1728552539353" />
+    </e>
+    <e n="SettingsSyncStatusAction">
+      <i c="2" l="1728552541283" />
+    </e>
+    <e n="ShowSettings">
+      <i c="11" l="1728560969083" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="2" l="1728631538629" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1728631548962" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
+      <i c="1" l="1728553588275" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="3" l="1728554284173" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="22" l="1728560967722" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="1" l="1728550565259" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="3" l="1728554547995" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1728550549500" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1728552556021" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Egy kattintással törölje a böngésző előzményeit, a gyorsítótárat és a sütiket a Google Chrome számára!"
+   },
+   "app_name": {
+      "message": "Előzmények és gyorsítótár-tisztító"
+   },
+   "options_common": {
+      "message": "Általános lehetőségek"
+   },
+   "options_common_1": {
+      "message": "Az aktív lap automatikus feltöltése törlés után"
+   },
+   "options_common_2": {
+      "message": "\"Cache Cleaner\" lebegő gomb az összes oldalon"
+   },
+   "options_everything": {
+      "message": "Minden"
+   },
+   "options_header": {
+      "message": "LEHETŐSÉGEK"
+   },
+   "options_last_day": {
+      "message": "Utolsó nap"
+   },
+   "options_last_hour": {
+      "message": "Utolsó óra"
+   },
+   "options_last_month": {
+      "message": "Múlt hónap"
+   },
+   "options_last_week": {
+      "message": "Múlt hét"
+   },
+   "options_remove": {
+      "message": "Eltávolítandó adatok"
+   },
+   "options_remove_appcache": {
+      "message": "App gyorsítótár"
+   },
+   "options_remove_appcache_desc": {
+      "message": "A HTML5 alkalmazás gyorsítótárazási mechanizmust biztosít, amely lehetővé teszi a web alapú alkalmazások offline futtatását. A fejlesztők az Application Cache (AppCache) felületet használhatják az erőforrások meghatározásához, amelyeket a böngészőnek gyorsítótárban kell tárolnia és elérhetővé tenni az offline felhasználók számára. A gyorsítótárazott alkalmazások betöltődnek és helyesen működnek, még akkor is, ha a felhasználók offline állapotban kattintanak a frissítés gombra. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">Olvassa tovább\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "gyorsítótár"
+   },
+   "options_remove_cache_desc": {
+      "message": "A Google Chrome-ban meglátogatott weboldalak szövege eltávolításra kerül a számítógépéről. A böngészők a weboldalak elemeit tárolják, hogy felgyorsítsák a weboldal betöltését a következő látogatás során. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Olvassa tovább\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "keksz"
+   },
+   "options_remove_cookies_desc": {
+      "message": "A meglátogatott webhelyek által a számítógépén tárolt fájlok. Ezek a fájlok felhasználói információkat tartalmaznak, például a webhelyek preferenciáit vagy a profil információkat. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Olvassa tovább\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(lehetőségek)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "Csak a következőket törölje (gyors)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "Ne törölje a következőt (lassú)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "Nincs szűrő meghatározva"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "Domain hozzáadása"
+   },
+   "options_remove_db": {
+      "message": "Indexelt DB"
+   },
+   "options_remove_db_desc": {
+      "message": "Az IndexedDB egy API a jelentős mennyiségű strukturált adat ügyféloldali tárolására, amely ezen adatok nagy teljesítményű keresését is lehetővé teszi indexek segítségével. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">Olvassa tovább\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "Letöltések"
+   },
+   "options_remove_downloads_desc": {
+      "message": "A Google Chrome segítségével letöltött fájlok listája törlődik, de a tényleges fájlokat nem távolítják el a számítógépről. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Olvassa tovább\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "Űrlap adatok"
+   },
+   "options_remove_forms_desc": {
+      "message": "Az összes automatikus kitöltési bejegyzés és a webes űrlapokon megadott szövegrekordok törlődnek. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Olvassa tovább\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "Fájlrendszerek"
+   },
+   "options_remove_fsys_desc": {
+      "message": "A [Chrome Apps használhatja] a chrome.fileSystem API-t létrehozni, olvasni, navigálni és írni a felhasználó helyi fájlrendszerébe. Ezzel az API-val a Chrome Apps képes olvasni és írni a felhasználó által kiválasztott helyre. Például egy szövegszerkesztő alkalmazás felhasználhatja az API-t a helyi dokumentumok olvasására és írására. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">Bővebben\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "Történelem"
+   },
+   "options_remove_history_desc": {
+      "message": "A böngészési előzmények törlése kifejezetten a következőket törli: A korábban meglátogatott webcímeket az Előzmények oldalon, Az oldalak gyorsítótárazott szövegét, Az oldalak pillanatképeit az Új lap oldalon megjelenő képekre, az ezekről az oldalakról előre letöltött IP-címeket. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Olvassa tovább\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "jelszavak"
+   },
+   "options_remove_passwords_desc": {
+      "message": "A felhasználónevek és jelszavak rekordjai törlődnek. Ha Mac-et használ, akkor a jelszó-rekordok törlődnek a Keychain Accessből. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Olvassa tovább\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "Beépülő adatok"
+   },
+   "options_remove_plugin_desc": {
+      "message": "Az NPAPI ClearSiteData API-t használó plug-inek által tárolt ügyféloldali adatok. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">Olvassa tovább\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Web SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "A Web SQL Database egy weboldal API az adatok tárolására olyan adatbázisokban, amelyekben az SQL egyik változatával lekérdezhetők. [...] A W3C webes alkalmazások munkacsoportja 2010 novemberében abbahagyta a specifikációt, hivatkozva a független megvalósítás hiányára (azaz az SQLite-től eltérő adatbázis-rendszer használatára háttérként), mivel a specifikáció nem tudott mozogni tovább kívánja válni W3C ajánlássá. Az egyik alternatív tárolási szabvány az IndexedDB. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">Olvassa tovább\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "Helyi raktár"
+   },
+   "options_remove_storage_desc": {
+      "message": "A DOM tárolást (amely magában foglalja a helyi tárolást is) úgy tervezték, hogy nagyobb, biztonságosabb és könnyebben használható alternatívát kínáljon az adatok sütikben történő tárolására. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">Olvassa tovább\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "Tiszta!"
+   },
+   "popup_clear": {
+      "message": "Egyértelmű"
+   },
+   "popup_clearing": {
+      "message": "Klíring..."
+   },
+   "popup_label_rate": {
+      "message": "Kérjük, értékelje minket!"
+   },
+   "popup_manage": {
+      "message": "Lehetőségek"
+   }
+}

@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Изчистете историята на браузъра, кеша си и бисквитките за Google Chrome само с едно кликване!"
+   },
+   "app_name": {
+      "message": "История и почистващ кеш"
+   },
+   "options_common": {
+      "message": "Общи опции"
+   },
+   "options_common_1": {
+      "message": "Автоматично презаредете активния раздел след изчистването"
+   },
+   "options_common_2": {
+      "message": "Плаващ бутон „Почистващ кеш“ на всички страници"
+   },
+   "options_everything": {
+      "message": "всичко"
+   },
+   "options_header": {
+      "message": "НАСТРОИКИ"
+   },
+   "options_last_day": {
+      "message": "Последен ден"
+   },
+   "options_last_hour": {
+      "message": "Последен час"
+   },
+   "options_last_month": {
+      "message": "Миналия месец"
+   },
+   "options_last_week": {
+      "message": "Миналата седмица"
+   },
+   "options_remove": {
+      "message": "Данни за премахване"
+   },
+   "options_remove_appcache": {
+      "message": "Кеш на приложението"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 предоставя механизъм за кеширане на приложения, който позволява уеб базирани приложения да се стартират офлайн. Разработчиците могат да използват интерфейса на кеша на приложенията (AppCache), за да определят ресурси, които браузърът трябва да кешира и да предоставят на потребителите офлайн. Приложенията, които са кеширани, се зареждат и работят правилно, дори ако потребителите натискат бутона за опресняване, когато са офлайн. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">Прочетете повече\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "скривалище"
+   },
+   "options_remove_cache_desc": {
+      "message": "Текстът на уеб страниците, които сте посетили в Google Chrome, се премахва от вашия компютър. Браузърите съхраняват елементи на уеб страници, за да ускорят зареждането на уеб страницата при следващото ви посещение. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Прочетете повече\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "Бисквитки"
+   },
+   "options_remove_cookies_desc": {
+      "message": "Файлове, съхранени на вашия компютър от посетени от вас уебсайтове. Тези файлове съдържат потребителска информация, като предпочитания за уебсайтове или информация за потребителски профил. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Прочетете повече\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(настроики)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "Изчистете само следното (бързо)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "Не изчиствайте следното (бавно)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "Няма дефинирани филтри"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "Добавяне на домейн"
+   },
+   "options_remove_db": {
+      "message": "Индексирана БД"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB е API за съхранение от страна на клиента на значителни количества структурирани данни, което също дава възможност за търсене на висока производителност на тези данни с помощта на индекси. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">Прочетете повече\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "Изтегляния"
+   },
+   "options_remove_downloads_desc": {
+      "message": "Списъкът с файлове, които сте изтеглили с Google Chrome, се изчиства, но действителните файлове не се премахват от вашия компютър. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Прочетете повече\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "Данни за формуляри"
+   },
+   "options_remove_forms_desc": {
+      "message": "Всички ваши записи за автоматично попълване и записи на текст, който сте въвели в уеб формулярите, се изтриват. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Прочетете повече\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "Файлови системи"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Chrome Apps може да използва] API на chrome.fileSystem за създаване, четене, навигиране и запис в локалната файлова система на потребителя. С този API, приложенията на Chrome могат да четат и пишат до избрано от потребителя място. Например приложението за текстов редактор може да използва API за четене и писане на локални документи. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">Прочетете повече\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "история"
+   },
+   "options_remove_history_desc": {
+      "message": "Изчистването на историята на вашите сърфиране изтрива конкретно следното: Уеб адреси, които сте посетили от страницата История, Кеширан текст на тези страници, Снимки на тези страници за изображения, които се появяват на страницата Нов раздел, Всички IP адреси, предварително извлечени от тези страници. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Прочетете повече\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "Паролите"
+   },
+   "options_remove_passwords_desc": {
+      "message": "Записите от потребителски имена и пароли се изтриват. Ако използвате Mac, вашите записи с парола се изтриват от Keychain Access. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Прочетете повече\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "Данни за приставки"
+   },
+   "options_remove_plugin_desc": {
+      "message": "Всички данни от страна на клиента, съхранявани от приставки, които използват NPAPI ClearSiteData API. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">Прочетете повече\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Уеб SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "Web SQL база данни е API на уеб страница за съхранение на данни в бази данни, които могат да бъдат заявени чрез използване на вариант на SQL. [...] Работната група за уеб приложения на W3C преустанови работата по спецификацията през ноември 2010 г., като посочи липсата на независими реализации (т.е. използването на база данни, различна от SQLite като бекенд) като причина спецификацията не може да се премести напред да се превърне в препоръка на W3C. Един потенциален алтернативен стандарт за съхранение е IndexedDB. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">Прочетете повече\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "Локално съхранение"
+   },
+   "options_remove_storage_desc": {
+      "message": "DOM съхранението [което включва Local Storage] е проектирано да осигури по-голяма, по-сигурна и лесна за използване алтернатива за съхраняване на информация в бисквитките. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">Прочетете повече\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "Clean!"
+   },
+   "popup_clear": {
+      "message": "ясно"
+   },
+   "popup_clearing": {
+      "message": "Клиринг ..."
+   },
+   "popup_label_rate": {
+      "message": "Моля, оценете ни!"
+   },
+   "popup_manage": {
+      "message": "Настроики"
+   }
+}

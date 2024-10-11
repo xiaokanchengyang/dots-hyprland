@@ -1,0 +1,145 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Netcraft Extension</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <link rel="stylesheet" type="text/css" href="Style/icons.css" />
+        <link rel="stylesheet" type="text/css" href="Style/inputs.css"/>
+        <link rel="stylesheet" type="text/css" href="Style/switch.css"/>
+        <link rel="stylesheet" type="text/css" href="Style/popup.css"/>
+        <script type="text/javascript" src="JavaScript/pages/popup.js"></script>
+    </head>
+
+    <body>
+        <header>
+            <h1>Loading...</h1>
+            <div id="flag-container"><img id="flag"/></div>
+            <a href="#" id="sitereport" target="_blank">Site Report</a>
+        </header>
+        <table id="info-table">
+            <tr id="blockedrow">
+                <td colspan="6" id="blockedtext">
+                    <span id="blocked">Blocked by Netcraft</span>
+                </td>
+            </tr>
+            <tr id="row2">
+                <td></td>
+                <td class="title">Country: </td>
+                <td class="value"><span id="country">-</span></td>
+
+                <td></td>
+                <td class="title">Site rank: </td>
+                <td class="value"><a href="#" id="rank" target="_blank">-</a></td>
+            </tr>
+            <tr id ="row3">
+                <td></td>
+                <td class="title">First seen: </td>
+                <td class="value"><a href="#" id="firstseen" target="_blank">-</a></td>
+
+                <td></td>
+                <td class="title">Host: </td>
+                <td class="value"><a href="#" id="hoster" target="_blank">-</a></td>
+            </tr>
+        </table>
+
+
+        <div id="whitelistContainer" class="whitelist-container">
+            <div id="whitelistContainer" class="whitelist-container-content">
+                <div class="whitelist-content">
+                    <span>
+                        <span>
+                            <p>Disable protection for this site</p>
+                            <input id="toggleWhitelist" class="switch" type="checkbox">
+                        </span>
+                    </span>
+                </div>
+            </div>
+        </div>
+ 
+        <div hidden id="successMessage" class="message">
+            <img class="icon" src="Images/FontAwesome/check-circle.svg">
+            <p>
+                Thank you for your submission. You can check back on it
+                <a href="#" id="submissionLink" target="_blank">here.</a>
+            </p>
+        </div>
+
+        <div hidden id="errorMessage" class="message">
+            <img class="icon" src="Images/FontAwesome/exclamation-triangle.svg">
+            <p id="errorMessageText"></p>
+        </div>
+
+        <div id="reportForm" class="report-form">
+
+            <h3 id="reportFormHeader">Report malicious URL:</h3>
+
+            <div id="reportForm" class="report-form-inputs">
+                <div class="container">
+                    <div class="label-input-pair">
+                        <span class="label">The URL of the site:</span>
+                        <input
+                          id="urlToReport"
+                          class="input"
+                          type="text"
+                          placeholder="http://..."
+                        />
+                    </div>
+
+                    <span id="urlValidity" class="valid-indicator">
+                        <img class="icon" src="Images/FontAwesome/check-circle.svg">
+                    </span>
+                </div>
+
+                <div class="reason-container">
+                    <span>
+                        <span>
+                            <p>Add a reason</p>
+                            <input id="reasonToggle" class="switch" type="checkbox">
+                        </span>
+                    </span>
+                    <div id="reasonContainer" class="container">
+                        <div class="label-input-pair">
+                            <span class="label">
+                                An optional reason for your submission:
+                            </span>
+                            <textarea
+                              id="reportReason"
+                              class="textarea"
+                            ></textarea>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="email-container" class="container">
+                    <div class="label-input-pair">
+                        <span class="label">
+                          Your email address (to receive updates):
+                        </span>
+                        <input
+                          id="email"
+                          class="input"
+                          type="text"
+                          placeholder="you@example.com"
+                        />
+                    </div>
+                    <span id="emailValidity" class="valid-indicator">
+                        <img class="icon" src="Images/FontAwesome/check-circle.svg">
+                    </span>
+                </div>
+            </div>
+
+            <button disabled class="disabled" id="reportPhish">
+              <span id="reportBtnText">Submit Report</span>
+
+              <span hidden id="reportPhishSpinner">
+                  <img class="spinner" src="Images/FontAwesome/spinner.svg">
+              </span>
+            </button>
+        </div>
+        <footer>
+            <a href="https://www.netcraft.com" id="netcraft" target="_blank">
+                <img src="Images/logo.svg" alt="Netcraft" class="logo" />
+            </a>
+        </footer>
+    </body>
+</html>

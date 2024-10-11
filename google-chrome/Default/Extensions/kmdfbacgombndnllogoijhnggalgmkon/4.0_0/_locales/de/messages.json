@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "Überprüfen Sie eine Website für Viren / Malware"
+   },
+   "city": {
+      "message": "Stadt"
+   },
+   "clickHere": {
+      "message": "klicken sie hier"
+   },
+   "commentPage": {
+      "message": "Bitte zögern Sie nicht, um Ihre Kommentare zu dieser Webpage zu verlassen"
+   },
+   "commentWebsite": {
+      "message": "Bitte zögern Sie nicht Ihre Bewertungen über aktuelle Webseite zu verlassen"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "E-Mail"
+   },
+   "embedCode": {
+      "message": "Um diese Bewertung auf Ihrer Website / Blog platzieren kopieren Sie einfach den folgenden HTML-Code und legen Sie sie in Ihre Webseite"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "Host"
+   },
+   "hostingCompany": {
+      "message": "Hosting Firma"
+   },
+   "hostingOwner": {
+      "message": "Hosting/Besitzer"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "IP Adresse"
+   },
+   "ipv4": {
+      "message": "IPv4 Adresse"
+   },
+   "ipv6": {
+      "message": "IPv6 Adresse"
+   },
+   "location": {
+      "message": "Lokalisierung"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "Keine Daten"
+   },
+   "nsServers": {
+      "message": "Nameserver"
+   },
+   "otherSites": {
+      "message": "Andere Sites auf IP"
+   },
+   "owner": {
+      "message": "Besitzer"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "Lesen und Schreiben von Kommentaren zu dieser aktuellen Webpage (oder etwa Produkte auf dieser Webpage)"
+   },
+   "permLink": {
+      "message": "Permanenter Link zu Kommentaren"
+   },
+   "popularity": {
+      "message": "Beliebtheit"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "Webpage Bewertungen"
+   },
+   "reviewsWebsite": {
+      "message": "Allgemeinen Webseite Bewertungen"
+   },
+   "safeWeb": {
+      "message": "Norton Antiviren"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "siehe landes"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "besucher pro tag"
+   },
+   "website": {
+      "message": "Webseite"
+   },
+   "websitePopularity": {
+      "message": "Website Popularity (Ungefähr)"
+   },
+   "websiteReview": {
+      "message": "Seite Bewerten"
+   },
+   "websiteReviewHint": {
+      "message": "Lesen und Schreiben von Bewertungen über diese Webseite"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "Website Welt beliebt Bewertung"
+   },
+   "worldRanking": {
+      "message": "Webseite Welt Popular Rangliste (Alexa)"
+   },
+   "worldRankingHint": {
+      "message": "Dieses Diagramm zeigt ein Ranking für eine Website nur, wenn es in die Top 100.000 aufgeführt ist meist besuchten Webseiten weltweit. Wenn die Website hat derzeit ein Ranking Position unterhalb 100.000 Sie keine Daten sehen, und Sie müssten in diesem Diagramm klicken um die Website seiner aktuellen Position in der Welt Website-Ranking.\n Am häufigsten besuchten Websites - Alexa Rang -\n#1 - Facebook\n#2 - Google\n#3 - Youtube\n... ...\n#10,000 - Akamai\n... ...\n#300,000 - Tweaktv\n... ..."
+   }
+}

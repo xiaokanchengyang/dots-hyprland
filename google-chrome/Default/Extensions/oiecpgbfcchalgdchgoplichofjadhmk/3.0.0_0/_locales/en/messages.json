@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Clear your browser history, cache and cookies for Google Chrome in just one click!"
+   },
+   "app_name": {
+      "message": "History & Cache Cleaner"
+   },
+   "options_common": {
+      "message": "Common Options"
+   },
+   "options_common_1": {
+      "message": "Automatically reload active tab after clearing"
+   },
+   "options_common_2": {
+      "message": "Floating button \"Cache Cleaner\" on all pages"
+   },
+   "options_everything": {
+      "message": "Everything"
+   },
+   "options_header": {
+      "message": "OPTIONS"
+   },
+   "options_last_day": {
+      "message": "Last Day"
+   },
+   "options_last_hour": {
+      "message": "Last Hour"
+   },
+   "options_last_month": {
+      "message": "Last Month"
+   },
+   "options_last_week": {
+      "message": "Last Week"
+   },
+   "options_remove": {
+      "message": "Data to Remove"
+   },
+   "options_remove_appcache": {
+      "message": "App Cache"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 provides an application caching mechanism that lets web-based applications run offline.\nDevelopers can use the Application Cache (AppCache) interface to specify resources that the\nbrowser should cache and make available to offline users. Applications that are cached load and\nwork correctly even if users click the refresh button when they are offline. &mdash;\n\u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">Read More\n\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "Cache"
+   },
+   "options_remove_cache_desc": {
+      "message": "Text of webpages you've visited in Google Chrome is removed from your computer. Browsers store\nelements of webpages to speed up the loading of the webpage during your next visit. &mdash;\n\u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&amp;rd=1\"\n target=\"_blank\">Read More\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "Cookies"
+   },
+   "options_remove_cookies_desc": {
+      "message": "Files stored on your computer by websites you've visited. These files contain user information,\nsuch as preferences for websites or profile information. &mdash;\n\u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&amp;rd=1\"\n target=\"_blank\">Read More\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(options)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "Only clear the following (fast)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "Don't clear the following (slow)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "No filters defined"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "Add Domain"
+   },
+   "options_remove_db": {
+      "message": "Indexed DB"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB is an\nAPI for client-side storage of significant amounts of structured data, which also enables high\nperformance searches of this data using indexes. &mdash;\n\u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">\nRead More\n\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "Downloads"
+   },
+   "options_remove_downloads_desc": {
+      "message": "The list of files you've downloaded using Google Chrome is cleared, but the actual files are not\nremoved from your computer. &mdash;\n\u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&amp;rd=1\"\n target=\"_blank\">Read More\n\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "Form Data"
+   },
+   "options_remove_forms_desc": {
+      "message": "All your Autofill entries and records of text you've entered on web forms are deleted. &mdash;\n\u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&amp;rd=1\"\n target=\"_blank\">Read More\n\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "File Systems"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Chrome Apps may use] the\nchrome.fileSystem API to create, read, navigate, and write to the user's local file system. With\nthis API, Chrome Apps can read and write to a user-selected location. For example, a text editor\napp can use the API to read and write local documents. [...] &mdash;\n\u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">Read More\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "History"
+   },
+   "options_remove_history_desc": {
+      "message": "Clearing your browsing history specifically deletes the following: Web addresses you've visited\nfrom the History page, Cached text of those pages, Snapshots of those pages for images that\nappear on the New Tab page, Any IP addresses pre-fetched from those pages. &mdash;\n\u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&amp;rd=1\"\n target=\"_blank\">Read More\n\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "Passwords"
+   },
+   "options_remove_passwords_desc": {
+      "message": "Records of usernames and passwords are deleted. If you're using a Mac, your password records are\ndeleted from Keychain Access. &mdash;\n\u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&amp;rd=1\"\n target=\"_blank\">Read More\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "Plugin Data"
+   },
+   "options_remove_plugin_desc": {
+      "message": "Any client-side data stored by plug-ins that use the NPAPI ClearSiteData API. &mdash;\n\u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&amp;rd=1\"\ntarget=\"_blank\">Read More\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Web SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "Web SQL Database is a web page API\nfor storing data in databases that can be queried using a variant of SQL. [...] The W3C Web\nApplications Working Group ceased working on the specification in November 2010, citing a lack\nof independent implementations (i.e., the use of a database system other than SQLite as the\nbackend) as the reason the specification could not move forward to become a W3C Recommendation.\nOne potential alternative storage standard is IndexedDB. &mdash;\n\u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">Read More\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "Local Storage"
+   },
+   "options_remove_storage_desc": {
+      "message": "DOM Storage\n[which includes Local Storage] is designed to provide a larger, more secure, and easier-to-use\nalternative to storing information in cookies. &mdash;\n\u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">Read More\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "Clean!"
+   },
+   "popup_clear": {
+      "message": "Clear"
+   },
+   "popup_clearing": {
+      "message": "Clearing..."
+   },
+   "popup_label_rate": {
+      "message": "Please Rate Us!"
+   },
+   "popup_manage": {
+      "message": "Options"
+   }
+}

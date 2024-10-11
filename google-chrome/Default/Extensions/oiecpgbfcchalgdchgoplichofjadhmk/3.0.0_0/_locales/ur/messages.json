@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "گوگل کروم کے لئے صرف ایک کلک میں اپنی براؤزر کی تاریخ ، کیشے اور کوکیز صاف کریں!"
+   },
+   "app_name": {
+      "message": "تاریخ اور کیشے کا کلینر"
+   },
+   "options_common": {
+      "message": "عام اختیارات۔"
+   },
+   "options_common_1": {
+      "message": "کلیئرنگ کے بعد خود کار طریقے سے فعال ٹیب کو دوبارہ لوڈ کریں۔"
+   },
+   "options_common_2": {
+      "message": "تمام صفحات پر تیرتے بٹن \"کیشے کلینر\"۔"
+   },
+   "options_everything": {
+      "message": "سب کچھ۔"
+   },
+   "options_header": {
+      "message": "اختیارات"
+   },
+   "options_last_day": {
+      "message": "آخری دن"
+   },
+   "options_last_hour": {
+      "message": "آخری وقت"
+   },
+   "options_last_month": {
+      "message": "پچھلے مہینے"
+   },
+   "options_last_week": {
+      "message": "پچھلا ہفتہ"
+   },
+   "options_remove": {
+      "message": "ڈیٹا کو ہٹانا۔"
+   },
+   "options_remove_appcache": {
+      "message": "ایپ کیشے۔"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 ایک ایپلیکیشن کیچنگ میکانزم فراہم کرتا ہے جو ویب پر مبنی ایپلیکیشنز کو آف لائن چلانے دیتا ہے۔ ڈویلپر وسائل کی وضاحت کے ل the ایپلیکیشن کیشے (ایپ کیچے) انٹرفیس کا استعمال کرسکتے ہیں جن کو براؤزر کو کیش کرکے آف لائن صارفین کو دستیاب کرنا چاہئے۔ ایپلی کیشنز جو کیشڈ ہیں اور صحیح طریقے سے کام کرتی ہیں یہاں تک کہ اگر صارفین آف لائن ہونے پر ریفریش بٹن پر کلک کریں۔ - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">مزید پڑھیں\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "کیشے۔"
+   },
+   "options_remove_cache_desc": {
+      "message": "ویب صفحات کا متن جو آپ نے گوگل کروم میں ملاحظہ کیا ہے آپ کے کمپیوٹر سے ہٹا دیا گیا ہے۔ براؤزرز آپ کے اگلے دورے کے دوران ویب پیج کی لوڈنگ کو تیز کرنے کے لئے ویب صفحات کے عناصر کو محفوظ کرتے ہیں۔ - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">مزید پڑھیں\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "کوکیز"
+   },
+   "options_remove_cookies_desc": {
+      "message": "آپ کے ویب سائٹوں کے ذریعہ آپ کے کمپیوٹر پر ذخیرہ فائلیں۔ ان فائلوں میں صارف کی معلومات ہوتی ہے جیسے ویب سائٹ کی ترجیحات یا پروفائل کی معلومات۔ - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">مزید پڑھیں\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(اختیارات)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "صرف درج ذیل کو صاف کریں (تیز)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "مندرجہ ذیل کو صاف نہ کریں (سست)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "کوئی فلٹر متعین نہیں۔"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "ڈومین شامل کریں۔"
+   },
+   "options_remove_db": {
+      "message": "انڈیکسڈ ڈی بی۔"
+   },
+   "options_remove_db_desc": {
+      "message": "انڈیکسڈ ڈی بی ایک قابل اطلاق ذخیرہ اندوزی کی ذخیرہ اندوزی کے لئے ایک API ہے جو اشاریہ کو استعمال کرکے اس اعداد و شمار کی اعلی کارکردگی کو بھی قابل بناتا ہے۔ - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">مزید پڑھیں\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "ڈاؤن لوڈ"
+   },
+   "options_remove_downloads_desc": {
+      "message": "فائلوں کی فہرست جو آپ نے گوگل کروم کا استعمال کرتے ہوئے ڈاؤن لوڈ کی ہے ، وہ صاف ہوگئی ہے ، لیکن اصل فائلیں آپ کے کمپیوٹر سے نہیں ہٹتی ہیں۔ - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">مزید پڑھیں\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "فارم ڈیٹا۔"
+   },
+   "options_remove_forms_desc": {
+      "message": "آپ نے ویب فارموں پر جو متن داخل کیا ہے اس کی تمام آٹو فل اندراجات اور ریکارڈز حذف کردیئے گئے ہیں۔ - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">مزید پڑھیں\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "فائل سسٹمز۔"
+   },
+   "options_remove_fsys_desc": {
+      "message": "صارف کے مقامی فائل سسٹم کو بنانے ، پڑھنے ، تشریف لانے اور لکھنے کیلئے chrome.fileSystem API [Chrome Apps استعمال کرسکتے ہیں]۔ اس API کے ذریعہ ، کروم ایپس صارف کے منتخب کردہ مقام کو پڑھ اور لکھ سکتی ہیں۔ مثال کے طور پر ، ٹیکسٹ ایڈیٹر ایپ مقامی دستاویزات کو پڑھنے اور لکھنے کے لئے API کا استعمال کرسکتی ہے۔ [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">مزید پڑھیں\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "ہسٹری"
+   },
+   "options_remove_history_desc": {
+      "message": "اپنی براؤزنگ کی تاریخ کو صاف کرنا خاص طور پر درج ذیل کو حذف کرتا ہے: وہ ویب پتے جن کی آپ ہسٹری پیج سے تشریف لائے ہیں ، ان صفحات کا کیچڈ ٹیکسٹ ، ان پیجوں کے سنیپ شاٹس جو تصاویر کے ل Tab نئے ٹیب پیج پر دکھائے جاتے ہیں ، ان پیجز سے پہلے سے کوئی بھی IP ایڈریس ملتا ہے۔ - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">مزید پڑھیں\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "پاس ورڈ"
+   },
+   "options_remove_passwords_desc": {
+      "message": "صارف نام اور پاس ورڈ کے ریکارڈ حذف کردیئے گئے ہیں۔ اگر آپ میک استعمال کررہے ہیں تو ، آپ کے پاس ورڈ کے ریکارڈز کیچین رسائی سے حذف ہوجائیں گے۔ - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">مزید پڑھیں\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "پلگ ان ڈیٹا۔"
+   },
+   "options_remove_plugin_desc": {
+      "message": "NPAPI ClearSiteData API استعمال کرنے والے پلگ ان کے ذریعہ ذخیرہ کردہ کوئی بھی کلائنٹ سائیڈ ڈیٹا۔ - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">مزید پڑھیں\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "ویب ایس کیو ایل"
+   },
+   "options_remove_sql_desc": {
+      "message": "ویب ایس کیو ایل ڈیٹا بیس ڈیٹا بیس میں ڈیٹا کو اسٹور کرنے کے لئے ایک ویب صفحہ API ہے جس میں ایس کیو ایل کے مختلف حالتوں کا استعمال کرکے استفسار کیا جاسکتا ہے۔ [...] W3C ویب ایپلی کیشنز ورکنگ گروپ نے نومبر 2010 میں تصریح پر کام کرنا چھوڑ دیا ، آزاد نفاذ کی کمی کا حوالہ دیتے ہوئے (یعنی SQLite کے علاوہ کسی ڈیٹا بیس سسٹم کو بیک ہینڈ کے طور پر استعمال کرنا) اس وجہ کی وجہ سے وضاحت جاری نہیں کی جاسکی۔ W3C کی سفارش بننے کے لئے آگے متبادل اسٹوریج کا ایک ممکنہ معیار انڈیکسڈڈی بی ہے۔ - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">مزید پڑھیں\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "مقامی ذخیرہ"
+   },
+   "options_remove_storage_desc": {
+      "message": "ڈوم اسٹوریج [جس میں لوکل اسٹوریج شامل ہے] کوکیز میں معلومات کو محفوظ کرنے کے لئے ایک وسیع تر ، زیادہ محفوظ ، اور استعمال میں آسان متبادل فراہم کرنے کے لئے ڈیزائن کیا گیا ہے۔ - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">مزید پڑھیں\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "صاف!"
+   },
+   "popup_clear": {
+      "message": "صاف"
+   },
+   "popup_clearing": {
+      "message": "کلیئرنگ…"
+   },
+   "popup_label_rate": {
+      "message": "براہ کرم ہمیں شرح دیں!"
+   },
+   "popup_manage": {
+      "message": "اختیارات"
+   }
+}

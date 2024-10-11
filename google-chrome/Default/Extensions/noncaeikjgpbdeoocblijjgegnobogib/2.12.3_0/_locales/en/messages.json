@@ -1,0 +1,149 @@
+{
+   "addErrorBad": {
+      "message": "Unable to add."
+   },
+   "addErrorDupp": {
+      "message": "Already added."
+   },
+   "addFavoritesLabel": {
+      "message": "Favorites List"
+   },
+   "addSkippedLabel": {
+      "message": "Skip List"
+   },
+   "addSuccess": {
+      "message": "Added."
+   },
+   "addTranslateDbg": {
+      "message": "Add [example.org] to [Favorites List]"
+   },
+   "addVerb": {
+      "description": "part of 'Add example.org to Favorites List' sentence",
+      "message": "Add"
+   },
+   "adjust": {
+      "message": "More Settings..."
+   },
+   "adjustColorsHeader": {
+      "message": "Adjust highlighting color"
+   },
+   "adjustOnlineDicts": {
+      "message": "Adjust online dictionaries for hover and context menus"
+   },
+   "adjustPopupHlHeader": {
+      "message": "Adjust popup menu for highlighted expressions"
+   },
+   "adjustPopupOwHeader": {
+      "message": "Adjust popup menu for not highlighted words"
+   },
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Highlights rare English dictionary words and idioms on web pages. Facilitates English language learning and expands your vocabulary."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store. Note to the translator: Do not translate first two words 'Words Discoverer'",
+      "message": "Word Discoverer: Expand your vocabulary"
+   },
+   "dictNameHeader": {
+      "message": "Dictionary Name:"
+   },
+   "dictUrlHeader": {
+      "message": "Dictionary query URL:"
+   },
+   "disabledDescription": {
+      "message": "Highlight only \"Favorites List\" sites"
+   },
+   "emptyListError": {
+      "message": "The list is empty ;)"
+   },
+   "enableIdiomsLabel": {
+      "message": "Enable expressions highlighting"
+   },
+   "enableWordsLabel": {
+      "message": "Enable words highlighting"
+   },
+   "enabledDescription": {
+      "message": "Highlight all Internet except \"Skip List\" sites"
+   },
+   "importInfo": {
+      "message": "New words will be added to your current vocabulary."
+   },
+   "loadVocab": {
+      "message": "Import Vocabulary"
+   },
+   "menuItem": {
+      "description": "Text in context menu",
+      "message": "Add to vocabulary"
+   },
+   "rateInfo1": {
+      "description": "1-st part of \"Not highlighting 100 most common English words\" sentence",
+      "message": "Not highlighting"
+   },
+   "rateInfo2": {
+      "description": "2-nd part of \"Not highlighting 100 most common English words\" sentence",
+      "message": "most common English words."
+   },
+   "rateTranslateDbg": {
+      "message": "Not highlighting 100 most common English words"
+   },
+   "rbAlways": {
+      "message": "Show popup menu on mouse hover"
+   },
+   "rbKey": {
+      "message": "Show popup menu on mouse hover and [Ctrl] key"
+   },
+   "rbNever": {
+      "message": "Do not show popup menu"
+   },
+   "restoreDefaults": {
+      "message": "Restore Defaults"
+   },
+   "saveVisuals": {
+      "message": "Save"
+   },
+   "saveVocab": {
+      "message": "Export Vocabulary"
+   },
+   "selectFile": {
+      "message": "Select File..."
+   },
+   "showVocab": {
+      "message": "Show Vocabulary"
+   },
+   "switchModeLabel": {
+      "message": "Switch Mode"
+   },
+   "testBtn": {
+      "message": "Test"
+   },
+   "tipInfo": {
+      "message": "To add a new expression to your vocabulary you can use mouse hover menu or browser context menu (select text + right click) or this input field:"
+   },
+   "toVerb": {
+      "description": "part of 'Add example.org to Favorites List' sentence",
+      "message": "to"
+   },
+   "useBackground": {
+      "message": "Use background highlighting"
+   },
+   "useBold": {
+      "message": "Use bold font"
+   },
+   "useQuotes": {
+      "message": "Use quotes (instead of highlighting)"
+   },
+   "useText": {
+      "message": "Use text highlighting"
+   },
+   "vocabSizeInfo1": {
+      "description": "1-st part of \"Your vocabulary size: 100 words.\" sentence",
+      "message": "Your vocabulary size:"
+   },
+   "vocabSizeInfo2": {
+      "description": "2-nd part of \"Your vocabulary size: 100 words.\" sentence",
+      "message": "words."
+   },
+   "vocabSizeTranslateDbg": {
+      "message": "Your vocabulary size: 100 words."
+   }
+}

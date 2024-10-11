@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Διαγράψτε το ιστορικό του προγράμματος περιήγησης, την προσωρινή μνήμη και τα cookie για το Google Chrome με ένα μόνο κλικ!"
+   },
+   "app_name": {
+      "message": "Ιστορικό &amp; Cache Cleaner"
+   },
+   "options_common": {
+      "message": "Κοινές επιλογές"
+   },
+   "options_common_1": {
+      "message": "Αυτόματη επαναφόρτωση της ενεργής καρτέλας μετά την εκκαθάριση"
+   },
+   "options_common_2": {
+      "message": "Πλευρικό κουμπί \"Cache Cleaner\" σε όλες τις σελίδες"
+   },
+   "options_everything": {
+      "message": "Τα παντα"
+   },
+   "options_header": {
+      "message": "ΕΠΙΛΟΓΕΣ"
+   },
+   "options_last_day": {
+      "message": "Τελευταία μέρα"
+   },
+   "options_last_hour": {
+      "message": "Τελευταία ώρα"
+   },
+   "options_last_month": {
+      "message": "Τον προηγούμενο μήνα"
+   },
+   "options_last_week": {
+      "message": "Την προηγούμενη εβδομάδα"
+   },
+   "options_remove": {
+      "message": "Δεδομένα προς κατάργηση"
+   },
+   "options_remove_appcache": {
+      "message": "Cache εφαρμογών"
+   },
+   "options_remove_appcache_desc": {
+      "message": "Το HTML5 παρέχει έναν μηχανισμό προσωρινής αποθήκευσης εφαρμογών που επιτρέπει σε εφαρμογές που βασίζονται στον ιστό να εκτελούνται εκτός σύνδεσης. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν τη διεπαφή της προσωρινής μνήμης εφαρμογών (AppCache) για να καθορίσουν πόρους που θα πρέπει να αποθηκεύει η μνήμη cache του προγράμματος περιήγησης και να είναι διαθέσιμα σε χρήστες εκτός σύνδεσης. Οι εφαρμογές που αποθηκεύονται προσωρινά στη μνήμη και λειτουργούν σωστά ακόμα και αν οι χρήστες κάνουν κλικ στο κουμπί ανανέωσης όταν είναι εκτός σύνδεσης. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">Διαβάστε περισσότερα\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "Κρύπτη"
+   },
+   "options_remove_cache_desc": {
+      "message": "Το κείμενο των ιστοσελίδων που έχετε επισκεφτεί στο Google Chrome καταργείται από τον υπολογιστή σας. Τα προγράμματα περιήγησης αποθηκεύουν στοιχεία ιστοσελίδων για να επιταχύνουν τη φόρτωση της ιστοσελίδας κατά την επόμενη επίσκεψή σας. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Διαβάστε περισσότερα\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "Μπισκότα"
+   },
+   "options_remove_cookies_desc": {
+      "message": "Αρχεία αποθηκευμένα στον υπολογιστή σας από ιστότοπους που έχετε επισκεφτεί. Αυτά τα αρχεία περιέχουν πληροφορίες χρήστη, όπως προτιμήσεις για ιστότοπους ή πληροφορίες προφίλ. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Διαβάστε περισσότερα\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(επιλογές)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "Εκκαθαρίστε μόνο τα ακόλουθα (γρήγορα)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "Μην εκκαθαρίζετε τα ακόλουθα (αργά)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "Δεν έχουν οριστεί φίλτρα"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "Προσθήκη τομέα"
+   },
+   "options_remove_db": {
+      "message": "Ευρετήριο DB"
+   },
+   "options_remove_db_desc": {
+      "message": "Το IndexedDB είναι ένα API για την αποθήκευση σημαντικών ποσών δομημένων δεδομένων από την πλευρά του πελάτη, το οποίο επιτρέπει επίσης την αναζήτηση υψηλής απόδοσης αυτών των δεδομένων χρησιμοποιώντας ευρετήρια. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">Διαβάστε περισσότερα\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "Λήψεις"
+   },
+   "options_remove_downloads_desc": {
+      "message": "Η λίστα των αρχείων που έχετε κατεβάσει χρησιμοποιώντας το Google Chrome διαγράφεται, αλλά τα πραγματικά αρχεία δεν καταργούνται από τον υπολογιστή σας. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Διαβάστε περισσότερα\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "Στοιχεία φόρμας"
+   },
+   "options_remove_forms_desc": {
+      "message": "Όλες οι καταχωρίσεις αυτόματης συμπλήρωσης και οι εγγραφές κειμένου που έχετε εισάγει σε φόρμες ιστού διαγράφονται. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Διαβάστε περισσότερα\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "Συστήματα αρχείων"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Οι Εφαρμογές Chrome μπορούν να χρησιμοποιούν] το API chrome.fileSystem για τη δημιουργία, ανάγνωση, πλοήγηση και εγγραφή στο τοπικό σύστημα αρχείων του χρήστη. Με αυτό το API, οι Εφαρμογές Chrome μπορούν να διαβάζουν και να γράφουν σε μια τοποθεσία που έχει επιλέξει ο χρήστης. Για παράδειγμα, μια εφαρμογή επεξεργασίας κειμένου μπορεί να χρησιμοποιήσει το API για να διαβάσει και να γράψει τοπικά έγγραφα. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">Διαβάστε περισσότερα\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "Ιστορία"
+   },
+   "options_remove_history_desc": {
+      "message": "Η εκκαθάριση του ιστορικού περιήγησης διαγράφει συγκεκριμένα τα εξής: Διευθύνσεις ιστού που έχετε επισκεφθεί από τη σελίδα Ιστορικό, Αποθηκευμένο κείμενο αυτών των σελίδων, Στιγμιότυπα από αυτές τις σελίδες για εικόνες που εμφανίζονται στη σελίδα \"Νέα καρτέλα\", Οποιεσδήποτε διευθύνσεις IP έχουν προέλθει από αυτές τις σελίδες. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Διαβάστε περισσότερα\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "Κωδικοί πρόσβασης"
+   },
+   "options_remove_passwords_desc": {
+      "message": "Τα αρχεία με τα ονόματα χρήστη και τους κωδικούς πρόσβασης διαγράφονται. Εάν χρησιμοποιείτε Mac, οι εγγραφές κωδικών σας διαγράφονται από την Access Keychain. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Διαβάστε περισσότερα\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "Δεδομένα προσθήκης"
+   },
+   "options_remove_plugin_desc": {
+      "message": "Οποιαδήποτε δεδομένα από την πλευρά του πελάτη αποθηκεύονται από plug-ins που χρησιμοποιούν το API ClearSiteData του NPAPI. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">Διαβάστε περισσότερα\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Web SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "Η βάση δεδομένων Web SQL είναι ένα API ιστοσελίδας για την αποθήκευση δεδομένων σε βάσεις δεδομένων που μπορούν να αναζητηθούν χρησιμοποιώντας μια παραλλαγή του SQL. [...] Η Ομάδα Εργασίας των Εφαρμογών Web W3C σταμάτησε να εργάζεται για τις προδιαγραφές τον Νοέμβριο του 2010, αναφέροντας την έλλειψη ανεξάρτητων εφαρμογών (δηλ. Τη χρήση ενός συστήματος βάσης δεδομένων διαφορετικού από το SQLite ως backend) ως αιτία που η προδιαγραφή δεν μπορούσε να κινηθεί για να γίνει σύσταση του W3C. Ένα πιθανό εναλλακτικό πρότυπο αποθήκευσης είναι το IndexedDB. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">Διαβάστε περισσότερα\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "Τοπική αποθήκευση"
+   },
+   "options_remove_storage_desc": {
+      "message": "Το DOM Storage (το οποίο περιλαμβάνει την Τοπική αποθήκευση) έχει σχεδιαστεί για να παρέχει μια μεγαλύτερη, ασφαλέστερη και ευκολότερη στη χρήση εναλλακτική λύση για την αποθήκευση πληροφοριών σε cookies. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">Διαβάστε περισσότερα\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "ΚΑΘΑΡΗ!"
+   },
+   "popup_clear": {
+      "message": "Σαφή"
+   },
+   "popup_clearing": {
+      "message": "Ξέφωτο..."
+   },
+   "popup_label_rate": {
+      "message": "Παρακαλούμε αξιολογήστε μας!"
+   },
+   "popup_manage": {
+      "message": "Επιλογές"
+   }
+}

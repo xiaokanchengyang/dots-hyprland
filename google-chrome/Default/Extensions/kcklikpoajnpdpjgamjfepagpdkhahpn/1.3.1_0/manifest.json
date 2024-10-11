@@ -1,0 +1,24 @@
+{
+   "author": "Maxim Baz",
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Prevents browser fingerprinting by spoofing your plugins, languages and user agent",
+   "homepage_url": "https://github.com/maximbaz/browser-fingerprint-protector",
+   "icons": {
+      "128": "icon-128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsCaImUuOjVtH8zX86kvjr+DXipwXxttlABmQpm5w525JZAKwU5FiCWveQyXuL6dF5UhOYJhgfi3LTQScwLngAUkHexkDAYcyNQ9Rp2Rn1EDFMavROtHAJy5txKs2MfAi7dzwMTCaK2UqOzGptfg4b8/mIjMCtyQwhXLNyUshlRfFUvdjl+Ph3xo8joCbR5Z//Ff6U7e1ZinbErF2fjUJ4NysWdv/nVOVirT8hRj+rJyozuZVavhWaC1mRKOfCz6FAZjJ2bABNtlq8iJ5dWLWPPo4IjVVyKDV1VGn+n8Slo3tkdB9lghOSMV60GVUSrgwMvE8XBEdD1sw7qk9q42iXwIDAQAB",
+   "manifest_version": 2,
+   "name": "Browser Fingerprint Protector",
+   "permissions": [ "\u003Call_urls>", "webRequest", "webRequestBlocking" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3.1",
+   "web_accessible_resources": [ "inject.js" ]
+}

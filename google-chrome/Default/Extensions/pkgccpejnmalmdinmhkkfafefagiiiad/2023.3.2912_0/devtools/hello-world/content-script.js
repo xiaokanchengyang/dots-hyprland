@@ -1,0 +1,1 @@
+let cssInjected=!1;window.helloworldContentScript=function(){cssInjected||chrome.runtime.sendMessage({type:"fh-dynamic-any-thing",thing:"inject-content-css",devTool:!0,tool:"hello-world"}),console.log("你好，我是来自FeHelper的工具Demo：hello world！")},window.helloworldNoPage=function(e){alert("你好，我是来自FeHelper的工具Demo：hello world！你可以打开控制台看Demo的输出！"),console.log("你好，我是来自FeHelper的工具Demo：",e)};

@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "Virüsler / kötü amaçlı yazılım için bir web sitesi kontrol edin"
+   },
+   "city": {
+      "message": "Şehir"
+   },
+   "clickHere": {
+      "message": "buraya tıklayın"
+   },
+   "commentPage": {
+      "message": "Bu web sayfası ile ilgili görüş bırakmak için çekinmeyin"
+   },
+   "commentWebsite": {
+      "message": "Geçerli web sitesi hakkında yorum bırakmak için çekinmeyin"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "E-posta"
+   },
+   "embedCode": {
+      "message": "Web / blog Bu Yorum yerleştirmek için sadece aşağıdaki aşağıdaki html kodu kopyalayın ve web sayfanıza yerleştirebilirsiniz"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "Evsahibi"
+   },
+   "hostingCompany": {
+      "message": "Hosting Şirketi"
+   },
+   "hostingOwner": {
+      "message": "Hosting/Sahip"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "IP Adresi"
+   },
+   "ipv4": {
+      "message": "IPv4 Adresi"
+   },
+   "ipv6": {
+      "message": "IPv6 Adresi"
+   },
+   "location": {
+      "message": "Konum"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "Veri Yok"
+   },
+   "nsServers": {
+      "message": "Adı Sunucuları"
+   },
+   "otherSites": {
+      "message": "IP Diğer siteler"
+   },
+   "owner": {
+      "message": "Sahip"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "Bu geçerli sayfa hakkında yorumlarınız (veya bu sayfadaki ilgili ürünler) okuma ve yazma"
+   },
+   "permLink": {
+      "message": "Yorumlar için Kalıcı bağlantı"
+   },
+   "popularity": {
+      "message": "Popülerlik"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "Web Sayfası Yorumlar"
+   },
+   "reviewsWebsite": {
+      "message": "Web sitesi ile ilgili genel yorumlar"
+   },
+   "safeWeb": {
+      "message": "Norton Antivirüs"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "ülke görmek"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "günlük ziyaretçi"
+   },
+   "website": {
+      "message": "Web sitesi"
+   },
+   "websitePopularity": {
+      "message": "Web sitesi Popülarite (yaklaşık)"
+   },
+   "websiteReview": {
+      "message": "Sitesi yorumlar"
+   },
+   "websiteReviewHint": {
+      "message": "Bu web sitesi hakkında değerlendirmeleri okumak ve yazmak"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "Web sitesi Dünya Popüler Puanlama"
+   },
+   "worldRanking": {
+      "message": "Web Sitesi Dünya Popüler Sıralama (Alexa)"
+   },
+   "worldRankingHint": {
+      "message": "Çoğu web siteleri dünya çapında ziyaret edilen ilk 100.000 listelenen yalnızca Bu şema bir web sitesi için bir sıralama gösterir. . Site şu anda 100.000 altında bir sıralama pozisyonu varsa, herhangi bir veri görmez ve dünya sitesi sıralamasında site mevcut konumunu görmek için bu diyagram tıklamanız gerekir \n En Websiteleri ziyaret etti - Alexa Ranking - \n 1. - Facebook \n # 2 - Google \n # 3 - Youtube \n ... ... \n ... # 1000 - Icloud.com (günde yaklaşık 250.000 ziyaretçi) \n ... # 5000 - Totaljobs (günde yaklaşık 40.000 ziyaretçi) \n ... # 10.000 - Akamai (Günlük ortalama 25.000 civarında ziyaretçi) \n ... # 50.000 - Wikitree (günde yaklaşık 10.000 ziyaretçi) \n ... # 100,000 - Transpole (günde yaklaşık 5.000 ziyaretçi) \n ... # 300.000 - Tweaktv (günde yaklaşık 3.000 ziyaretçi) \n ... # 600.000 - (Günlük ortalama 1.300 ziyaretçi civarında) Springest \n ... # 1.000.000 - Elain (günde yaklaşık 250 ziyaretçi) \n ... ..."
+   }
+}

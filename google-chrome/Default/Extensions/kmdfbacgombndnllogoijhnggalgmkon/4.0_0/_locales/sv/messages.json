@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "Kontrollera en webbplats för virus/malware"
+   },
+   "city": {
+      "message": "Stad"
+   },
+   "clickHere": {
+      "message": "klicka här"
+   },
+   "commentPage": {
+      "message": "Du får gärna lämna dina kommentarer om den här webbplatsen"
+   },
+   "commentWebsite": {
+      "message": "Du får gärna lämna dina recensioner om aktuella webbsidan"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "E-post"
+   },
+   "embedCode": {
+      "message": "För att placera denna översyn på din hemsida / blogg helt enkelt kopiera följande html-koden nedan och lägg den i din webbsida"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "Värd"
+   },
+   "hostingCompany": {
+      "message": "Webbhotell"
+   },
+   "hostingOwner": {
+      "message": "Hosting/Ägare"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "IP-adress"
+   },
+   "ipv4": {
+      "message": "IPv4-adress"
+   },
+   "ipv6": {
+      "message": "IPv6-adress"
+   },
+   "location": {
+      "message": "Plats"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "Inga data"
+   },
+   "nsServers": {
+      "message": "Namnservrar"
+   },
+   "otherSites": {
+      "message": "Webbplatser på IP"
+   },
+   "owner": {
+      "message": "Ägare"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "Läs och skriv kommentarer om denna aktuella sidan (eller om produkter på denna sida)"
+   },
+   "permLink": {
+      "message": "Permanent länk till kommentarer"
+   },
+   "popularity": {
+      "message": "Popularitet"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "Webbsida Recensioner"
+   },
+   "reviewsWebsite": {
+      "message": "Allmänna Webbplats Recensioner"
+   },
+   "safeWeb": {
+      "message": "Norton SafeWeb"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "se land"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "besökare per dag"
+   },
+   "website": {
+      "message": "Webbplats"
+   },
+   "websitePopularity": {
+      "message": "Webbplats Popularitet (ungefär)"
+   },
+   "websiteReview": {
+      "message": "Webbplats Recensioner"
+   },
+   "websiteReviewHint": {
+      "message": "Läsa och skriva recensioner om denna webbplats"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "Webbplats World Populära Betyg"
+   },
+   "worldRanking": {
+      "message": "Webbplats World Populära Ranking (Alexa)"
+   },
+   "worldRankingHint": {
+      "message": "Detta diagram visar en ranking för en webbplats endast om det anges i toppen 100,000 mest besökta webbplatserna i världen. . Om webbplatsen har för närvarande en ranking position under 100.000 kommer du inte att se några data och du skulle behöva klicka på den här bilden för att se platsen sin nuvarande position i världen webbplats rankning \n mest besökta webbplatserna - Alexa Ranking - \n # 1 - Facebook \n # 2 - Google \n # 3 - Youtube \n ... ... \n ... # 1000 - Icloud.com (cirka 250.000 besökare per dag) \n ... # 5000 - Totaljobs (cirka 40.000 besökare per dag) \n ... # 10000 - Akamai (cirka 25.000 besökare per dag) \n ... # 50000 - Wikitree (cirka 10.000 besökare per dag) \n ... # 100000 - Transpole (cirka 5.000 besökare per dag) \n ... # 300000 - Tweaktv (ca 3000 besökare per dag) \n ... # 600000 - Springest (cirka 1.300 besökare per dag) \n ... # 1,000,000 - Elain (cirka 250 besökare per dag) \n ... ..."
+   }
+}

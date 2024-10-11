@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Очистите историју прегледача, предмеморију и колачиће за Гоогле Цхроме у само једном клику!"
+   },
+   "app_name": {
+      "message": "Хистори &amp; Цацхе Цлеанер"
+   },
+   "options_common": {
+      "message": "Опште опције"
+   },
+   "options_common_1": {
+      "message": "Аутоматски поново учитајте активну картицу након чишћења"
+   },
+   "options_common_2": {
+      "message": "Лебдеће дугме \"Чишћење предмеморије\" на свим странама"
+   },
+   "options_everything": {
+      "message": "Свашта"
+   },
+   "options_header": {
+      "message": "ОПЦИЈЕ"
+   },
+   "options_last_day": {
+      "message": "Последњи дан"
+   },
+   "options_last_hour": {
+      "message": "Последњи сат"
+   },
+   "options_last_month": {
+      "message": "Прошлог месеца"
+   },
+   "options_last_week": {
+      "message": "Прошле седмице"
+   },
+   "options_remove": {
+      "message": "Подаци за уклањање"
+   },
+   "options_remove_appcache": {
+      "message": "Апп Цацхе"
+   },
+   "options_remove_appcache_desc": {
+      "message": "ХТМЛ5 пружа механизам кеширања апликација који омогућава да се веб-апликације покрећу ван мреже. Програмери могу да користе интерфејс предмеморије (АппЦацхе) да одреде ресурсе које прегледач треба да кешира и учине доступним корисницима ван мреже. Апликације које се спремају у меморију и исправно раде чак и ако корисници кликну дугме за освежавање када су ван мреже. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">Прочитајте више\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "Кеш"
+   },
+   "options_remove_cache_desc": {
+      "message": "Текст веб страница које сте посетили у Гоогле Цхроме-у уклања се са вашег рачунара. Прегледници чувају елементе веб страница како би се убрзало учитавање веб странице током ваше следеће посете. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Прочитајте више\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "Колачићи"
+   },
+   "options_remove_cookies_desc": {
+      "message": "Датотеке које на вашем рачунару чувају веб локације које сте посетили. Ове датотеке садрже информације о корисницима, као што су поставке за веб локације или информације о профилу. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Прочитајте више\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(Опције)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "Обришите само следеће (брзо)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "Не почистите следеће (споро)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "Нема дефинисаних филтера"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "Додајте домен"
+   },
+   "options_remove_db": {
+      "message": "Индексирани ДБ"
+   },
+   "options_remove_db_desc": {
+      "message": "ИндекедДБ је АПИ за похрану значајних количина структурираних података на страни клијента, који такође омогућава претраживање ових података високим перформансама користећи индексе. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">Прочитајте више\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "Преузимања"
+   },
+   "options_remove_downloads_desc": {
+      "message": "Листа датотека које сте преузели помоћу Гоогле Цхроме-а брише се, али стварне датотеке се не уклањају са рачунара. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Прочитајте више\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "Подаци обрасца"
+   },
+   "options_remove_forms_desc": {
+      "message": "Сви ваши уноси у Аутоматско попуњавање и записи текста који сте унели на веб обрасце се бришу. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Прочитајте више\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "Филе системи"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Цхроме апликације могу користити] цхроме.филеСистем АПИ за креирање, читање, навигацију и писање у систем датотека датотека корисника. Помоћу овог АПИ-ја, Цхроме апликације могу да читају и пишу на локацију коју је изабрао корисник. На пример, апликација за уређивање текста може да користи АПИ за читање и писање локалних докумената. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">Прочитајте више\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "Историја"
+   },
+   "options_remove_history_desc": {
+      "message": "Ако бришете историју прегледавања, посебно бришете следеће: Веб адресе које сте посетили са странице Историја, Кеширани текст тих страница, Снимке тих страница за слике које се појављују на страници Нова картица, Било која ИП адреса која је претходно преузета са тих страница. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Прочитајте више\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "Лозинке"
+   },
+   "options_remove_passwords_desc": {
+      "message": "Записи корисничких имена и лозинки се бришу. Ако користите Мац, записи лозинке се бришу из Кеицхаин Аццесс-а. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Прочитајте више\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "Подаци о додатку"
+   },
+   "options_remove_plugin_desc": {
+      "message": "Сви подаци на страни клијента похрањени помоћу додатака који користе НПАПИ ЦлеарСитеДата АПИ. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">Прочитајте више\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Веб СКЛ"
+   },
+   "options_remove_sql_desc": {
+      "message": "Веб СКЛ база података је АПИ веб страница за чување података у базама података које се могу упитати користећи варијанту СКЛ-а. [...] Радна група за веб апликације за В3Ц престала је с радом на спецификацији у новембру 2010. године, наводећи недостатак независних имплементација (тј. Употребу базе података другог система, осим СКЛите-а) као разлог због којег се спецификација није могла преместити напријед да постане препорука В3Ц. Један потенцијални алтернативни стандард за складиштење је ИндекедДБ. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">Прочитајте више\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "Локално складиште"
+   },
+   "options_remove_storage_desc": {
+      "message": "ДОМ складиштење (које укључује локалну похрану) дизајнирано је тако да пружи већу, сигурнију и лакшу употребу за чување информација у колачићима. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">Прочитајте више\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "Чист!"
+   },
+   "popup_clear": {
+      "message": "Јасно"
+   },
+   "popup_clearing": {
+      "message": "Брисање ..."
+   },
+   "popup_label_rate": {
+      "message": "Молимо оцените нас!"
+   },
+   "popup_manage": {
+      "message": "Опције"
+   }
+}

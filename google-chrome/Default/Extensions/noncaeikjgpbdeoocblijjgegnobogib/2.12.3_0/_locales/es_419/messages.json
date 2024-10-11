@@ -1,0 +1,149 @@
+{
+   "addErrorBad": {
+      "message": "No se puede añadir."
+   },
+   "addErrorDupp": {
+      "message": "Ya está añadido."
+   },
+   "addFavoritesLabel": {
+      "message": "Lista de favoritos"
+   },
+   "addSkippedLabel": {
+      "message": "Lista de omisiones"
+   },
+   "addSuccess": {
+      "message": "Añadido."
+   },
+   "addTranslateDbg": {
+      "message": "Añadir [example.org] a [Lista de favoritos]"
+   },
+   "addVerb": {
+      "description": "part of 'Add example.org to Favorites List' sentence",
+      "message": "Añadir"
+   },
+   "adjust": {
+      "message": "Más ajustes..."
+   },
+   "adjustColorsHeader": {
+      "message": "Ajustar el color del resaltado"
+   },
+   "adjustOnlineDicts": {
+      "message": "Ajustar los diccionarios en línea para los menús del cursor del mouse y contextuales"
+   },
+   "adjustPopupHlHeader": {
+      "message": "Ajustar el menú emergente para las expresiones resaltadas"
+   },
+   "adjustPopupOwHeader": {
+      "message": "Ajustar el menú emergente para las palabras no resaltadas"
+   },
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Resalta palabras de diccionario y modismos raros en inglés en las páginas web. Facilita el aprendizaje del idioma inglés y amplía tu vocabulario."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store. Note to the translator: Do not translate first two words 'Words Discoverer'",
+      "message": "Word Discoverer: Amplía tu vocabulario"
+   },
+   "dictNameHeader": {
+      "message": "Nombre del diccionario:"
+   },
+   "dictUrlHeader": {
+      "message": "URL de consulta de diccionario:"
+   },
+   "disabledDescription": {
+      "message": "Destacar sólo los sitios de la \"lista de favoritos\"."
+   },
+   "emptyListError": {
+      "message": "La lista está vacía ;)"
+   },
+   "enableIdiomsLabel": {
+      "message": "Habilitar el resaltado de expresiones"
+   },
+   "enableWordsLabel": {
+      "message": "Habilitar el resaltado de palabras"
+   },
+   "enabledDescription": {
+      "message": "Resaltar todos los sitios de Internet, excepto los de la \"lista de omisiones\"."
+   },
+   "importInfo": {
+      "message": "Las palabras nuevas se añadirán a tu vocabulario actual."
+   },
+   "loadVocab": {
+      "message": "Importar vocabulario"
+   },
+   "menuItem": {
+      "description": "Text in context menu",
+      "message": "Añadir al vocabulario"
+   },
+   "rateInfo1": {
+      "description": "1-st part of \"Not highlighting 100 most common English words\" sentence",
+      "message": "No resaltar las"
+   },
+   "rateInfo2": {
+      "description": "2-nd part of \"Not highlighting 100 most common English words\" sentence",
+      "message": "palabras más comunes en inglés."
+   },
+   "rateTranslateDbg": {
+      "message": "No resaltar las 100 palabras más comunes en inglés"
+   },
+   "rbAlways": {
+      "message": "Mostrar el menú emergente en el cursor del mouse"
+   },
+   "rbKey": {
+      "message": "Mostrar el menú emergente en el cursor del mouse y la tecla [Ctrl]"
+   },
+   "rbNever": {
+      "message": "No mostrar el menú emergente"
+   },
+   "restoreDefaults": {
+      "message": "Restablecer los valores predeterminados"
+   },
+   "saveVisuals": {
+      "message": "Guardar"
+   },
+   "saveVocab": {
+      "message": "Exportar vocabulario"
+   },
+   "selectFile": {
+      "message": "Seleccionar archivo..."
+   },
+   "showVocab": {
+      "message": "Mostrar vocabulario"
+   },
+   "switchModeLabel": {
+      "message": "Cambiar modo"
+   },
+   "testBtn": {
+      "message": "Prueba"
+   },
+   "tipInfo": {
+      "message": "Para añadir una nueva expresión a tu vocabulario, puedes utilizar el menú del cursor del mouse o el menú contextual del navegador (selecciona el texto + clic derecho) o este campo de entrada:"
+   },
+   "toVerb": {
+      "description": "part of 'Add example.org to Favorites List' sentence",
+      "message": "a"
+   },
+   "useBackground": {
+      "message": "Utilizar resaltado de fondo"
+   },
+   "useBold": {
+      "message": "Utilizar negrita"
+   },
+   "useQuotes": {
+      "message": "Utilizar comillas (en lugar de resaltar)"
+   },
+   "useText": {
+      "message": "Utilizar resaltado de texto"
+   },
+   "vocabSizeInfo1": {
+      "description": "1-st part of \"Your vocabulary size: 100 words.\" sentence",
+      "message": "Tamaño de tu vocabulario:"
+   },
+   "vocabSizeInfo2": {
+      "description": "2-nd part of \"Your vocabulary size: 100 words.\" sentence",
+      "message": "palabras."
+   },
+   "vocabSizeTranslateDbg": {
+      "message": "Tamaño de tu vocabulario: 100 palabras."
+   }
+}

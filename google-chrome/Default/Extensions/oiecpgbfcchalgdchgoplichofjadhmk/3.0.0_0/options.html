@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title data-i18n="app_name">Super Clear History & Web Cache Options</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="css/fall.css">
+    <link rel="stylesheet" href="css/options.css">
+    <link href="https://fonts.googleapis.com/css?family=Monda" rel="stylesheet">
+</head>
+<body>
+
+<div id="main" class="hidden">
+    <div class="center-align" style="color:#191919"><i class="fas fa-cogs fa-7x"></i></div>
+    <div class="header-title" style="color:#191919" data-i18n="app_name">Clear History & Web Cache</div>
+    <div class="header-title" style="color:#191919" data-i18n="options_header">OPTIONS</b></div>
+
+    <section>
+        <h2 data-i18n="options_common">Common settings</h2>
+        <ul id="common-settings">
+            <li>
+                <input type="checkbox" name="autorefresh" id="autorefresh"/>
+                <label for="autorefresh" data-i18n="options_common_1">Automatically reload active tab after clearing</label>
+            </li>
+            <!--li>
+                <input type="checkbox" name="floatbtn" id="floatbtn"/>
+                <label for="floatbtn" data-i18n="options_common_2">Floating button "Cache Cleaner" on all pages</label>
+            </li-->
+        </ul>
+    </section>
+
+    <section>
+        <h2 data-i18n="options_remove">Data to Remove</h2>
+        <ul id="remove-list">
+            <li class="option-item">
+                <input type="checkbox" name="data_to_remove" value="appcache" id="appcache"/>
+                <label for="appcache" data-i18n="options_remove_appcache">App Cache</label>
+                <aside class="more-info">
+                    <blockquote cite="https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache" data-i18n="options_remove_appcache_desc">
+                    </blockquote>
+                </aside>
+            </li>
+            <li class="option-item">
+                <input type="checkbox" name="data_to_remove" value="cache" id="cache"/>
+                <label for="cache" data-i18n="options_remove_cache">Cache</label>
+                <aside class="more-info">
+                    <blockquote cite="https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&amp;rd=1" data-i18n="options_remove_cache_desc">
+                    </blockquote>
+                </aside>
+            </li>
+            <li class="option-item">
+                <input type="checkbox" name="data_to_remove" value="cookies" id="cookies"/>
+                <label for="cookies" data-i18n="options_remove_cookies">Cookies</label>
+                <a class="filters" href="#cookie-filters" data-i18n="options_remove_cookies_opt">(options)</a>
+                <aside id="cookie-filters" class="more-options">
+                    <p>
+                        <input type="radio" name="cookies_filter_inclusive" value="yes" id="cookies_filter_inclusive_yes"/>
+                        <label for="cookies_filter_inclusive_yes" data-i18n="options_remove_cookies_opt_1">Only clear the following (fast)</label>
+                        <input type="radio" name="cookies_filter_inclusive" value="no" id="cookies_filter_inclusive_no"/>
+                        <label for="cookies_filter_inclusive_no" data-i18n="options_remove_cookies_opt_2">Don't clear the following (slow)</label>
+                    </p>
+                    <ol></ol>
+                    <legend data-i18n="options_remove_cookies_opt_3">No filters defined</legend>
+                    <p>
+                        <a href="#" class="add" data-i18n="options_remove_cookies_opt_4">Add Domain</a>
+                    </p>
+                </aside>
+                <aside class="more-info">
+                    <blockquote cite="https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&amp;rd=1" data-i18n="options_remove_cookies_desc">
+                    </blockquote>
+                </aside>
+            </li>
+            <li class="option-item">
+                <input type="checkbox" name="data_to_remove" value="downloads" id="downloads"/>
+                <label for="downloads" data-i18n="options_remove_downloads">Downloads</label>
+                <aside class="more-info">
+                    <blockquote cite="https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&amp;rd=1" data-i18n="options_remove_downloads_desc">
+                    </blockquote>
+                </aside>
+            </li>
+            <li class="option-item">
+                <input type="checkbox" name="data_to_remove" value="fileSystems" id="fileSystems"/>
+                <label for="fileSystems" data-i18n="options_remove_fsys">File Systems</label>
+                <aside class="more-info">
+                    <blockquote cite="https://developer.chrome.com/apps/fileSystem" data-i18n="options_remove_fsys_desc">
+                    </blockquote>
+                </aside>
+            </li>
+            <li class="option-item">
+                <input type="checkbox" name="data_to_remove" value="formData" id="formData"/>
+                <label for="formData" data-i18n="options_remove_forms">Form Data</label>
+                <aside class="more-info" >
+                    <blockquote cite="https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&amp;rd=1" data-i18n="options_remove_forms_desc">
+                    </blockquote>
+                </aside>
+            </li>
+            <li class="option-item">
+                <input type="checkbox" name="data_to_remove" value="history" id="history"/>
+                <label for="history" data-i18n="options_remove_history">History</label>
+                <aside class="more-info">
+                    <blockquote cite="https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&amp;rd=1" data-i18n="options_remove_history_desc">
+                    </blockquote>
+                </aside>
+            </li>
+            <li class="option-item">
+                <input type="checkbox" name="data_to_remove" value="indexedDB" id="indexedDB"/>
+                <label for="indexedDB" data-i18n="options_remove_db">Indexed DB</label>
+                <aside class="more-info">
+                    <blockquote cite="https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API" data-i18n="options_remove_db_desc">
+                    </blockquote>
+                </aside>
+            </li>
+            <li class="option-item">
+                <input type="checkbox" name="data_to_remove" value="localStorage" id="localStorage"/>
+                <label for="localStorage" data-i18n="options_remove_storage">Local Storage</label>
+                <aside class="more-info">
+                    <blockquote cite="https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage" data-i18n="options_remove_storage_desc">
+                    </blockquote>
+                </aside>
+            </li>
+            <li class="option-item">
+                <input type="checkbox" name="data_to_remove" value="pluginData" id="pluginData"/>
+                <label for="pluginData" data-i18n="options_remove_plugin">Plugin Data</label>
+                <aside class="more-info">
+                    <blockquote cite="https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&amp;rd=1" data-i18n="options_remove_plugin_desc">
+                    </blockquote>
+                </aside>
+            </li>
+            <li class="option-item">
+                <input type="checkbox" name="data_to_remove" value="passwords" id="passwords"/>
+                <label for="passwords" data-i18n="options_remove_passwords">Passwords</label>
+                <aside class="more-info">
+                    <blockquote cite="https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&amp;rd=1" data-i18n="options_remove_passwords_desc">
+                    </blockquote>
+                </aside>
+            </li>
+            <li class="option-item">
+                <input type="checkbox" name="data_to_remove" value="webSQL" id="webSQL"/>
+                <label for="webSQL" data-i18n="options_remove_sql">WebSQL</label>
+                <aside class="more-info">
+                    <blockquote cite="http://en.wikipedia.org/wiki/Web_SQL_Database" data-i18n="options_remove_sql_desc">
+                    </blockquote>
+                </aside>
+            </li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Time Period</h2>
+        <ul id="time-period">
+            <li class="option-item">
+                <input type="radio" name="timeperiod" value="last_hour" id="last_hour"/>
+                <label for="last_hour" data-i18n="options_last_hour">Last Hour</label>
+            </li>
+            <li class="option-item">
+                <input type="radio" name="timeperiod" value="last_day" id="last_day"/>
+                <label for="last_day" data-i18n="options_last_day">Last Day</label>
+            </li>
+            <li class="option-item">
+                <input type="radio" name="timeperiod" value="last_week" id="last_week"/>
+                <label for="last_week" data-i18n="options_last_week">Last Week</label>
+            </li>
+            <li class="option-item">
+                <input type="radio" name="timeperiod" value="last_month" id="last_month"/>
+                <label for="last_month" data-i18n="options_last_month">Last Month</label>
+            </li>
+            <li class="option-item">
+                <input type="radio" name="timeperiod" value="everything" id="everything"/>
+                <label for="everything" data-i18n="options_everything">Everything</label>
+            </li>
+        </ul>
+    </section>
+</div>
+
+<!-- 
+<script src="js/load-default-options.js"></script> -->
+<script src="js/jquery.3.4.1.js"></script>
+<script src="js/Localize.js"></script>
+<script src="js/options.js"></script>
+</body>
+</html>

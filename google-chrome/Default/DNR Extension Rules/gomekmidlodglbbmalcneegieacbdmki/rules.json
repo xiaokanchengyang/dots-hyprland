@@ -1,0 +1,1 @@
+[{"action":{"requestHeaders":[{"header":"Sec-GPC","operation":"set","value":"1"}],"type":"modifyHeaders"},"condition":{"resourceTypes":["main_frame","sub_frame","xmlhttprequest","image","script"]},"id":1,"priority":1}]

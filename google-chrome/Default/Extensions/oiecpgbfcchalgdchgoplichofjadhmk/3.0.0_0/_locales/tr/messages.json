@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Tek bir tıklamayla tarayıcı geçmişinizi, önbelleğinizi ve Google Chrome çerezlerinizi temizleyin!"
+   },
+   "app_name": {
+      "message": "Geçmiş ve Önbellek Temizleyici"
+   },
+   "options_common": {
+      "message": "Ortak Seçenekler"
+   },
+   "options_common_1": {
+      "message": "Temizledikten sonra etkin sekmeyi otomatik olarak yeniden yükle"
+   },
+   "options_common_2": {
+      "message": "Tüm sayfalarda kayan düğme \"Önbellek Temizleyici\""
+   },
+   "options_everything": {
+      "message": "her şey"
+   },
+   "options_header": {
+      "message": "SEÇENEKLER"
+   },
+   "options_last_day": {
+      "message": "Son gun"
+   },
+   "options_last_hour": {
+      "message": "Son saat"
+   },
+   "options_last_month": {
+      "message": "Geçen ay"
+   },
+   "options_last_week": {
+      "message": "Geçen hafta"
+   },
+   "options_remove": {
+      "message": "Kaldırılacak Veriler"
+   },
+   "options_remove_appcache": {
+      "message": "Uygulama Önbelleği"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5, web tabanlı uygulamaların çevrimdışı çalışmasını sağlayan bir uygulama önbellekleme mekanizması sağlar. Geliştiriciler, tarayıcının önbelleğe alması ve çevrimdışı kullanıcılar tarafından kullanılabilir hale getirilmesi gereken kaynakları belirtmek için Uygulama Önbelleği (AppCache) arabirimini kullanabilir. Önbelleğe alınan uygulamalar, kullanıcılar çevrimdışı olduklarında yenile düğmesini tıklasa bile düzgün yüklenir ve çalışır. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">Devamını oku\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "Önbellek"
+   },
+   "options_remove_cache_desc": {
+      "message": "Google Chrome'da ziyaret ettiğiniz web sayfalarının metni bilgisayarınızdan kaldırıldı. Tarayıcılar, bir sonraki ziyaretinizde web sayfasının yüklenmesini hızlandırmak için web sayfalarının öğelerini saklar. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Devamını oku\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "Kurabiye"
+   },
+   "options_remove_cookies_desc": {
+      "message": "Ziyaret ettiğiniz web siteleri tarafından bilgisayarınızda depolanan dosyalar. Bu dosyalar, web siteleri için tercihler veya profil bilgileri gibi kullanıcı bilgilerini içerir. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Devamını oku\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(Seçenekler)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "Sadece aşağıdakileri temizleyin (hızlı)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "Aşağıdakileri temizlemeyin (yavaş)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "Tanımlanmış filtre yok"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "Etki Alanı Ekle"
+   },
+   "options_remove_db": {
+      "message": "Dizinli DB"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB, önemli miktarda yapılandırılmış verinin müşteri tarafında depolanması için bir API'dir; bu, aynı zamanda dizinleri kullanarak bu verilerin yüksek performanslı aramalarını da sağlar. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">Devamını oku\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "İndirilenler"
+   },
+   "options_remove_downloads_desc": {
+      "message": "Google Chrome'u kullanarak indirdiğiniz dosyaların listesi temizlendi, ancak gerçek dosyalar bilgisayarınızdan kaldırılmıyor. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Devamını oku\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "Form verisi"
+   },
+   "options_remove_forms_desc": {
+      "message": "Web formlarına girdiğiniz tüm Otomatik Doldurma girişleriniz ve metin kayıtlarınız silinir. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Devamını oku\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "Dosya Sistemleri"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Chrome Apps, kullanıcının yerel dosya sistemini oluşturmak, okumak, gezinmek ve yazmak için chrome.fileSystem API'sini kullanabilir. Bu API ile, Chrome Apps kullanıcı tarafından seçilen bir konumu okuyabilir ve yazabilir. Örneğin, bir metin editörü uygulaması yerel belgeleri okumak ve yazmak için API'yi kullanabilir. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">Devamını Oku\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "Tarihçe"
+   },
+   "options_remove_history_desc": {
+      "message": "Göz atma geçmişinizi özellikle aşağıdakileri siler: Geçmiş sayfasından ziyaret ettiğiniz web adresleri, Bu sayfaların önbelleğe alınmış metni, Yeni Sekme sayfasında görünen resimler için bu sayfaların anlık görüntüleri, Bu sayfalardan önceden getirilen IP adresleri. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Devamını oku\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "Şifreler"
+   },
+   "options_remove_passwords_desc": {
+      "message": "Kullanıcı adı ve şifre kayıtları silinir. Mac kullanıyorsanız, şifre kayıtlarınız Keychain Access'ten silinir. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Devamını oku\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "Eklenti Verileri"
+   },
+   "options_remove_plugin_desc": {
+      "message": "NPAPI ClearSiteData API kullanan eklentiler tarafından depolanan tüm istemci tarafı verileri. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">Devamını oku\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Web SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "Web SQL Veritabanı, bir SQL değişkeni kullanılarak sorgulanabilen veritabanlarında veri depolamak için bir web sayfası API'sidir. [...] W3C Web Uygulamaları Çalışma Grubu, Kasım 2010’daki şartname üzerinde çalışmayı bıraktı ve şartnamenin hareket edememe sebebi olarak bağımsız uygulamaların eksikliğini (yani, SQLite dışındaki bir veritabanı sisteminin kullanılmasını) gösterdi. W3C Tavsiyesi olmak için ileri. Potansiyel bir alternatif depolama standardı IndexedDB'dir. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">Devamını oku\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "Yerel depolama"
+   },
+   "options_remove_storage_desc": {
+      "message": "[Yerel Depolamayı içeren] DOM Depolaması, bilgileri çerezlerde saklamak için daha büyük, daha güvenli ve kullanımı kolay bir alternatif sağlamak üzere tasarlanmıştır. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">Devamını oku\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "Temiz!"
+   },
+   "popup_clear": {
+      "message": "Açık"
+   },
+   "popup_clearing": {
+      "message": "Temizleniyor ..."
+   },
+   "popup_label_rate": {
+      "message": "Lütfen Bizi Takip Edin!"
+   },
+   "popup_manage": {
+      "message": "Seçenekler"
+   }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "properties": {
+    "IdpConnectUrl": {
+      "type": "string",
+      "title": "Identity Provider Connect URL.",
+      "description": "The url used to login users to your identity provider."
+    }
+  }
+}

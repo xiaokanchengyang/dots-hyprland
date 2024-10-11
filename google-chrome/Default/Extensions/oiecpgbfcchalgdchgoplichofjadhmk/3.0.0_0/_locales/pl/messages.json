@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Wyczyść historię przeglądarki, pamięć podręczną i pliki cookie dla Google Chrome jednym kliknięciem!"
+   },
+   "app_name": {
+      "message": "History &amp; Cache Cleaner"
+   },
+   "options_common": {
+      "message": "Wspólne opcje"
+   },
+   "options_common_1": {
+      "message": "Automatycznie przeładuj aktywną kartę po wyczyszczeniu"
+   },
+   "options_common_2": {
+      "message": "Pływający przycisk „Cache Cleaner” na wszystkich stronach"
+   },
+   "options_everything": {
+      "message": "Wszystko"
+   },
+   "options_header": {
+      "message": "OPCJE"
+   },
+   "options_last_day": {
+      "message": "Ostatni dzień"
+   },
+   "options_last_hour": {
+      "message": "Ostatnia godzina"
+   },
+   "options_last_month": {
+      "message": "W zeszłym miesiącu"
+   },
+   "options_last_week": {
+      "message": "Zeszły tydzień"
+   },
+   "options_remove": {
+      "message": "Dane do usunięcia"
+   },
+   "options_remove_appcache": {
+      "message": "Pamięć podręczna aplikacji"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 zapewnia mechanizm buforowania aplikacji, który pozwala aplikacjom internetowym działać w trybie offline. Programiści mogą używać interfejsu pamięci podręcznej aplikacji (AppCache), aby określić zasoby, które przeglądarka powinna buforować i udostępniać użytkownikom offline. Aplikacje, które są buforowane, ładują się i działają poprawnie, nawet jeśli użytkownicy klikną przycisk odświeżania, gdy są offline. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">Czytaj więcej\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "Pamięć podręczna"
+   },
+   "options_remove_cache_desc": {
+      "message": "Tekst stron odwiedzonych w Google Chrome jest usuwany z komputera. Przeglądarki przechowują elementy stron internetowych, aby przyspieszyć ładowanie strony podczas następnej wizyty. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Czytaj więcej\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "Ciasteczka"
+   },
+   "options_remove_cookies_desc": {
+      "message": "Pliki przechowywane na twoim komputerze przez odwiedzane strony. Pliki te zawierają informacje o użytkowniku, takie jak preferencje dotyczące witryn internetowych lub informacje w profilu. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Czytaj więcej\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(opcje)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "Wyczyść tylko następujące (szybko)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "Nie usuwaj następujących elementów (powoli)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "Brak zdefiniowanych filtrów"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "Dodaj domenę"
+   },
+   "options_remove_db": {
+      "message": "Indeksowana baza danych"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB to interfejs API do przechowywania znacznych ilości danych strukturalnych po stronie klienta, który umożliwia również wyszukiwanie danych o wysokiej wydajności przy użyciu indeksów. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">Czytaj więcej\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "Pliki do pobrania"
+   },
+   "options_remove_downloads_desc": {
+      "message": "Lista plików pobranych za pomocą Google Chrome jest wyczyszczona, ale rzeczywiste pliki nie są usuwane z komputera. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Czytaj więcej\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "Tworzyć dane"
+   },
+   "options_remove_forms_desc": {
+      "message": "Wszystkie wpisy autouzupełniania i zapisy tekstu wprowadzonego do formularzy internetowych zostaną usunięte. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Czytaj więcej\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "Systemy plików"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Aplikacje Chrome mogą używać] interfejsu API chrome.fileSystem do tworzenia, odczytywania, nawigacji i zapisywania w lokalnym systemie plików użytkownika. Dzięki temu interfejsowi API aplikacje Chrome mogą odczytywać i zapisywać w wybranej przez użytkownika lokalizacji. Na przykład aplikacja do edytowania tekstu może używać interfejsu API do odczytu i zapisu lokalnych dokumentów. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">Czytaj więcej\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "Historia"
+   },
+   "options_remove_history_desc": {
+      "message": "Wyczyszczenie historii przeglądania powoduje w szczególności usunięcie: adresów internetowych odwiedzonych na stronie Historia, tekstu tych stron w pamięci podręcznej, migawek tych stron w przypadku obrazów wyświetlanych na stronie Nowa karta, wszelkich adresów IP pobranych wstępnie z tych stron. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Czytaj więcej\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "Hasła"
+   },
+   "options_remove_passwords_desc": {
+      "message": "Rejestry nazw użytkowników i haseł są usuwane. Jeśli używasz komputera Mac, rekordy hasła są usuwane z dostępu do pęku kluczy. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Czytaj więcej\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "Dane wtyczki"
+   },
+   "options_remove_plugin_desc": {
+      "message": "Wszelkie dane po stronie klienta przechowywane przez wtyczki korzystające z NPAPI ClearSiteData API. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">Czytaj więcej\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Web SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "Baza danych Web SQL to interfejs API strony internetowej służący do przechowywania danych w bazach danych, które można przeszukiwać za pomocą wariantu SQL. [...] Grupa robocza ds. Aplikacji internetowych W3C zaprzestała pracy nad specyfikacją w listopadzie 2010 r., Powołując się na brak niezależnych implementacji (tj. Użycie systemu baz danych innego niż SQLite jako zaplecza) jako powodu, dla którego specyfikacja nie mogła się przenieść naprzód, aby stać się Rekomendacją W3C. Jednym z potencjalnych alternatywnych standardów przechowywania jest IndexedDB. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">Czytaj więcej\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "Lokalny magazyn"
+   },
+   "options_remove_storage_desc": {
+      "message": "Pamięć DOM [która obejmuje przechowywanie lokalne] została zaprojektowana w celu zapewnienia większej, bezpieczniejszej i łatwiejszej w użyciu alternatywy dla przechowywania informacji w plikach cookie. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">Czytaj więcej\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "Czysty!"
+   },
+   "popup_clear": {
+      "message": "Jasny"
+   },
+   "popup_clearing": {
+      "message": "Clearing..."
+   },
+   "popup_label_rate": {
+      "message": "Oceń nas!"
+   },
+   "popup_manage": {
+      "message": "Opcje"
+   }
+}

@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Kosongkan sejarah penyemak imbas, cache dan kuki untuk Google Chrome hanya dalam satu klik!"
+   },
+   "app_name": {
+      "message": "Pembersih Sejarah &amp; Cache"
+   },
+   "options_common": {
+      "message": "Pilihan Biasa"
+   },
+   "options_common_1": {
+      "message": "Muat semula secara automatik tab aktif selepas dibersihkan"
+   },
+   "options_common_2": {
+      "message": "Tombol Floating \"Cache Cleaner\" pada semua halaman"
+   },
+   "options_everything": {
+      "message": "Semuanya"
+   },
+   "options_header": {
+      "message": "PILIHAN"
+   },
+   "options_last_day": {
+      "message": "Hari terakhir"
+   },
+   "options_last_hour": {
+      "message": "Jam terakhir"
+   },
+   "options_last_month": {
+      "message": "Bulan lepas"
+   },
+   "options_last_week": {
+      "message": "Minggu lepas"
+   },
+   "options_remove": {
+      "message": "Data untuk Alih Keluar"
+   },
+   "options_remove_appcache": {
+      "message": "Cache App"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 menyediakan mekanisme caching aplikasi yang membolehkan aplikasi berasaskan web berjalan di luar talian. Pemaju boleh menggunakan antara muka Aplikasi Cache (AppCache) untuk menentukan sumber yang penyemak imbas harus cache dan menyediakan kepada pengguna luar talian. Aplikasi yang memuatkan cache dan berfungsi dengan betul walaupun pengguna mengklik butang menyegarkan apabila di luar talian. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">Baca Lagi\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "Cache"
+   },
+   "options_remove_cache_desc": {
+      "message": "Teks halaman web yang anda lawati di Google Chrome dikeluarkan dari komputer anda. Pelayar menyimpan unsur halaman web untuk mempercepatkan memuat halaman web semasa lawatan anda yang akan datang. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Baca Lagi\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "Kuki"
+   },
+   "options_remove_cookies_desc": {
+      "message": "Fail yang disimpan di komputer anda oleh tapak web yang anda lawati. Fail ini mengandungi maklumat pengguna, seperti pilihan untuk tapak web atau maklumat profil. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Baca Lagi\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(pilihan)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "Hanya jelaskan perkara berikut (cepat)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "Jangan sembunyikan perkara berikut (perlahan)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "Tiada penapis yang ditakrifkan"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "Tambah Domain"
+   },
+   "options_remove_db": {
+      "message": "DB diindeks"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB adalah API untuk penyimpanan pelanggan sejumlah besar data berstruktur, yang juga membolehkan carian prestasi tinggi data ini menggunakan indeks. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">Baca Lagi\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "Muat turun"
+   },
+   "options_remove_downloads_desc": {
+      "message": "Senarai fail yang anda muat turun menggunakan Google Chrome dibersihkan, tetapi fail sebenar tidak dialih keluar dari komputer anda. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Baca Lagi\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "Borang Data"
+   },
+   "options_remove_forms_desc": {
+      "message": "Semua entri Autofill dan rekod teks yang anda masukkan dalam borang web dihapuskan. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Baca Lagi\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "Sistem Fail"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Chrome Apps boleh menggunakan] chrome.fileSystem API untuk membuat, membaca, mengemudi, dan menulis ke sistem fail tempatan pengguna. Dengan API ini, Apl Chrome boleh membaca dan menulis ke lokasi yang dipilih pengguna. Contohnya, aplikasi editor teks boleh menggunakan API untuk membaca dan menulis dokumen tempatan. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">Baca Lagi\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "Sejarah"
+   },
+   "options_remove_history_desc": {
+      "message": "Mengosongkan sejarah penyemakan imbas anda secara khusus memadam yang berikut: Alamat web yang anda lawati dari halaman Sejarah, Teks cache halaman-halaman itu, Gambar dari halaman-halaman itu untuk imej-imej yang muncul di halaman Tab Baharu, Mana-mana alamat IP yang diambil dari laman tersebut. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Baca Lagi\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "Kata laluan"
+   },
+   "options_remove_passwords_desc": {
+      "message": "Rekod nama pengguna dan kata laluan dihapuskan. Jika anda menggunakan Mac, rekod kata laluan anda dipadamkan dari Akses Keychain. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Baca Lagi\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "Data Plugin"
+   },
+   "options_remove_plugin_desc": {
+      "message": "Mana-mana data sisi pelanggan yang disimpan oleh pemalam yang menggunakan API NPAPI ClearSiteData. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">Baca Lagi\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Web SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "Pangkalan Data Web SQL adalah API halaman web untuk menyimpan data dalam pangkalan data yang boleh dipertimbangkan menggunakan variasi SQL. [...] Kumpulan Kerja Aplikasi Web W3C tidak lagi berfungsi pada spesifikasi pada bulan November 2010, memetik kekurangan pelaksanaan bebas (iaitu penggunaan sistem pangkalan data selain SQLite sebagai backend) sebagai alasan spesifikasi tidak dapat bergerak ke hadapan untuk menjadi Cadangan W3C. Satu piawaian penyimpanan alternatif yang berpotensi adalah IndexedDB. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">Baca Lagi\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "Penyimpanan Tempatan"
+   },
+   "options_remove_storage_desc": {
+      "message": "Penyimpanan DOM [yang termasuk Penyimpanan Tempatan] direka untuk menyediakan alternatif yang lebih besar, lebih selamat, dan mudah digunakan untuk menyimpan maklumat dalam kuki. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">Baca Lagi\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "Bersih!"
+   },
+   "popup_clear": {
+      "message": "Jelas"
+   },
+   "popup_clearing": {
+      "message": "Penjelasan ..."
+   },
+   "popup_label_rate": {
+      "message": "Sila Berikan Kami!"
+   },
+   "popup_manage": {
+      "message": "Pilihan"
+   }
+}

@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "ウイルス/不正プログラムのためのウェブサイトをチェックして"
+   },
+   "city": {
+      "message": "シティ"
+   },
+   "clickHere": {
+      "message": "ここをクリック"
+   },
+   "commentPage": {
+      "message": "このウェブページについてのコメントを残すこと自由に感じてください。"
+   },
+   "commentWebsite": {
+      "message": "現在のウェブサイトについてのあなたのレビューを残すこと自由に感じてください。"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "メール"
+   },
+   "embedCode": {
+      "message": "あなたのウェブサイト/ブログにこのレビューを配置するには、単に下に次のHTMLコードをコピーし、あなたのウェブページに配置します"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "ホスト"
+   },
+   "hostingCompany": {
+      "message": "ホスティング会社"
+   },
+   "hostingOwner": {
+      "message": "ホスティング、所有者"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "IPアドレス"
+   },
+   "ipv4": {
+      "message": "IPv4アドレス"
+   },
+   "ipv6": {
+      "message": "IPv6アドレス"
+   },
+   "location": {
+      "message": "場所"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "データがありません"
+   },
+   "nsServers": {
+      "message": "ネームサーバ"
+   },
+   "otherSites": {
+      "message": "IP上の他のサイト"
+   },
+   "owner": {
+      "message": "所有者"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "この現在のページについてコメントが（あるいはこのページで約製品）の読み取りおよび書き込み"
+   },
+   "permLink": {
+      "message": "コメントへの永久的なリンク"
+   },
+   "popularity": {
+      "message": "人気"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "ウェブページについてのレビュー"
+   },
+   "reviewsWebsite": {
+      "message": "ウェブサイトに関する一般的なレビュー"
+   },
+   "safeWeb": {
+      "message": "ウェブアンチウイルス"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "国を見る"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "一日あたりの訪問者"
+   },
+   "website": {
+      "message": "ウェブサイト"
+   },
+   "websitePopularity": {
+      "message": "ウェブサイト人気（約）"
+   },
+   "websiteReview": {
+      "message": "ウェブサイトのレビュー"
+   },
+   "websiteReviewHint": {
+      "message": "このウェブサイトについてのレビューを読むと書き込み"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "ウェブサイトの世界人気順評価"
+   },
+   "worldRanking": {
+      "message": "ウェブサイトの世界人気順評価順（アレクサ）"
+   },
+   "worldRankingHint": {
+      "message": "それはほとんどのウェブサイトは世界中の訪問トップ10万にリストされている場合にのみ、この図では、ウェブサイトのランキングが表示されます。 。サイトは現在10万以下ランキングポジションを持っている場合は、任意のデータが表示されませんし、あなたが世界のサイトランキングでサイトに、その現在位置を表示するには、この図をクリックする必要があります\nはほとんどのウェブサイトを訪問 - アレクサランキング - \n＃1 - Facebookの\nを＃2 - グーグル\n＃3 - YouTubeの\nを...ます... \n... ＃1,000 - Icloud.com（一日あたりの周り25万訪問者）\nを... ＃5,000 - Totaljobs（一日あたりの訪問者の周り40,000）\nを... ＃10,000 - アカマイ（一日あたりの訪問者の周り25,000）\nを... ＃50,000 - Wikitree（一日あたり1万人）\nを... ＃10万 - Transpole（一日あたりの訪問者の周り5,000）\nを... ＃30万 - Tweaktv（一日あたりの訪問者の周り3,000）\nを... ＃60万 - （一日あたりの訪問者1,300前後）Springest\n... ＃1,000,000 - Elain（一日あたりの周りの250訪問者）\nを......"
+   }
+}

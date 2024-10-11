@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Google Chrome के लिए बस एक क्लिक में अपना ब्राउज़र इतिहास, कैश और कुकी साफ़ करें!"
+   },
+   "app_name": {
+      "message": "इतिहास और कैश क्लीनर"
+   },
+   "options_common": {
+      "message": "आम विकल्प"
+   },
+   "options_common_1": {
+      "message": "समाशोधन के बाद सक्रिय टैब को स्वचालित रूप से पुनः लोड करें"
+   },
+   "options_common_2": {
+      "message": "सभी पृष्ठों पर फ़्लोटिंग बटन \"कैश क्लीनर\""
+   },
+   "options_everything": {
+      "message": "सब कुछ"
+   },
+   "options_header": {
+      "message": "विकल्प"
+   },
+   "options_last_day": {
+      "message": "आखरी दिन"
+   },
+   "options_last_hour": {
+      "message": "अंतिम घंटा"
+   },
+   "options_last_month": {
+      "message": "पिछले महीने"
+   },
+   "options_last_week": {
+      "message": "पिछले सप्ताह"
+   },
+   "options_remove": {
+      "message": "निकालने के लिए डेटा"
+   },
+   "options_remove_appcache": {
+      "message": "ऐप कैश"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 एक एप्लिकेशन कैशिंग तंत्र प्रदान करता है जो वेब-आधारित अनुप्रयोगों को ऑफ़लाइन चलाने देता है। डेवलपर्स उन संसाधनों को निर्दिष्ट करने के लिए एप्लिकेशन कैश (AppCache) इंटरफ़ेस का उपयोग कर सकते हैं जो ब्राउज़र को कैश करना चाहिए और ऑफ़लाइन उपयोगकर्ताओं को उपलब्ध कराना चाहिए। ऐसे एप्लिकेशन जो कैश्ड लोड होते हैं और सही ढंग से काम करते हैं भले ही उपयोगकर्ता ऑफ़लाइन होने पर ताज़ा बटन पर क्लिक करें। - और \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">पढ़ें\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "कैश"
+   },
+   "options_remove_cache_desc": {
+      "message": "Google Chrome में आपके द्वारा देखे गए वेबपृष्ठों का पाठ आपके कंप्यूटर से निकाल दिया गया है। ब्राउज़र आपकी अगली यात्रा के दौरान वेबपृष्ठ के लोडिंग को तेज़ करने के लिए वेबपृष्ठों के तत्वों को संग्रहीत करता है। - और \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">पढ़ें\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "कुकीज़"
+   },
+   "options_remove_cookies_desc": {
+      "message": "आपके द्वारा देखी गई वेबसाइटों द्वारा आपके कंप्यूटर पर संग्रहीत फ़ाइलें। इन फ़ाइलों में उपयोगकर्ता जानकारी होती है, जैसे कि वेबसाइट या प्रोफ़ाइल जानकारी के लिए प्राथमिकताएँ। - और \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">पढ़ें\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(विकल्प)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "केवल निम्नलिखित स्पष्ट (उपवास)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "निम्नलिखित को धीमा न करें (धीमा)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "कोई फ़िल्टर परिभाषित नहीं है"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "डोमेन जोड़ें"
+   },
+   "options_remove_db": {
+      "message": "अनुक्रमित DB"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB संरचित डेटा की महत्वपूर्ण मात्रा के क्लाइंट-साइड स्टोरेज के लिए एक एपीआई है, जो इंडेक्स का उपयोग करके इस डेटा की उच्च प्रदर्शन खोजों को सक्षम करता है। - और \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">पढ़ें\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "डाउनलोड"
+   },
+   "options_remove_downloads_desc": {
+      "message": "Google Chrome का उपयोग करके आपके द्वारा डाउनलोड की गई फ़ाइलों की सूची साफ़ हो गई है, लेकिन वास्तविक फ़ाइलें आपके कंप्यूटर से नहीं निकाली गई हैं। - और \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">पढ़ें\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "प्रपत्र डेटा"
+   },
+   "options_remove_forms_desc": {
+      "message": "वेब फ़ॉर्म पर आपके द्वारा दर्ज की गई सभी ऑटोफ़िल प्रविष्टियाँ और पाठ के रिकॉर्ड हटा दिए जाते हैं। - और \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">पढ़ें\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "फ़ाइल सिस्टम"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Chrome ऐप्स उपयोगकर्ता के स्थानीय फ़ाइल सिस्टम को बनाने, पढ़ने, नेविगेट करने और लिखने के लिए chrome.fileSystem API का उपयोग कर सकते हैं]। इस एपीआई के साथ, क्रोम ऐप्स उपयोगकर्ता द्वारा चुने गए स्थान पर पढ़ और लिख सकते हैं। उदाहरण के लिए, एक टेक्स्ट एडिटर ऐप स्थानीय दस्तावेजों को पढ़ने और लिखने के लिए एपीआई का उपयोग कर सकता है। [...] - और \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">पढ़ें\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "इतिहास"
+   },
+   "options_remove_history_desc": {
+      "message": "अपने ब्राउज़िंग इतिहास को साफ़ करने से विशेष रूप से निम्नलिखित को हटा दिया जाता है: आपके द्वारा इतिहास पृष्ठ पर गए वेब पते, उन पृष्ठों के कैश्ड पाठ, उन चित्रों के लिए उन पृष्ठों के स्नैपशॉट जो नए टैब पृष्ठ पर प्रकट होते हैं, उन पृष्ठों से किसी भी आईपी पते को पूर्व-प्राप्त किया जाता है। - और \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">पढ़ें\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "पासवर्डों"
+   },
+   "options_remove_passwords_desc": {
+      "message": "उपयोगकर्ता नाम और पासवर्ड के रिकॉर्ड हटा दिए जाते हैं। यदि आप एक मैक का उपयोग कर रहे हैं, तो आपके पासवर्ड रिकॉर्ड किचेन एक्सेस से हटा दिए जाते हैं। - और \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">पढ़ें\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "प्लगइन डेटा"
+   },
+   "options_remove_plugin_desc": {
+      "message": "प्लग-इन द्वारा संग्रहीत कोई भी क्लाइंट-साइड डेटा जो NPAPI ClearSiteData API का उपयोग करता है। - और \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">पढ़ें\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "वेब एसक्यूएल"
+   },
+   "options_remove_sql_desc": {
+      "message": "वेब एसक्यूएल डाटाबेस, डेटाबेस में डेटा स्टोर करने के लिए एक वेब पेज एपीआई है जिसे एसक्यूएल के एक वेरिएंट का उपयोग करके क्वेर किया जा सकता है। [...] W3C वेब एप्लिकेशन वर्किंग ग्रुप ने नवंबर 2010 में विनिर्देशन पर काम करना बंद कर दिया, जिसमें स्वतंत्र कार्यान्वयन की कमी का हवाला दिया गया (यानी, बैकलाइट के रूप में SQLite के अलावा डेटाबेस सिस्टम का उपयोग) क्योंकि विनिर्देश नहीं चल सका। आगे W3C अनुशंसा बनने के लिए। एक संभावित वैकल्पिक भंडारण मानक IndexedDB है। - और \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">पढ़ें\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "स्थानीय भंडार"
+   },
+   "options_remove_storage_desc": {
+      "message": "DOM संग्रहण [जिसमें स्थानीय भंडारण शामिल है] को कुकीज़ में सूचनाओं को संग्रहीत करने के लिए एक बड़ा, अधिक सुरक्षित और आसान उपयोग प्रदान करने के लिए डिज़ाइन किया गया है। - और \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">पढ़ें\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "स्वच्छ!"
+   },
+   "popup_clear": {
+      "message": "स्पष्ट"
+   },
+   "popup_clearing": {
+      "message": "समाशोधन ..."
+   },
+   "popup_label_rate": {
+      "message": "कृपया हमें दर!"
+   },
+   "popup_manage": {
+      "message": "विकल्प"
+   }
+}

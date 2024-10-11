@@ -1,0 +1,10 @@
+2024/10/11-15:15:42.550 e9b Reusing MANIFEST /home/change/.config/google-chrome/Default/IndexedDB/chrome-extension_oeopbcgkkoapgobdbedcemjljbihmemj_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/11-15:15:42.550 e9b Recovering log #20
+2024/10/11-15:15:42.553 e9b Level-0 table #24: started
+2024/10/11-15:15:42.561 e9b Level-0 table #24: 1068338 bytes OK
+2024/10/11-15:15:42.561 e9b Recovering log #24
+2024/10/11-15:15:42.569 e9b Reusing old log /home/change/.config/google-chrome/Default/IndexedDB/chrome-extension_oeopbcgkkoapgobdbedcemjljbihmemj_0.indexeddb.leveldb/000024.log 
+2024/10/11-15:15:42.581 e9b Delete type=2 #26
+2024/10/11-15:15:42.581 e9b Delete type=0 #17
+2024/10/11-15:15:42.581 e9b Delete type=2 #19
+2024/10/11-15:15:42.581 e9b Delete type=0 #20

@@ -1,0 +1,1 @@
+(()=>{var a;window.MathJax&&window.MathJax.Hub&&"function"==typeof window.MathJax.Hub.Queue?window.MathJax.Hub.Queue((()=>{a={hasMathJax:!0,completed:!0},window.postMessage({action:"EQUATIO_DISCOVERABILITY_MATHJAX",data:a},window.location.origin)})):(a={hasMathJax:!1,completed:!1},window.postMessage({action:"EQUATIO_DISCOVERABILITY_MATHJAX",data:a},window.location.origin))})();

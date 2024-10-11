@@ -1,0 +1,23 @@
+<application>
+  <component name="SettingsSyncSettings">
+    <option name="disabledSubcategories">
+      <map>
+        <entry key="PLUGINS">
+          <value>
+            <list>
+              <option value="AceJump" />
+              <option value="JRebelPlugin" />
+              <option value="com.baomidou.plugin.idea.mybatisx" />
+              <option value="com.samdark.intellij-visual-studio-code-dark-plus" />
+              <option value="com.sjhy.plugin.easycode" />
+              <option value="io.codearte.props2yaml" />
+              <option value="jclasslib" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="migrationFromOldStorageChecked" value="true" />
+    <option name="syncEnabled" value="true" />
+  </component>
+</application>

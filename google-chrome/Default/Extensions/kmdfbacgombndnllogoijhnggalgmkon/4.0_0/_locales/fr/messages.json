@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "Vérifiez un site Web pour les virus / programmes malveillants"
+   },
+   "city": {
+      "message": "Ville"
+   },
+   "clickHere": {
+      "message": "cliquez ici"
+   },
+   "commentPage": {
+      "message": "S'il vous plaît n'hésitez pas à laisser vos commentaires sur cette page web"
+   },
+   "commentWebsite": {
+      "message": "S'il vous plaît n'hésitez pas à laisser vos lire les avis à propos du site actuel"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "embedCode": {
+      "message": "Pour passer cet examen sur votre site / blog il suffit de copier le code HTML suivant ci-dessous et placez-le dans votre page Web"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "Hôte"
+   },
+   "hostingCompany": {
+      "message": "Société d'hébergement"
+   },
+   "hostingOwner": {
+      "message": "Hébergement/Propriétaire"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "Adresse IP"
+   },
+   "ipv4": {
+      "message": "Adresse IPv4"
+   },
+   "ipv6": {
+      "message": "Adresse IPv6"
+   },
+   "location": {
+      "message": "Emplacement"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "Pas de données"
+   },
+   "nsServers": {
+      "message": "Serveurs de Noms"
+   },
+   "otherSites": {
+      "message": "D'autres sites sur IP"
+   },
+   "owner": {
+      "message": "Propriétaire"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "Lire et écrire des commentaires sur cette page (ou en cours sur les produits sur cette page)"
+   },
+   "permLink": {
+      "message": "Lien permanent vers commentaires"
+   },
+   "popularity": {
+      "message": "Popularité"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "Page Web lire les avis"
+   },
+   "reviewsWebsite": {
+      "message": "Général Site lire les avis"
+   },
+   "safeWeb": {
+      "message": "Norton SafeWeb"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "voir du pays"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "visiteurs par jour"
+   },
+   "website": {
+      "message": "Site Web"
+   },
+   "websitePopularity": {
+      "message": "Site popularité (environ)"
+   },
+   "websiteReview": {
+      "message": "Site lire les avis"
+   },
+   "websiteReviewHint": {
+      "message": "Lire et écrire des articles sur ce site"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "Site Web World note populaires"
+   },
+   "worldRanking": {
+      "message": "Site Web Classement Populaire (Alexa)"
+   },
+   "worldRankingHint": {
+      "message": "Cette figure montre un classement pour un site que si elle est répertoriée dans les 100.000 top sites les plus visités dans le monde entier. Si le site a actuellement un poste de rang inférieur à 100.000 vous ne verrez pas toutes les données et vous devez cliquer sur le diagramme pour voir le site de sa position actuelle dans le classement du site du monde.\n Sites les plus visités - Classement Alexa -\n#1 - Facebook\n#2 - Google\n#3 - Youtube\n... ...\n#10,000 - Akamai\n... ...\n#300,000 - Tweaktv\n... ..."
+   }
+}

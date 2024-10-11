@@ -1,0 +1,80 @@
+{
+   "AnnotateWithKami": {
+      "message": "Annotate with Kami"
+   },
+   "CheckingAssignmentType": {
+      "message": "Checking assignment type..."
+   },
+   "ClassView": {
+      "message": "Class View"
+   },
+   "ClassViewDescriptionText": {
+      "message": "Now you can view the entire class's assignments, monitor progress, and grade multiple students in one go."
+   },
+   "ClassViewInKami": {
+      "message": "Class View in Kami"
+   },
+   "DownloadYourDocumentsIntoKami": {
+      "message": "Download your documents into Kami"
+   },
+   "EditAndUpdateAllStudentsCopies": {
+      "message": "Edit and update all students' copies"
+   },
+   "EditAssignment": {
+      "message": "Edit assignment"
+   },
+   "EditWithKami": {
+      "message": "Edit with Kami"
+   },
+   "GotIt": {
+      "message": "Got it"
+   },
+   "GradeWithKami": {
+      "message": "Grade with Kami"
+   },
+   "KamiAssignment": {
+      "message": "Kami Assignment"
+   },
+   "KamiIsAttachingYourFile": {
+      "message": "Kami is attaching your file"
+   },
+   "LearnMore": {
+      "message": "Learn more"
+   },
+   "MakeEditsToAssignedWorkAndPublishChangesToAllStudentsCopies": {
+      "message": "Make edits to assigned work and publish changes to all students' copies."
+   },
+   "MakeEditsToAssignmentAndUpdateAllStudentCopies": {
+      "message": "Make edits to the assignment and update all student copies"
+   },
+   "Next": {
+      "message": "Next"
+   },
+   "OpenClassView": {
+      "message": "Open Class View"
+   },
+   "OpenInClassView": {
+      "message": "Open in Class View"
+   },
+   "OpenKamiInNewTab": {
+      "message": "Open Kami in new tab"
+   },
+   "OpenWithKami": {
+      "message": "Open with Kami"
+   },
+   "PleaseKeepThisWindowOpenAndOnTop": {
+      "message": "Please keep this window open and on top"
+   },
+   "TrackAndGradeAllStudentsWork": {
+      "message": "Track and grade all students' work"
+   },
+   "UnknownErrorCouldNotGetMessageFromErrorCard": {
+      "message": "Unknown error: Could not get message from error card"
+   },
+   "UpdateWithKami": {
+      "message": "Update with Kami"
+   },
+   "UpdateWork": {
+      "message": "Update work"
+   }
+}

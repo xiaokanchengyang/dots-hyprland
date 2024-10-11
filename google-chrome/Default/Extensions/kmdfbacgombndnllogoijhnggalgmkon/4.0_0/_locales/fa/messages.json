@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "بررسی یک وب سایت برای ویروس ها / تروجان"
+   },
+   "city": {
+      "message": "شهرستان"
+   },
+   "clickHere": {
+      "message": "اینجا را کلیک کنید"
+   },
+   "commentPage": {
+      "message": "لطفا در صورت احساس رایگان به ترک نظرات خود را در مورد این صفحه وب"
+   },
+   "commentWebsite": {
+      "message": "لطفا در صورت احساس رایگان به ترک نظرات شما در مورد وب سایت فعلی"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "ایمیل"
+   },
+   "embedCode": {
+      "message": "برای این بررسی را بر روی وب سایت / وبلاگ شما به سادگی کد زیر HTML زیر را در صفحه وب خود کپی کنید و آن را"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "میزبان"
+   },
+   "hostingCompany": {
+      "message": "میزبانی وب شرکت"
+   },
+   "hostingOwner": {
+      "message": "میزبانی وب / مالک"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "آدرس آی پی"
+   },
+   "ipv4": {
+      "message": "آدرس آی پی v4"
+   },
+   "ipv6": {
+      "message": "آدرس آی پی v6"
+   },
+   "location": {
+      "message": "محل"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "هیچ داده ای"
+   },
+   "nsServers": {
+      "message": "سرورهای نام"
+   },
+   "otherSites": {
+      "message": "وب سایت ها آی پی"
+   },
+   "owner": {
+      "message": "مالک"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "خواندن و نوشتن نظر درباره این صفحه فعلی (و یا در مورد محصولات در این صفحه)"
+   },
+   "permLink": {
+      "message": "لینک دائم نظر"
+   },
+   "popularity": {
+      "message": "محبوبیت"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "نظرات صفحه وب"
+   },
+   "reviewsWebsite": {
+      "message": "نظرات وب سایت عمومی"
+   },
+   "safeWeb": {
+      "message": "وب سایت آنتی ویروس"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "دیدن کشور"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "بازدید کننده در روز"
+   },
+   "website": {
+      "message": "سایت اینترنتی"
+   },
+   "websitePopularity": {
+      "message": "محبوبیت وب سایت (تقریبا)"
+   },
+   "websiteReview": {
+      "message": "نظرات وب سایت"
+   },
+   "websiteReviewHint": {
+      "message": "خواندن و نوشتن در مورد این وب سایت"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "وب سایت جهانی محبوب امتیاز"
+   },
+   "worldRanking": {
+      "message": "وب سایت جهانی محبوب رتبه (الکسا)"
+   },
+   "worldRankingHint": {
+      "message": "در سراسر جهان بازدید. اگر این سایت در حال حاضر دارای رتبه و موقعیت کمتر از 100،000 شما هر گونه اطلاعات را نمی بینم و شما می توانید با کلیک بر روی این دیاگرام نیاز به مراجعه به سایت موقعیت فعلی خود را در رتبه بندی سایت جهان را \n وب سایت های بازدید - افزایش بازدید و رنک - \n # 1 - فیسبوک \n # 2 - گوگل \n # 3 - یوتیوب \n ... کنید ... \n ... # 1،000 - Icloud.com (در اطراف 250،000 بازدید کننده در هر روز) \n ... # 5،000 - Totaljobs (حدود 40،000 بازدید کننده در هر روز) \n ... # 10،000 - Akamai (اطراف 25،000 بازدید کننده در روز میباشد) \n ... # 50،000 - Wikitree (حدود 10،000 بازدید کننده در روز میباشد) \n ... # 100،000 - Transpole (حدود 5،000 بازدید کننده در روز میباشد) \n ... # 300،000 - Tweaktv (حدود 3،000 بازدید کننده در هر روز) \n ... # 600،000 - Springest به (حدود 1،300 بازدید کننده در هر روز) \n ... # 1،000،000 - Elain (حدود 250 بازدید کننده در روز) \n ......"
+   }
+}

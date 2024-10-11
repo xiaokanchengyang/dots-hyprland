@@ -1,0 +1,3 @@
+/*!
+ * @license Mathematical and Scientific Expression Editor for Computer Systems - United States Patent No. 11,501,055 - Texthelp Ltd
+ */

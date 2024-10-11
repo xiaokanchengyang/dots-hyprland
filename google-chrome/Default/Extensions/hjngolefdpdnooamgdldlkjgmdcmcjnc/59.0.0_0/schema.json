@@ -1,0 +1,82 @@
+{
+    "type": "object",
+    "properties": {
+        "features": {
+            "type": "object",
+            "properties": {
+                "prediction": {
+					"title": "Prediction feature",
+					"description": "This enables or disables prediction / autocomplete suggestions from showing when typing in the Equation editor.",
+					"type": "boolean",
+					"default": true
+				},
+				"equation": {
+					"title": "Equation Drawer",
+					"description": "Show/hide the Equation input button on the toolbar. This will stop the Equation editor drawer from being accessed.",
+					"type": "boolean",
+					"default": true
+                },
+                "latex": {
+					"title": "LaTeX Drawer",
+					"description": "Show/hide the LaTeX input button on the toolbar. This will stop the LaTeX drawer from being accessed.",
+					"type": "boolean",
+					"default": true
+                },
+                "graph": {
+					"title": "Graph Drawer",
+					"description": "Show/hide the graph input button on the toolbar. This will stop the graph drawer from being accessed.",
+					"type": "boolean",
+					"default": true
+                },
+                "handwriting": {
+					"title": "Handwriting Drawer",
+					"description": "Show/hide the handwriting input button on the toolbar. This will stop the handwriting drawer from being accessed.",
+					"type": "boolean",
+					"default": true
+                },
+                "speech": {
+					"title": "Speech Drawer",
+					"description": "Show/hide the speech input button on the toolbar. This will stop the speech input drawer from being accessed.",
+					"type": "boolean",
+					"default": true
+                },
+                "companion": {
+					"title": "Mobile Drawer",
+					"description": "Show/hide the Equatio mobile button on the toolbar. This will stop the mobile drawer from being accessed.",
+					"type": "boolean",
+					"default": true
+                },
+                "equatio-mathspace": {
+					"title": "Mathspace Inserts",
+					"description": "Show/hide the insert mathspace button on the toolbar.",
+					"type": "boolean",
+					"default": true
+                },
+                "screenshot_reader": {
+					"title": "Screenshot Reader Feature",
+					"description": "Show/hide the screenshot reader button on the toolbar.",
+					"type": "boolean",
+					"default": true
+                },
+                "equatio-academy": {
+					"title": "Equatio Academy Tips",
+					"description": "Show/hide tips displayed at the bottom of a drawer. These tips can be opened in floating window with more details.",
+					"type": "boolean",
+					"default": true
+                },
+                "stem-tools": {
+					"title": "STEM Tools",
+					"description": "Remove STEM Tools button from the toolbar. STEM Features such as the molecular viewer, periodic table and calculator.",
+					"type": "boolean",
+					"default": true
+                },
+				"ai-generation": {
+					"title": "AI Generation",
+					"description": "This enables or disables our math AI generation tools.",
+					"type": "boolean",
+					"default": true
+				}
+            }
+        }
+    }
+}

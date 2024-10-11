@@ -1,0 +1,6 @@
+2024/10/10-14:40:06.909 a52 Creating DB /home/change/.config/google-chrome/Default/IndexedDB/https_platform.openai.com_0.indexeddb.leveldb since it was missing.
+2024/10/10-14:40:06.930 a52 Reusing MANIFEST /home/change/.config/google-chrome/Default/IndexedDB/https_platform.openai.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/10-14:40:13.935 a3a Level-0 table #5: started
+2024/10/10-14:40:13.940 a3a Level-0 table #5: 1150 bytes OK
+2024/10/10-14:40:13.951 a3a Delete type=0 #3
+2024/10/10-14:40:13.951 a3a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

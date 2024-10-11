@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Xóa lịch sử trình duyệt, bộ nhớ cache và cookie cho Google Chrome chỉ bằng một cú nhấp chuột!"
+   },
+   "app_name": {
+      "message": "Lịch sử &amp; Cache Cleaner"
+   },
+   "options_common": {
+      "message": "Tùy chọn chung"
+   },
+   "options_common_1": {
+      "message": "Tự động tải lại tab hoạt động sau khi xóa"
+   },
+   "options_common_2": {
+      "message": "Nút nổi \"Trình dọn dẹp bộ đệm\" trên tất cả các trang"
+   },
+   "options_everything": {
+      "message": "Mọi điều"
+   },
+   "options_header": {
+      "message": "LỰA CHỌN"
+   },
+   "options_last_day": {
+      "message": "Ngày cuối"
+   },
+   "options_last_hour": {
+      "message": "Giờ cuối cùng"
+   },
+   "options_last_month": {
+      "message": "Tháng trước"
+   },
+   "options_last_week": {
+      "message": "Tuần trước"
+   },
+   "options_remove": {
+      "message": "Dữ liệu cần xóa"
+   },
+   "options_remove_appcache": {
+      "message": "Bộ nhớ cache ứng dụng"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 cung cấp một cơ chế lưu trữ ứng dụng cho phép các ứng dụng dựa trên web chạy ngoại tuyến. Các nhà phát triển có thể sử dụng giao diện Cache ứng dụng (AppCache) để chỉ định các tài nguyên mà trình duyệt nên lưu trữ và cung cấp cho người dùng ngoại tuyến. Các ứng dụng được tải trong bộ nhớ cache và hoạt động chính xác ngay cả khi người dùng nhấp vào nút làm mới khi ngoại tuyến. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">Đọc thêm\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "Bộ nhớ cache"
+   },
+   "options_remove_cache_desc": {
+      "message": "Văn bản của các trang web bạn đã truy cập trong Google Chrome sẽ bị xóa khỏi máy tính của bạn. Trình duyệt lưu trữ các yếu tố của trang web để tăng tốc độ tải trang web trong lần truy cập tiếp theo của bạn. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Đọc thêm\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "Bánh quy"
+   },
+   "options_remove_cookies_desc": {
+      "message": "Các tệp được lưu trữ trên máy tính của bạn bởi các trang web bạn đã truy cập. Những tệp này chứa thông tin người dùng, chẳng hạn như tùy chọn cho trang web hoặc thông tin hồ sơ. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Đọc thêm\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(tùy chọn)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "Chỉ xóa những điều sau đây (nhanh)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "Không xóa các mục sau (chậm)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "Không có bộ lọc được xác định"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "Thêm tên miền"
+   },
+   "options_remove_db": {
+      "message": "DB được lập chỉ mục"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB là một API để lưu trữ phía máy khách một lượng dữ liệu có cấu trúc đáng kể, cũng cho phép tìm kiếm hiệu suất cao của dữ liệu này bằng cách sử dụng các chỉ mục. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">Đọc thêm\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "Tải xuống"
+   },
+   "options_remove_downloads_desc": {
+      "message": "Danh sách các tệp bạn đã tải xuống bằng Google Chrome sẽ bị xóa nhưng các tệp thực tế không bị xóa khỏi máy tính của bạn. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Đọc thêm\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "Biểu mẫu dữ liệu"
+   },
+   "options_remove_forms_desc": {
+      "message": "Tất cả các mục nhập Tự động điền và bản ghi văn bản bạn đã nhập trên biểu mẫu web sẽ bị xóa. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Đọc thêm\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "Hệ thống tập tin"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Ứng dụng Chrome có thể sử dụng] API chrome.fileSystem để tạo, đọc, điều hướng và ghi vào hệ thống tệp cục bộ của người dùng. Với API này, Ứng dụng Chrome có thể đọc và ghi vào vị trí do người dùng chọn. Ví dụ: ứng dụng soạn thảo văn bản có thể sử dụng API để đọc và viết tài liệu cục bộ. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">Đọc thêm\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "Lịch sử"
+   },
+   "options_remove_history_desc": {
+      "message": "Xóa lịch sử duyệt web của bạn sẽ xóa một cách cụ thể các mục sau: Địa chỉ web bạn đã truy cập từ trang Lịch sử, văn bản được lưu trong các trang đó, Ảnh chụp nhanh của các trang đó cho hình ảnh xuất hiện trên trang Tab mới, Bất kỳ địa chỉ IP nào được tìm nạp trước từ các trang đó. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Đọc thêm\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "Mật khẩu"
+   },
+   "options_remove_passwords_desc": {
+      "message": "Hồ sơ của tên người dùng và mật khẩu sẽ bị xóa. Nếu bạn đang sử dụng máy Mac, hồ sơ mật khẩu của bạn sẽ bị xóa khỏi Keychain Access. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Đọc thêm\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "Plugin dữ liệu"
+   },
+   "options_remove_plugin_desc": {
+      "message": "Bất kỳ dữ liệu phía máy khách nào được lưu trữ bởi các trình cắm sử dụng API NPAPI ClearSiteData. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">Đọc thêm\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Web SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "Cơ sở dữ liệu Web SQL là API trang web để lưu trữ dữ liệu trong cơ sở dữ liệu có thể được truy vấn bằng cách sử dụng một biến thể của SQL. [...] Nhóm làm việc về các ứng dụng web W3C đã ngừng hoạt động về đặc tả vào tháng 11 năm 2010, do thiếu các triển khai độc lập (nghĩa là việc sử dụng một hệ thống cơ sở dữ liệu khác với SQLite làm phụ trợ) vì lý do đặc tả không thể di chuyển chuyển tiếp để trở thành một khuyến nghị của W3C. Một tiêu chuẩn lưu trữ thay thế tiềm năng là IndexedDB. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">Đọc thêm\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "Lưu trữ cục bộ"
+   },
+   "options_remove_storage_desc": {
+      "message": "Lưu trữ DOM [bao gồm Lưu trữ cục bộ] được thiết kế để cung cấp giải pháp thay thế lớn hơn, an toàn hơn và dễ sử dụng hơn để lưu trữ thông tin trong cookie. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">Đọc thêm\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "Dọn dẹp!"
+   },
+   "popup_clear": {
+      "message": "Thông thoáng"
+   },
+   "popup_clearing": {
+      "message": "Dọn dẹp ..."
+   },
+   "popup_label_rate": {
+      "message": "Hãy đánh giá chúng tôi!"
+   },
+   "popup_manage": {
+      "message": "Tùy chọn"
+   }
+}

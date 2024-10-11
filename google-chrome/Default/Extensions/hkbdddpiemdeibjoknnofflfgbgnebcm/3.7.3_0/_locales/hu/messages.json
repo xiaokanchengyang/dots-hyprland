@@ -1,0 +1,14 @@
+{
+   "description": {
+      "message": "YouTube kétnyelvű feliratok, két nyelv egyidejű megjelenítése, támogatja az egyéni stílusokat."
+   },
+   "name": {
+      "message": "YouTube™ Kettős feliratok"
+   },
+   "popup1": {
+      "message": "A feliratbeállítások átkerültek a felirat bal felső sarkába."
+   },
+   "popup2": {
+      "message": "Vigye az egeret a menü leírásának megtekintéséhez"
+   }
+}

@@ -1,0 +1,23 @@
+{
+   "ext_description": {
+      "message": "Browse the web faster."
+   },
+   "ext_name": {
+      "message": "FasterWeb"
+   },
+   "search_ai_answer_title": {
+      "message": "GPT answer"
+   },
+   "search_ai_brands_title": {
+      "message": "Related brands"
+   },
+   "search_ai_header_tooltip_close": {
+      "message": "Close"
+   },
+   "search_ai_sponsored_title": {
+      "message": "Sponsored"
+   },
+   "search_ai_suggest_title": {
+      "message": "Related searches"
+   }
+}

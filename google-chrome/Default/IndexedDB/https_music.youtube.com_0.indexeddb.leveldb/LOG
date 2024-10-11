@@ -1,0 +1,11 @@
+2024/10/11-15:18:08.292 1138 Reusing MANIFEST /home/change/.config/google-chrome/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/11-15:18:08.292 1138 Recovering log #47
+2024/10/11-15:18:08.296 1138 Reusing old log /home/change/.config/google-chrome/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000047.log 
+2024/10/11-15:18:08.296 1138 Delete type=2 #49
+2024/10/11-15:18:08.296 1138 Delete type=0 #44
+2024/10/11-15:18:09.258 113a Compacting 1@1 + 1@2 files
+2024/10/11-15:18:09.268 113a Generated table #50@1: 577 keys, 40423 bytes
+2024/10/11-15:18:09.268 113a Compacted 1@1 + 1@2 files => 40423 bytes
+2024/10/11-15:18:09.279 113a compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/11-15:18:09.279 113a Delete type=2 #46
+2024/10/11-15:18:09.279 113a Delete type=2 #48

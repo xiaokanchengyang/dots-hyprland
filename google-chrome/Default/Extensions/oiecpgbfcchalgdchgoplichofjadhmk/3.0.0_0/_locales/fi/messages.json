@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Tyhjennä Google Chrome -selaimesi historia, välimuisti ja evästeet yhdellä napsautuksella!"
+   },
+   "app_name": {
+      "message": "Historia ja välimuistien puhdistaja"
+   },
+   "options_common": {
+      "message": "Yleiset vaihtoehdot"
+   },
+   "options_common_1": {
+      "message": "Lataa aktiivinen välilehti automaattisesti uudelleen tyhjennyksen jälkeen"
+   },
+   "options_common_2": {
+      "message": "Kelluva painike \"Välimuistin puhdistin\" kaikilla sivuilla"
+   },
+   "options_everything": {
+      "message": "Kaikki"
+   },
+   "options_header": {
+      "message": "VAIHTOEHDOT"
+   },
+   "options_last_day": {
+      "message": "Viimeinen päivä"
+   },
+   "options_last_hour": {
+      "message": "Viime tunti"
+   },
+   "options_last_month": {
+      "message": "Viime kuukausi"
+   },
+   "options_last_week": {
+      "message": "Viime viikko"
+   },
+   "options_remove": {
+      "message": "Poistettavat tiedot"
+   },
+   "options_remove_appcache": {
+      "message": "Sovelluksen välimuisti"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 tarjoaa sovellusten välimuistin mekanismin, jonka avulla verkkopohjaiset sovellukset voivat toimia offline-tilassa. Kehittäjät voivat käyttää sovellusvälimuistia (AppCache) käyttöliittymän avulla määritelläksesi resurssit, jotka selaimen on välimuisti tallennettava ja asetettava offline-käyttäjien saataville. Välimuistiin tallennetut sovellukset latautuvat ja toimivat oikein, vaikka käyttäjät napsauttavat päivityspainiketta offline-tilassa. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">Lue lisää\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "Kätkö"
+   },
+   "options_remove_cache_desc": {
+      "message": "Google Chromessa vierailtujen verkkosivujen teksti poistetaan tietokoneeltasi. Selaimet tallentavat verkkosivujen osia nopeuttaaksesi verkkosivun lataamista seuraavan vierailusi aikana. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lue lisää\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "Keksit"
+   },
+   "options_remove_cookies_desc": {
+      "message": "Käytetyn verkkosivuston tiedostoja, jotka on tallennettu tietokoneellesi. Nämä tiedostot sisältävät käyttäjätietoja, kuten verkkosivustojen asetukset tai profiilitiedot. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lue lisää\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(Optiot)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "Poista vain seuraavat (nopea)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "Älä tyhjennä seuraavaa (hidas)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "Suodattimia ei määritetty"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "Lisää verkkotunnus"
+   },
+   "options_remove_db": {
+      "message": "Indeksoitu DB"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB on sovellusliittymä, jolla voidaan tallentaa merkittäviä määriä jäsenneltyjä tietoja asiakaspuolella, mikä mahdollistaa myös näiden tietojen korkean suorituskyvyn hakujen hakemistojen avulla. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">Lue lisää\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "Lataukset"
+   },
+   "options_remove_downloads_desc": {
+      "message": "Google Chromen avulla lataamiesi tiedostojen luettelo tyhjenee, mutta todellisia tiedostoja ei poisteta tietokoneeltasi. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lue lisää\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "Lomaketiedot"
+   },
+   "options_remove_forms_desc": {
+      "message": "Kaikki Web-lomakkeisiin kirjoittamasi automaattisen täytön merkinnät ja tekstitiedot poistetaan. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lue lisää\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "Tiedostojärjestelmät"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Chrome-sovellukset voivat käyttää] chrome.fileSystem API: ta luoda, lukea, selata ja kirjoittaa käyttäjän paikallisiin tiedostojärjestelmiin. Tämän sovellusliittymän avulla Chrome-sovellukset voivat lukea ja kirjoittaa käyttäjän valitsemaan sijaintiin. Esimerkiksi tekstieditorisovellus voi käyttää sovellusliittymää paikallisten asiakirjojen lukemiseen ja kirjoittamiseen. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">Lue lisää\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "Historia"
+   },
+   "options_remove_history_desc": {
+      "message": "Selaushistorian tyhjentäminen poistaa erityisesti seuraavat: Vierailemasi Web-osoitteet Historia-sivulta, Välimuistissa oleva teksti kyseisiltä sivuilta, Näiden sivujen tilannevedokset New Tab -sivulla näkyville kuville, kaikki IP-osoitteet, jotka on ennalta haettu kyseisiltä sivuilta. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lue lisää\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "salasanat"
+   },
+   "options_remove_passwords_desc": {
+      "message": "Käyttäjätunnusten ja salasanojen tietueet poistetaan. Jos käytät Macia, salasanatietueesi poistetaan Avainnipun käyttöjärjestelmästä. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lue lisää\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "Plugin-tiedot"
+   },
+   "options_remove_plugin_desc": {
+      "message": "Kaikki NPAPI ClearSiteData -sovellusliittymää käyttävien laajennusten tallentamat asiakaspuolen tiedot. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">Lue lisää\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Web-SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "Web SQL-tietokanta on verkkosivun sovellusliittymä tietojen tallentamiseksi tietokantoihin, jotka voidaan kysyä käyttämällä SQL-varianttia. [...] W3C-verkkosovellusten työryhmä lopetti eritelmän laatimisen marraskuussa 2010 ja vetoaa riippumattomien toteutusten puuttumiseen (ts. Muun kuin SQLite-tietokantajärjestelmän käyttämiseen taustana) syynä, jonka vuoksi eritelmä ei voinut siirtyä eteenpäin tullakseen W3C-suositukseksi. Yksi mahdollinen vaihtoehtoinen tallennusstandardi on IndexedDB. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">Lue lisää\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "Paikallinen varasto"
+   },
+   "options_remove_storage_desc": {
+      "message": "DOM-tallennustila (joka sisältää paikallisen tallennustilan) on suunniteltu tarjoamaan suurempi, turvallisempi ja helppokäyttöisempi vaihtoehto tietojen tallentamiseen evästeisiin. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">Lue lisää\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "Puhdas!"
+   },
+   "popup_clear": {
+      "message": "Asia selvä"
+   },
+   "popup_clearing": {
+      "message": "Poistetaan ..."
+   },
+   "popup_label_rate": {
+      "message": "Ole hyvä ja arvioi meitä!"
+   },
+   "popup_manage": {
+      "message": "vaihtoehdot"
+   }
+}

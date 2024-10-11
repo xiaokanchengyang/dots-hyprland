@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Vienu klikšķi notīriet pārlūkprogrammas vēsturi, kešatmiņu un sīkfailus pārlūkam Google Chrome!"
+   },
+   "app_name": {
+      "message": "Vēsture un kešatmiņas tīrītājs"
+   },
+   "options_common": {
+      "message": "Izplatītās iespējas"
+   },
+   "options_common_1": {
+      "message": "Automātiski atkārtoti ielādējiet aktīvo cilni pēc notīrīšanas"
+   },
+   "options_common_2": {
+      "message": "Peldošā poga “Kešatmiņas tīrītājs” visās lapās"
+   },
+   "options_everything": {
+      "message": "Viss"
+   },
+   "options_header": {
+      "message": "IESPĒJAS"
+   },
+   "options_last_day": {
+      "message": "Pēdējā diena"
+   },
+   "options_last_hour": {
+      "message": "Pēdējā stunda"
+   },
+   "options_last_month": {
+      "message": "Pagājušajā mēnesī"
+   },
+   "options_last_week": {
+      "message": "Pagājušajā nedēļā"
+   },
+   "options_remove": {
+      "message": "Noņemamie dati"
+   },
+   "options_remove_appcache": {
+      "message": "Lietotņu kešatmiņa"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 nodrošina lietojumprogrammu kešatmiņas saglabāšanas mehānismu, kas ļauj tīmekļa lietojumprogrammām darboties bezsaistē. Izstrādātāji var izmantot lietojumprogrammu kešatmiņas (AppCache) saskarni, lai norādītu resursus, kas pārlūkprogrammai būtu kešatmiņā un jādara pieejami bezsaistes lietotājiem. Kešatmiņā saglabātas lietojumprogrammas ielādējas un darbojas pareizi, pat ja lietotāji noklikšķina uz atsvaidzināšanas pogas, atrodoties bezsaistē. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">Lasīt vairāk\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "Kešatmiņa"
+   },
+   "options_remove_cache_desc": {
+      "message": "Tīmekļa lapu teksts, kuras esat apmeklējis pārlūkā Google Chrome, tiek noņemts no datora. Pārlūkprogrammas saglabā tīmekļa lapu elementus, lai nākamās vizītes laikā paātrinātu vietnes ielādi. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lasīt vairāk\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "Sīkdatnes"
+   },
+   "options_remove_cookies_desc": {
+      "message": "Faili, kurus jūsu datorā saglabājušas jūsu apmeklētās vietnes. Šajos failos ir informācija par lietotājiem, piemēram, vietņu preferences vai profila informācija. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lasīt vairāk\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(opcijas)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "Notīriet tikai šādus (ātri)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "Neizdzēst šo (lēni)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "Filtri nav definēti"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "Pievienot domēnu"
+   },
+   "options_remove_db": {
+      "message": "Indeksēts DB"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB ir API ievērojama apjoma strukturētu datu glabāšanai klienta pusē, kas arī ļauj veikt augstas veiktspējas datus no šiem datiem, izmantojot indeksus. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">Lasīt vairāk\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "Lejupielādes"
+   },
+   "options_remove_downloads_desc": {
+      "message": "Failu saraksts, kuru esat lejupielādējis, izmantojot pārlūku Google Chrome, ir notīrīts, bet faktiskie faili netiek noņemti no datora. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lasīt vairāk\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "Veidlapas dati"
+   },
+   "options_remove_forms_desc": {
+      "message": "Visi jūsu automātiskās aizpildes ieraksti un teksta ieraksti, ko esat ievadījis tīmekļa veidlapās, tiek izdzēsti. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lasīt vairāk\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "Failu sistēmas"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Chrome Apps var izmantot] chrome.fileSystem API, lai izveidotu, lasītu, naviģētu un rakstītu lietotāja lokālajā failu sistēmā. Izmantojot šo API, Chrome Apps var lasīt un rakstīt lietotāja izvēlētā vietā. Piemēram, teksta redaktora lietotne var izmantot API, lai lasītu un rakstītu vietējos dokumentus. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">Lasīt vairāk\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "Vēsture"
+   },
+   "options_remove_history_desc": {
+      "message": "Notīrot pārlūkošanas vēsturi, tiek dzēstas šādas lietas: apmeklētās Web adreses no vēstures lapas, šo lapu kešatmiņā saglabāts teksts, šo lapu momentuzņēmumi attēliem, kas parādās Jaunās cilnes lapā, Jebkuras IP adreses, kas iepriekš ielādētas no šīm lapām. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lasīt vairāk\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "Paroles"
+   },
+   "options_remove_passwords_desc": {
+      "message": "Lietotāju vārdu un paroļu ieraksti tiek dzēsti. Ja izmantojat Mac datoru, jūsu paroles ieraksti tiek izdzēsti no Keychain Access. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lasīt vairāk\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "Spraudņa dati"
+   },
+   "options_remove_plugin_desc": {
+      "message": "Jebkuri klienta puses dati, kurus glabā spraudņi, kuri izmanto NPAPI ClearSiteData API. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">Lasīt vairāk\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Web SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "Web SQL datu bāze ir tīmekļa lapas API datu glabāšanai datu bāzēs, kuras var uzdot, izmantojot SQL variantu. [...] W3C tīmekļa lietojumprogrammu darba grupa 2010. gada novembrī pārtrauca darbu pie specifikācijas, atsaucoties uz neatkarīgas ieviešanas trūkumu (ti, kā pamatsistēmas izmantošanu datu bāzu sistēmā, kas nav SQLite) kā iemeslu, kāpēc specifikācija nevarēja pārvietoties uz priekšu, lai kļūtu par W3C ieteikumu. Viens no iespējamiem alternatīvajiem glabāšanas standartiem ir IndexedDB. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">Lasīt vairāk\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "Vietējā krātuve"
+   },
+   "options_remove_storage_desc": {
+      "message": "DOM krātuve (kurā ietilpst vietējā krātuve) ir izstrādāta, lai nodrošinātu lielāku, drošāku un vieglāk lietojamu alternatīvu informācijas glabāšanai sīkdatnēs. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">Lasīt vairāk\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "Tīrs!"
+   },
+   "popup_clear": {
+      "message": "Skaidrs"
+   },
+   "popup_clearing": {
+      "message": "Notīrīt ..."
+   },
+   "popup_label_rate": {
+      "message": "Lūdzu, novērtējiet mūs!"
+   },
+   "popup_manage": {
+      "message": "Iespējas"
+   }
+}

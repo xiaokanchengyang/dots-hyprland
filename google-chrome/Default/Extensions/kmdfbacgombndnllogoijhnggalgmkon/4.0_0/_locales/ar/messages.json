@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "تحقق موقع على شبكة الإنترنت للفيروسات / برامج ضارة"
+   },
+   "city": {
+      "message": "مدينة"
+   },
+   "clickHere": {
+      "message": "انقر هنا"
+   },
+   "commentPage": {
+      "message": "لا تتردد في ترك تعليقاتكم حول هذه الصفحة على شبكة الإنترنت"
+   },
+   "commentWebsite": {
+      "message": "لا تتردد في ترك الاستعراضات الخاصة بك عن الموقع الحالي"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "البريد الإلكتروني"
+   },
+   "embedCode": {
+      "message": "لوضع هذا الاستعراض على موقع الويب الخاص بك / بلوق ببساطة نسخ التعليمات البرمجية التالية أدناه ووضعها في صفحة الويب الخاصة بك"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "اسم المضيف"
+   },
+   "hostingCompany": {
+      "message": "شركة استضافة"
+   },
+   "hostingOwner": {
+      "message": "استضافة / المالك"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "العنوان IP"
+   },
+   "ipv4": {
+      "message": "العنوان IPv4"
+   },
+   "ipv6": {
+      "message": "العنوان IPv6"
+   },
+   "location": {
+      "message": "موقع"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "لا توجد بيانات"
+   },
+   "nsServers": {
+      "message": "خوادم الأسماء"
+   },
+   "otherSites": {
+      "message": "مواقع أخرى على IP"
+   },
+   "owner": {
+      "message": "مالك"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "قراءة وكتابة التعليقات حول هذه الصفحة الحالية (أو حول المنتجات في هذه الصفحة)"
+   },
+   "permLink": {
+      "message": "وصلة دائمة لتعليق"
+   },
+   "popularity": {
+      "message": "شعبية"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "ملاحظات حول صفحة ويب"
+   },
+   "reviewsWebsite": {
+      "message": "مشترك من الآراء حول موقع على شبكة الإنترنت"
+   },
+   "safeWeb": {
+      "message": "الحماية من الفيروسات"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "انظر البلاد"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "زائر يوميا"
+   },
+   "website": {
+      "message": "الموقع"
+   },
+   "websitePopularity": {
+      "message": "شعبية الموقع (تقريبا)"
+   },
+   "websiteReview": {
+      "message": "يستعرض الموقع"
+   },
+   "websiteReviewHint": {
+      "message": "القراءة والكتابة ملاحظات حول هذا الموقع"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "العالم شعبية تصنيف الموقع"
+   },
+   "worldRanking": {
+      "message": "موقع التصنيف العالمي الشعبي (اليكسا)"
+   },
+   "worldRankingHint": {
+      "message": "هذا الرسم البياني يعرض الترتيب لموقع على شبكة الانترنت فقط إذا تم سرده في أعلى 100،000 زار معظم المواقع في جميع أنحاء العالم. إذا كان الموقع قد وضع الترتيب حاليا أدناه 100،000 فلن ترى أي بيانات وكنت في حاجة إلى الضغط على هذا الرسم البياني لرؤية موقع موقفها الحالي في الترتيب موقع العالم. \n الأكثر زيارة مواقع - ترتيب اليكسا -\n#1 - Facebook\n#2 - Google\n#3 - Youtube\n... ...\n#10,000 - Akamai\n... ...\n#300,000 - Tweaktv\n... ..."
+   }
+}

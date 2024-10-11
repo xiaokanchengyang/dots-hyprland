@@ -1,0 +1,63 @@
+{
+   "action": {
+   },
+   "background": {
+      "service_worker": "serviceWorker.js",
+      "type": "module"
+   },
+   "commands": {
+      "_execute_action": {
+         "suggested_key": {
+            "chromeos": "Ctrl+Shift+U",
+            "linux": "Ctrl+Shift+J",
+            "mac": "Command+Shift+Y",
+            "windows": "Ctrl+Shift+Y"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "assets/C4pOgHoB.css" ],
+      "js": [ "content.js" ],
+      "match_about_blank": true,
+      "match_origin_as_fallback": true,
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self'"
+   },
+   "description": "Easily create beautiful how-to guides with perfectly cropped screenshots in minutes.",
+   "externally_connectable": {
+      "matches": [ "https://*.tango.us/*", "http://localhost:8000/*" ]
+   },
+   "homepage_url": "https://tango.us",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "32": "images/icon32.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArVe+mgUu5D0MlzTe5hBLVk3wa//lAMsB25jgyZI34opl2e5tzyXdd8YTf/zhAbS4pPdRRtFyAQDrhDVfunBdA//PNWlTTKrD8AmS32R9b/8CVqHIm3TT7uoD64+gXMGBO09UGsYjFukEifSFvhkaP7NQPRXw0EGi4ZM1vIYNAHesFak+JAcFs1TUm1chCWRmUc7IQonKvQRQrh2AVLfUNAO7Bkj1FTcR+SgjoIxLnJop5hmWgTmWzx1hTSaszWW5b63ZA0ClCnxFXoA8/ESHIpcBhiHp0LRRf9f+Mw09KbYlvaX3nmEuQJM4gdWJaLoo2gBClUlBYPc/b31qezKUAwIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "118",
+   "name": "Tango: Create how-to guides with screenshots",
+   "options_ui": {
+      "open_in_tab": false,
+      "page": "options/index.html"
+   },
+   "permissions": [ "storage", "activeTab", "offscreen", "tabs", "scripting", "unlimitedStorage", "sidePanel" ],
+   "short_name": "Tango",
+   "storage": {
+      "managed_schema": "schema.json"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "7.11.18",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "public/*.webm", "public/*.riv", "public/*.png" ]
+   }, {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "assets/1QUeEUkw.woff2", "assets/Af4S84iP.js", "assets/B3HicAE1.js", "assets/BAD7DE-7.js", "assets/BAQLbu61.js", "assets/BIj9slkp.js", "assets/BIl7BGEd.js", "assets/BTyHENqi.js", "assets/BUXqczCf.woff2", "assets/BjgJiouD.js", "assets/BsnvV3p5.js", "assets/CMhnKYCA.js", "assets/CRTsvRaD.js", "assets/CRUnMUWV.js", "assets/CTuBfHaM.js", "assets/CavFI0yr.js", "assets/CfHFiLj0.js", "assets/ChlyaM6j.js", "assets/Cil-fwZs.js", "assets/Cjbr4oTZ.js", "assets/Cm1H3WaY.js", "assets/Cpj98o6Y.js", "assets/CpygsGpn.js", "assets/CqgvlWIA.js", "assets/D2PxWqOF.woff2", "assets/D8aEg3BZ.js", "assets/DMUoDuqg.js", "assets/D_5xdqhq.js", "assets/DgxwHEyS.js", "assets/DieEiE9e.js", "assets/DlLMD6w7.js", "assets/Dph_3Rnf.js", "assets/DvGmMwA7.js", "assets/DyC068QH.js", "assets/EDDnOrpQ.js", "assets/QipNwzXz.js", "assets/SHnOzo4l.js", "assets/XELyL0QY.js", "assets/XaMN_HiL.js", "assets/bTMwkpkr.js", "assets/bVFUYZgl.js", "assets/dCKaS7nY.js", "assets/uDekdLYy.js", "assets/upz7eO-K.js", "assets/vsoLpSTL.js", "assets/wJ2w6DWc.js", "assets/yXRVlCQS.js", "overlay.js" ]
+   } ]
+}

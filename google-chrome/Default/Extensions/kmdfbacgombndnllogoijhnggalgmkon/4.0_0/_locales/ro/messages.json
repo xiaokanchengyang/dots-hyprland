@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "Verifica un site de viruși / malware"
+   },
+   "city": {
+      "message": "Oraș"
+   },
+   "clickHere": {
+      "message": "click aici"
+   },
+   "commentPage": {
+      "message": "Vă rugăm să nu ezitați să lăsați comentarii despre această pagină web"
+   },
+   "commentWebsite": {
+      "message": "Vă rugăm să nu ezitați să lăsați recenzii despre site-ul dvs. curent"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "embedCode": {
+      "message": "Pentru a plasa acest opinie pe site-ul / blog-ul pur și simplu să copiați codul de mai jos HTML de mai jos și puneți-l în pagina dvs. web"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "Gazdă"
+   },
+   "hostingCompany": {
+      "message": "Găzduire web"
+   },
+   "hostingOwner": {
+      "message": "Găzduire/Proprietar"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "Adresa de IP"
+   },
+   "ipv4": {
+      "message": "Adresa IPv4"
+   },
+   "ipv6": {
+      "message": "Adresa IPv6"
+   },
+   "location": {
+      "message": "Locație"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "Nu există date"
+   },
+   "nsServers": {
+      "message": "Nameserverele"
+   },
+   "otherSites": {
+      "message": "Alte site-uri pe IP"
+   },
+   "owner": {
+      "message": "Proprietar"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "Citească și să scrie comentarii despre aceasta pagina curentă (sau despre produsele de pe aceasta pagina)"
+   },
+   "permLink": {
+      "message": "Permanent link la comentarii"
+   },
+   "popularity": {
+      "message": "Popularitate"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "Pagina web Recenzii"
+   },
+   "reviewsWebsite": {
+      "message": "Recenzii generale a site-ului"
+   },
+   "safeWeb": {
+      "message": "Norton Antivirus"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "a se vedea țara"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "de vizitatori pe zi"
+   },
+   "website": {
+      "message": "Site-ul"
+   },
+   "websitePopularity": {
+      "message": "Site-ul de popularitate (aproximativ)"
+   },
+   "websiteReview": {
+      "message": "Site-ul Recenzii"
+   },
+   "websiteReviewHint": {
+      "message": "Citească și să scrie comentarii despre acest site"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "Site-ul world evaluare populare"
+   },
+   "worldRanking": {
+      "message": "Site-ul World Popular Evaluare (Alexa)"
+   },
+   "worldRankingHint": {
+      "message": "Această diagramă afișează un clasament de un site web numai în cazul în care este listat în partea de sus 100.000 cele mai vizitate site-uri web la nivel mondial. . În cazul în care site-ul are în prezent o poziție clasament mai jos de 100.000 de nu veți vedea niciun fel de date și va trebui să faceți clic pe această diagramă pentru a vedea site-ul poziția sa actuală în clasamentul site-ul mondial \n Cele mai vizitate site-uri - Alexa clasament - \n # 1 - Facebook \n # 2 - Google \n # 3 - Youtube \n ... ... \n ... # 1000 - Icloud.com (aproximativ 250.000 de vizitatori pe zi) \n ... # 5000 - Totaljobs (în jur de 40.000 de vizitatori pe zi) \n ... # 10.000 - Akamai (în jur de 25.000 de vizitatori pe zi) \n ... # 50.000 - Wikitree (in jur de 10.000 de vizitatori pe zi) \n ... # 100,000 - Transpole (aproximativ 5.000 de vizitatori pe zi) \n ... # 300.000 - Tweaktv (aproximativ 3.000 de vizitatori pe zi) \n ... # 600.000 - Springest (în jur de 1.300 de vizitatori pe zi) \n ... # 1,000,000 - Elain (aproximativ 250 de vizitatori pe zi) \n ... ..."
+   }
+}

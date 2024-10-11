@@ -1,0 +1,136 @@
+{
+   "action": {
+      "default_icon": {
+         "19": "icon/icon19.png",
+         "38": "icon/icon38.png"
+      },
+      "default_title": "Kami - PDF and Document Annotation"
+   },
+   "background": {
+      "service_worker": "src/background.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "src/integrations/google_classroom/picker/content.js" ],
+      "matches": [ "https://drive.google.com/picker*" ],
+      "run_at": "document_end"
+   }, {
+      "js": [ "src/notablemain/bootstrap.js" ],
+      "matches": [ "https://*.kamihq.com/web/*", "https://*.kamipdf.com/web/*", "https://*.kami.systems/web/*" ],
+      "run_at": "document_idle"
+   }, {
+      "all_frames": true,
+      "css": [ "src/integrations/google_classroom/styles.css", "src/integrations/google_classroom/attachment_automation.css" ],
+      "js": [ "src/integrations/google_classroom/content.js" ],
+      "matches": [ "https://classroom.google.com/*" ]
+   }, {
+      "all_frames": true,
+      "js": [ "src/integrations/google_classroom/grading.js" ],
+      "matches": [ "https://classroom.google.com/*g/tg/*" ]
+   }, {
+      "js": [ "src/content_global.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_end"
+   }, {
+      "js": [ "src/browser/open_with_kami.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_idle"
+   }, {
+      "all_frames": true,
+      "js": [ "src/integrations/google_docs/google_docs.js" ],
+      "matches": [ "https://docs.google.com/document/d/*", "https://docs.google.com/presentation/d/*", "https://docs.google.com/spreadsheets/d/*", "https://jamboard.google.com/d/*" ]
+   }, {
+      "all_frames": true,
+      "css": [ "src/integrations/google_docs/google_docs.css" ],
+      "matches": [ "https://docs.google.com/*", "https://jamboard.google.com/*" ]
+   }, {
+      "all_frames": true,
+      "js": [ "src/integrations/microsoft_teams/assignments.js" ],
+      "matches": [ "https://assignments.onenote.com/*" ]
+   }, {
+      "js": [ "src/integrations/peardeck/content.js" ],
+      "matches": [ "https://app.peardeck.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "js": [ "src/integrations/office365/outer_content.js" ],
+      "matches": [ "https://*.sharepoint.com/*w*/r/*", "https://*.sharepoint.com/*p*/r/*" ],
+      "run_at": "document_idle"
+   }, {
+      "js": [ "src/integrations/office365/outer_content.js" ],
+      "matches": [ "https://*.onedrive.live.com/*" ],
+      "run_at": "document_idle"
+   }, {
+      "all_frames": true,
+      "css": [ "src/integrations/office365/inner.css" ],
+      "js": [ "src/integrations/office365/inner.js" ],
+      "matches": [ "https://*.officeapps.live.com/*" ],
+      "run_at": "document_idle"
+   }, {
+      "css": [ "src/integrations/canva/canva.css" ],
+      "js": [ "src/integrations/canva/canva.js" ],
+      "matches": [ "https://www.canva.com/design/*" ]
+   }, {
+      "css": [ "src/integrations/teachers_pay_teachers/button.css" ],
+      "js": [ "src/integrations/teachers_pay_teachers/open_with_kami.js" ],
+      "matches": [ "https://www.teacherspayteachers.com/**" ]
+   }, {
+      "css": [ "src/integrations/canvas/styles.css" ],
+      "js": [ "src/integrations/canvas/content.js" ],
+      "matches": [ "https://*.instructure.com/*/assignments/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self';"
+   },
+   "declarative_net_request": {
+      "rule_resources": [ {
+         "enabled": true,
+         "id": "ruleset_global",
+         "path": "rules_global.json"
+      } ]
+   },
+   "default_locale": "en",
+   "description": "Kami is an interactive learning platform empowering students and enhancing the way teachers teach, feedback, and assess.",
+   "externally_connectable": {
+      "matches": [ "https://*.kamihq.com/*", "https://*.kamipdf.com/*", "https://*.kami.systems/*" ]
+   },
+   "homepage_url": "https://www.kamiapp.com",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icon/icon128.png",
+      "16": "icon/icon16.png",
+      "48": "icon/icon48.png"
+   },
+   "incognito": "split",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwR9U86SNBHfB5fmt90yCpMIsejJg6Is0ltJcMgyDw74cPGXNuhfbfkJEVOBJsGXTad/i8NIFDDUFi1R92BBVlrXkF/Wz0oqGDhaTVafpAJDdVACImLMTT4N/XBsmq45trG+v4PzrqIyXrX9dOUo5K83d/ZfUw1iZtm7rNlR9CswIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "114",
+   "name": "Kami for Google Chrome™",
+   "oauth2": {
+      "client_id": "185741998891-boet3ik0ho58mic9ttbhbtl75bjekic5.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/drive", "https://www.googleapis.com/auth/drive.install", "https://www.googleapis.com/auth/userinfo.email", "https://www.googleapis.com/auth/userinfo.profile", "https://www.googleapis.com/auth/drive.readonly", "https://www.googleapis.com/auth/classroom.courses", "https://www.googleapis.com/auth/classroom.coursework.me", "https://www.googleapis.com/auth/classroom.coursework.students" ]
+   },
+   "offline_enabled": true,
+   "options_page": "src/options.html",
+   "permissions": [ "webRequest", "tabs", "webNavigation", "contextMenus", "storage", "offscreen", "declarativeNetRequest" ],
+   "short_name": "Kami",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.19461",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "images/tick.svg", "src/integrations/google_classroom/styles.css", "src/browser/open_with_kami.css", "src/integrations/schoology/page_script.js", "src/integrations/schoology/styles.css", "http:/*", "https:/*", "ftp:/*", "file:/*", "chrome-extension:/*", "filesystem:/*", "drive:*" ]
+   }, {
+      "matches": [ "https://*.kamihq.com/*", "https://*.kamipdf.com/*", "https://*.kami.systems/*" ],
+      "resources": [ "delegate.html", "hello" ]
+   }, {
+      "matches": [ "https://classroom.google.com/*" ],
+      "resources": [ "src/integrations/google_classroom/page_script.js" ]
+   }, {
+      "matches": [ "https://www.teacherspayteachers.com/*" ],
+      "resources": [ "images/kami-logo-full-white.svg" ]
+   }, {
+      "matches": [ "https://*.sharepoint.com/*" ],
+      "resources": [ "src/integrations/office365/outer_page.js" ]
+   } ]
+}

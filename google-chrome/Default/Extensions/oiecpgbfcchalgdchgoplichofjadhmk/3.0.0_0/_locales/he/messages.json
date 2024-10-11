@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "נקה את היסטוריית הדפדפן, המטמון והעוגיות עבור Google Chrome בלחיצה אחת!"
+   },
+   "app_name": {
+      "message": "מנקה היסטוריה ומטמון"
+   },
+   "options_common": {
+      "message": "אפשרויות נפוצות"
+   },
+   "options_common_1": {
+      "message": "טען מחדש אוטומטית את הכרטיסייה הפעילה לאחר הסליקה"
+   },
+   "options_common_2": {
+      "message": "כפתור צף \"מנקה מטמון\" בכל העמודים"
+   },
+   "options_everything": {
+      "message": "הכל"
+   },
+   "options_header": {
+      "message": "אפשרויות"
+   },
+   "options_last_day": {
+      "message": "יום אחרון"
+   },
+   "options_last_hour": {
+      "message": "שעה אחרונה"
+   },
+   "options_last_month": {
+      "message": "חודש שעבר"
+   },
+   "options_last_week": {
+      "message": "שבוע שעבר"
+   },
+   "options_remove": {
+      "message": "נתונים שיש להסיר"
+   },
+   "options_remove_appcache": {
+      "message": "מטמון אפליקציות"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 מספק מנגנון מטמון יישומים המאפשר ליישומים מבוססי אינטרנט לפעול במצב לא מקוון. מפתחים יכולים להשתמש בממשק יישומי מטמון היישום (AppCache) כדי לציין משאבים שעל הדפדפן לשמור במטמון ולהנגיש למשתמשים לא מקוונים. יישומים שמאוחסנים במטמון נטענים ועובדים כראוי גם אם משתמשים לוחצים על כפתור הרענון כשהם במצב לא מקוון. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">קרא עוד\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "מטמון"
+   },
+   "options_remove_cache_desc": {
+      "message": "טקסט של דפי אינטרנט שבהם ביקרת ב- Google Chrome יוסר מהמחשב שלך. הדפדפנים מאחסנים אלמנטים של דפי אינטרנט כדי להאיץ את טעינת דף האינטרנט במהלך הביקור הבא שלך. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">קרא עוד\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "עוגיות"
+   },
+   "options_remove_cookies_desc": {
+      "message": "קבצים המאוחסנים במחשבך על ידי אתרים שבהם ביקרת. קבצים אלה מכילים מידע על משתמשים, כגון העדפות עבור אתרים או מידע על פרופיל. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">קרא עוד\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(אפשרויות)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "נקה רק את הדברים הבאים (מהר)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "אל תנקה את הדברים הבאים (איטית)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "לא הוגדרו מסננים"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "הוסף דומיין"
+   },
+   "options_remove_db": {
+      "message": "DB צמוד"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB הוא ממשק API לאחסון בצד הלקוח של כמויות משמעותיות של נתונים מובנים, המאפשר גם לבצע ביצועים גבוהים של נתונים אלה באמצעות אינדקסים. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">קרא עוד\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "הורדות"
+   },
+   "options_remove_downloads_desc": {
+      "message": "רשימת הקבצים שהורדת באמצעות Google Chrome מנוקה, אך הקבצים בפועל אינם מוסרים מהמחשב שלך. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">קרא עוד\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "טופס מידע"
+   },
+   "options_remove_forms_desc": {
+      "message": "כל ערכי המילוי האוטומטי ורישומי הטקסט שהזנת בטופסי אינטרנט נמחקים. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">קרא עוד\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "מערכות קבצים"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[יישומי Chrome עשויים להשתמש] בממשק ה- API של chrome.fileSystem כדי ליצור, לקרוא, לנווט ולכתוב למערכת הקבצים המקומית של המשתמש. עם ממשק API זה, יישומי Chrome יכולים לקרוא ולכתוב למיקום שנבחר על ידי המשתמש. לדוגמה, אפליקציית עורך טקסט יכולה להשתמש בממשק ה- API לקריאה וכתיבה של מסמכים מקומיים. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">קרא עוד\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "היסטוריה"
+   },
+   "options_remove_history_desc": {
+      "message": "ניקוי היסטוריית הגלישה מוחק באופן ספציפי את הדברים הבאים: כתובות אינטרנט בהן ביקרת מדף ההיסטוריה, טקסט שמור של עמודים אלה, תמונות תמונות של אותם דפים לתמונות המופיעות בדף הכרטיסייה החדשה, כל כתובות IP שהובאו מראש מאותם דפים. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">קרא עוד\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "סיסמאות"
+   },
+   "options_remove_passwords_desc": {
+      "message": "רשומות של שמות משתמש וסיסמאות נמחקות. אם אתה משתמש ב- Mac, רשומות הסיסמה שלך יימחקו מ- Keychain Access. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">קרא עוד\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "נתוני פלאגין"
+   },
+   "options_remove_plugin_desc": {
+      "message": "כל נתונים בצד הלקוח המאוחסנים על ידי תוספים המשתמשים בממשק ה- API של NPAPI ClearSiteData. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">קרא עוד\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "SQL באינטרנט"
+   },
+   "options_remove_sql_desc": {
+      "message": "מסד נתונים של SQL Web הוא ממשק API של דף אינטרנט לאחסון נתונים במסדי נתונים שניתן לשאול אותם באמצעות גרסה של SQL. [...] קבוצת העבודה של יישומי האינטרנט W3C הפסיקה לעבוד על המפרט בנובמבר 2010, תוך שהיא מציינת היעדר יישומים עצמאיים (כלומר השימוש במערכת מסד נתונים שאינה SQLite כתמיכה) משום שהמפרט לא יכול היה לזוז. קדימה להפוך להמלצת W3C. תקן אחסון חלופי פוטנציאלי הוא IndexedDB. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">קרא עוד\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "אחסון מקומי"
+   },
+   "options_remove_storage_desc": {
+      "message": "אחסון DOM [הכולל אחסון מקומי] נועד לספק חלופה גדולה יותר, מאובטחת וקלה יותר לשימוש לאחסון מידע בעוגיות. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">קרא עוד\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "נקי!"
+   },
+   "popup_clear": {
+      "message": "ברור"
+   },
+   "popup_clearing": {
+      "message": "מנקה ..."
+   },
+   "popup_label_rate": {
+      "message": "אנא דרג אותנו!"
+   },
+   "popup_manage": {
+      "message": "אפשרויות"
+   }
+}

@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "查看網站的病毒/惡意軟件"
+   },
+   "city": {
+      "message": "城市"
+   },
+   "clickHere": {
+      "message": "請點擊這裡"
+   },
+   "commentPage": {
+      "message": "請隨時留下您的意見對本網頁"
+   },
+   "commentWebsite": {
+      "message": "請隨時留下您的評論，對當前網站"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "電子郵件"
+   },
+   "embedCode": {
+      "message": "在您的網站/博客的評論，只需複製下面的HTML代碼，並將其放置在您的網頁"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "主機名"
+   },
+   "hostingCompany": {
+      "message": "託管公司"
+   },
+   "hostingOwner": {
+      "message": "託管/所有者"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "IP地址"
+   },
+   "ipv4": {
+      "message": "IPv4地址"
+   },
+   "ipv6": {
+      "message": "IPv6地址"
+   },
+   "location": {
+      "message": "位置"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "無資料"
+   },
+   "nsServers": {
+      "message": "域名"
+   },
+   "otherSites": {
+      "message": "其他網站IP"
+   },
+   "owner": {
+      "message": "業主"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "閱讀和寫評論關於這個當前頁面（或約此頁面上的產品）"
+   },
+   "permLink": {
+      "message": "永久鏈接評論"
+   },
+   "popularity": {
+      "message": "聲望"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "網頁點評"
+   },
+   "reviewsWebsite": {
+      "message": "一般網站評語"
+   },
+   "safeWeb": {
+      "message": "網絡防病毒"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "看到國家"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "每天的遊客"
+   },
+   "website": {
+      "message": "網站"
+   },
+   "websitePopularity": {
+      "message": "網站人氣（約）"
+   },
+   "websiteReview": {
+      "message": "網站評語"
+   },
+   "websiteReviewHint": {
+      "message": "關於本網站的讀，寫評語"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "網站世界流行評分"
+   },
+   "worldRanking": {
+      "message": "網站世界熱門排行"
+   },
+   "worldRankingHint": {
+      "message": "此圖顯示了一個網站的排名，只有當它被列在頂部十萬訪問量最大的網站。世界各地。如果該網站目前有低於10萬的排序位置，你不會看到任何數據，你需要點擊此圖，看到該網站目前在世界網站排名的位置。\n 最常訪問的網站 - Alexa的排名 -\n#1 - Facebook\n#2 - Google\n#3 - Youtube\n... ...\n#10,000 - Akamai\n... ...\n#300,000 - Tweaktv\n... ..."
+   }
+}

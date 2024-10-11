@@ -1,0 +1,39 @@
+{
+   "action": {
+      "default_popup": "popup/popup.html"
+   },
+   "background": {
+      "service_worker": "serviceWorker.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "css": [ "content.css" ],
+      "js": [ "content.js" ],
+      "matches": [ "https://www.youtube.com/*" ],
+      "run_at": "document_start",
+      "world": "MAIN"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "externally_connectable": {
+      "matches": [ "https://www.youtube.com/*" ]
+   },
+   "host_permissions": [ "https://www.youtube.com/*" ],
+   "icons": {
+      "128": "icon/128.png",
+      "16": "icon/16.png",
+      "32": "icon/32.png",
+      "48": "icon/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1YZIiAdnUjDJz5cQxinzee+Oii+aKo8EQ3f18dGfHBx0jhiYFU/Xt7MwERRuJL67Iw4n8REa3Fbsrw9g9iX7tRtVQ5Lmu2pjcwtvCgP0/idg2qv3WuTSUlD6i0bq6qzO7RIcpA4dHwL2+ABFqOiuOj8TCoKZLVu7ElsOJZV5snydooAac+ZrD/Rx3cjdjplUH9p+SH1PtjVhS30bQzrRG/ihkzH/Nu+qMMiPn0WUDBLkFUtQxboZZsp+ppy2TRU9MoBGqU9Jiu0QQeIVUljA/Q7TuagxIU5W4nD6rxd+lrYbcPyU0VODwD23gGokE98A4KAhHXYnepeJ15G7zElU9QIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "105",
+   "name": "__MSG_name__",
+   "permissions": [ "storage", "fontSettings" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.7.3",
+   "web_accessible_resources": [ {
+      "matches": [ "https://www.youtube.com/*" ],
+      "resources": [ "assets/*" ]
+   } ]
+}

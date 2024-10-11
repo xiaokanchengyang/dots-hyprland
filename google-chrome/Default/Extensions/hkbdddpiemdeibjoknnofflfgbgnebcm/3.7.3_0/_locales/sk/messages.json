@@ -1,0 +1,14 @@
+{
+   "description": {
+      "message": "Dvojjazyčné titulky YouTube, súčasné zobrazenie dvoch jazykov, podpora vlastných štýlov."
+   },
+   "name": {
+      "message": "YouTube™ Dvojité titulky"
+   },
+   "popup1": {
+      "message": "Nastavenia titulkov boli presunuté do ľavého horného rohu titulkov."
+   },
+   "popup2": {
+      "message": "Pre zobrazenie popisov ponuky prejdite myšou"
+   }
+}

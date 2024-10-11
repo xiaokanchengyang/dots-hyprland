@@ -1,0 +1,44 @@
+{
+   "AnnotateWithKami": {
+      "message": "Annoter avec Kami"
+   },
+   "CheckingAssignmentType": {
+      "message": "Vérification du type de devoir en cours…"
+   },
+   "ClassView": {
+      "message": "Vue Classe"
+   },
+   "GotIt": {
+      "message": "J'ai compris"
+   },
+   "GradeWithKami": {
+      "message": "Noter avec Kami"
+   },
+   "KamiAssignment": {
+      "message": "Devoir Kami"
+   },
+   "KamiIsAttachingYourFile": {
+      "message": "Kami est en train de joindre votre fichier"
+   },
+   "LearnMore": {
+      "message": "En savoir plus"
+   },
+   "MakeEditsToAssignedWorkAndPublishChangesToAllStudentsCopies": {
+      "message": "Apportez des modifications au travail assigné et publiez les modifications sur les copies de tous les élèves."
+   },
+   "OpenWithKami": {
+      "message": "Ouvrir avec Kami"
+   },
+   "PleaseKeepThisWindowOpenAndOnTop": {
+      "message": "Veuillez garder cette fenêtre ouverte et en haut"
+   },
+   "UnknownErrorCouldNotGetMessageFromErrorCard": {
+      "message": "Erreur inconnue : impossible d'obtenir le message de la carte d'erreur"
+   },
+   "UpdateWithKami": {
+      "message": "Mettre à jour avec Kami"
+   },
+   "UpdateWork": {
+      "message": "Mettre à jour le travail"
+   }
+}

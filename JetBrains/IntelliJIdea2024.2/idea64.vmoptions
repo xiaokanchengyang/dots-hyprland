@@ -1,0 +1,4 @@
+-Xmx4096m
+
+-Dsun.java2d.uiScale.enabled=true
+-Dawt.toolkit.name=WLToolkit

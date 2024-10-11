@@ -1,0 +1,1 @@
+(async()=>{await import(chrome.runtime.getURL("assets/Af4S84iP.js"))})();

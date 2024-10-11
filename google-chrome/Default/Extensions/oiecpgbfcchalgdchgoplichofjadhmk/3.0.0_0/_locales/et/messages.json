@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Tühjendage Google Chrome&#39;i brauseri ajalugu, vahemälu ja küpsised ühe klõpsuga!"
+   },
+   "app_name": {
+      "message": "Ajalugu ja vahemälu puhastaja"
+   },
+   "options_common": {
+      "message": "Levinumad valikud"
+   },
+   "options_common_1": {
+      "message": "Pärast tühjendamist laadige aktiivne sakk automaatselt uuesti"
+   },
+   "options_common_2": {
+      "message": "Kõigil lehtedel hõljuv nupp \"Cache Cleaner\""
+   },
+   "options_everything": {
+      "message": "Kõik"
+   },
+   "options_header": {
+      "message": "VÕIMALUSED"
+   },
+   "options_last_day": {
+      "message": "Viimane päev"
+   },
+   "options_last_hour": {
+      "message": "Viimane tund"
+   },
+   "options_last_month": {
+      "message": "Eelmine kuu"
+   },
+   "options_last_week": {
+      "message": "Eelmine nädal"
+   },
+   "options_remove": {
+      "message": "Eemaldatavad andmed"
+   },
+   "options_remove_appcache": {
+      "message": "Rakenduste vahemälu"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 pakub rakenduste vahemällumehhanismi, mis võimaldab veebipõhistel rakendustel võrguühenduseta töötada. Arendajad saavad rakenduse vahemälu (AppCache) kasutada liidese abil, et täpsustada ressursid, mida brauser peaks vahemällu salvestama ja võrguühenduseta kasutajatele kättesaadavaks tegema. Vahemällu salvestatud rakendused töötavad õigesti, isegi kui kasutajad klõpsavad värskendusnupul, kui nad pole võrguühenduseta. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">Loe edasi\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "Vahemälu"
+   },
+   "options_remove_cache_desc": {
+      "message": "Google Chrome'is külastatud veebilehtede tekst eemaldatakse teie arvutist. Brauserid salvestavad veebilehtede elemente, et kiirendada veebilehe laadimist teie järgmise külastuse ajal. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Loe edasi\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "Küpsised"
+   },
+   "options_remove_cookies_desc": {
+      "message": "Külastatud veebisaitide arvutisse salvestatud failid. Need failid sisaldavad kasutajateavet, näiteks veebisaitide eelistusi või profiiliteavet. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Loe edasi\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(valikud)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "Kustutage ainult järgmine (kiire)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "Ärge tühjendage järgmist (aeglane)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "Filtreid pole määratletud"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "Lisage domeen"
+   },
+   "options_remove_db": {
+      "message": "Indekseeritud DB"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB on API oluliste koguste struktureeritud andmete salvestamiseks kliendi poolel, mis võimaldab ka nende andmete suure jõudlusega otsinguid indeksite abil. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">Loe edasi\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "Allalaadimised"
+   },
+   "options_remove_downloads_desc": {
+      "message": "Google Chrome'i abil alla laaditud failide loend kustutatakse, kuid tegelikke faile ei eemaldata teie arvutist. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Loe edasi\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "Vormi andmed"
+   },
+   "options_remove_forms_desc": {
+      "message": "Kõik teie automaatse täitmise kanded ja veebivormidesse sisestatud teksti kirjed kustutatakse. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Loe edasi\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "Failisüsteemid"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Chrome Apps võib kasutada] chrome.fileSystem API-d kasutaja lokaalsesse failisüsteemi loomiseks, lugemiseks, navigeerimiseks ja kirjutamiseks. Selle API abil saavad Chrome'i rakendused lugeda ja kirjutada kasutaja valitud asukohta. Näiteks saab tekstiredaktori rakendus kasutada API-d kohalike dokumentide lugemiseks ja kirjutamiseks. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">Loe edasi\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "Ajalugu"
+   },
+   "options_remove_history_desc": {
+      "message": "Sirvimisaja ajaloo kustutamisel kustutatakse järgmised andmed: külastatud veebiaadressid lehelt Ajalugu, nende lehtede vahemällu salvestatud tekst, nende lehtede läbilõiked uue vahelehe kuvatavate piltide jaoks, mis tahes nendelt lehtedelt eel tõmmatud IP-aadressid. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Loe edasi\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "Paroolid"
+   },
+   "options_remove_passwords_desc": {
+      "message": "Kasutajanimede ja paroolide kirjed kustutatakse. Kui kasutate Maci, kustutatakse paroolikirjed Keychain Accessist. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Loe edasi\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "Pistikprogrammi andmed"
+   },
+   "options_remove_plugin_desc": {
+      "message": "Mis tahes NPAPI ClearSiteData API-d kasutavate pistikprogrammide salvestatud kliendipoolsed andmed. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">Loe edasi\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Veebi SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "Web SQL andmebaas on veebilehe API andmete säilitamiseks andmebaasides, mille kohta saab SQL-i variandi abil päringuid teha. [...] W3C veebirakenduste töörühm lõpetas spetsifikaadiga töötamise 2010. aasta novembris, viidates sõltumatu juurutamise puudumisele (st taustaprogrammina muu kui SQLite'i andmebaasisüsteemi kasutamisele), kuna spetsifikatsioon ei saanud liikuda edastada W3C soovituseks. Üks võimalik alternatiivne salvestusstandard on IndexedDB. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">Loe edasi\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "Kohalik salvestusruum"
+   },
+   "options_remove_storage_desc": {
+      "message": "DOM-salvestusruum (mis sisaldab kohalikku salvestusruumi) on loodud suurema, turvalisema ja hõlpsamini kasutatava alternatiivina teabe salvestamiseks küpsistes. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">Loe edasi\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "Puhas!"
+   },
+   "popup_clear": {
+      "message": "Selge"
+   },
+   "popup_clearing": {
+      "message": "Kustutamine ..."
+   },
+   "popup_label_rate": {
+      "message": "Palun hinnake meid!"
+   },
+   "popup_manage": {
+      "message": "Valikud"
+   }
+}

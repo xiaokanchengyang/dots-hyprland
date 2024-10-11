@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "فقط با یک کلیک ، تاریخچه مرورگر ، حافظه پنهان و کوکی های Google Chrome را پاک کنید!"
+   },
+   "app_name": {
+      "message": "تاریخچه و پاک کننده حافظه نهان"
+   },
+   "options_common": {
+      "message": "گزینه های مشترک"
+   },
+   "options_common_1": {
+      "message": "پس از پاک کردن ، به طور خودکار برگه فعال را بارگیری کنید"
+   },
+   "options_common_2": {
+      "message": "دکمه شناور \"پاک کننده حافظه نهان\" در تمام صفحات"
+   },
+   "options_everything": {
+      "message": "همه چیز"
+   },
+   "options_header": {
+      "message": "گزینه ها"
+   },
+   "options_last_day": {
+      "message": "روز گذشته"
+   },
+   "options_last_hour": {
+      "message": "آخرین ساعت"
+   },
+   "options_last_month": {
+      "message": "ماه گذشته"
+   },
+   "options_last_week": {
+      "message": "هفته گذشته"
+   },
+   "options_remove": {
+      "message": "داده برای حذف"
+   },
+   "options_remove_appcache": {
+      "message": "حافظه نهان برنامه"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 یک مکانیزم حافظه نهان برنامه را فراهم می کند که به برنامه های مبتنی بر وب اجازه می دهد آفلاین اجرا شوند. توسعه دهندگان می توانند از رابط برنامه Cache (AppCache) برای مشخص کردن منابعی استفاده کنند که مرورگر باید آن را ذخیره کند و در دسترس کاربران آفلاین قرار دهد. برنامه هایی که بارگذاری شده ذخیره شده اند و به درستی کار می کنند حتی اگر کاربران هنگام آفلاین بودن روی دکمه تازه سازی کلیک کنند. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">بیشتر بخوانید\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "حافظه نهان"
+   },
+   "options_remove_cache_desc": {
+      "message": "متن صفحات وب که در Google Chrome بازدید کرده اید از رایانه شما حذف شده است. مرورگرها عناصر صفحات وب را برای سرعت بخشیدن به بارگیری صفحه وب در بازدید بعدی خود ذخیره می کنند. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">بیشتر بخوانید\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "بیسکویت ها"
+   },
+   "options_remove_cookies_desc": {
+      "message": "فایلهای ذخیره شده در رایانه شما توسط وب سایتهایی که بازدید کرده اید. این پرونده ها حاوی اطلاعات کاربر ، مانند موارد دلخواه برای وب سایت ها یا اطلاعات پروفایل است. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">بیشتر بخوانید\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(گزینه ها)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "فقط موارد زیر را پاک کنید (سریع)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "موارد زیر را پاک نکنید (کند)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "هیچ فیلتر تعریف نشده است"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "دامنه را اضافه کنید"
+   },
+   "options_remove_db": {
+      "message": "نمایه DB"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB یک API برای ذخیره سازی مقدار قابل توجهی از داده های ساخت یافته در سمت مشتری است ، همچنین با استفاده از ایندکس ها جستجوهای عملکرد بالا این داده ها را امکان پذیر می کند. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">بیشتر بخوانید\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "دانلودها"
+   },
+   "options_remove_downloads_desc": {
+      "message": "لیست پرونده هایی که با استفاده از Google Chrome بارگیری کرده اید پاک شده است ، اما فایل های واقعی از رایانه شما حذف نمی شوند. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">بیشتر بخوانید\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "داده های فرم"
+   },
+   "options_remove_forms_desc": {
+      "message": "تمام ورودی های خودکار و سوابق متنی که در فرم های وب وارد کرده اید حذف می شوند. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">بیشتر بخوانید\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "سیستمهای پرونده"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[برنامه های Chrome ممکن است از API chrome.fileSystem برای ایجاد ، خواندن ، پیمایش و نوشتن در سیستم پرونده محلی کاربر استفاده کند. با این API ، برنامه های Chrome می توانند در یک مکان انتخاب شده توسط کاربر بخوانند و بنویسند. به عنوان مثال ، یک برنامه ویرایشگر متن می تواند از API برای خواندن و نوشتن اسناد محلی استفاده کند. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">بیشتر بخوانید\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "تاریخ"
+   },
+   "options_remove_history_desc": {
+      "message": "پاک کردن سابقه مرور شما به طور خاص موارد زیر را حذف می کند: آدرس های وب که از صفحه History بازدید کرده اید ، متن ذخیره شده آن صفحات ، عکس های فوری از آن صفحات برای تصاویری که در صفحه برگه جدید ظاهر می شوند ، هر گونه آدرس IP که از این صفحات پیش گرفته شده است. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">بیشتر بخوانید\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "کلمات عبور"
+   },
+   "options_remove_passwords_desc": {
+      "message": "سوابق نام کاربری و کلمه عبور حذف می شوند. اگر از Mac استفاده می کنید ، سوابق رمز عبور شما از Keychain Access حذف می شوند. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">بیشتر بخوانید\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "داده پلاگین"
+   },
+   "options_remove_plugin_desc": {
+      "message": "هر گونه اطلاعات سمت مشتری ذخیره شده توسط افزونه هایی که از NPAPI ClearSiteData API استفاده می کنند. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">بیشتر بخوانید\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "وب SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "Web SQL Database یک API صفحه وب برای ذخیره سازی داده ها در پایگاه های داده است که می تواند با استفاده از یک نوع SQL پرس و جو شود. [...] گروه کاری برنامه های کاربردی وب W3C در نوامبر سال 2010 کار خود را با ذکر مشخصات متوقف کرد ، با ذکر عدم اجرای برنامه های مستقل (یعنی استفاده از سیستم دیتابیس غیر از SQLite به عنوان پس زمینه) به دلیل دلیلی که مشخصات نتوانستند حرکت کنند. برای تبدیل شدن به یک توصیه W3C. یکی از استاندارد های ذخیره سازی جایگزین بالقوه IndexedDB است. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">بیشتر بخوانید\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "محل ذخیره محلی"
+   },
+   "options_remove_storage_desc": {
+      "message": "DOM Storage [که شامل محلی سازی ذخیره سازی] نیز طراحی شده است تا جایگزینی بزرگتر ، ایمن تر و آسانتر برای ذخیره اطلاعات در کوکی ها ارائه دهد. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">بیشتر بخوانید\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "تمیز!"
+   },
+   "popup_clear": {
+      "message": "پاک کردن"
+   },
+   "popup_clearing": {
+      "message": "پاکسازی..."
+   },
+   "popup_label_rate": {
+      "message": "لطفا به ما امتیاز دهید"
+   },
+   "popup_manage": {
+      "message": "گزینه ها"
+   }
+}

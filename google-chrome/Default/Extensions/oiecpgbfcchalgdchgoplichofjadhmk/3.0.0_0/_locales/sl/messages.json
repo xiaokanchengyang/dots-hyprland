@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Očistite zgodovino brskalnika, predpomnilnik in piškotke za Google Chrome v samo enem kliku!"
+   },
+   "app_name": {
+      "message": "Zgodovina in čistilnik predpomnilnika"
+   },
+   "options_common": {
+      "message": "Skupne možnosti"
+   },
+   "options_common_1": {
+      "message": "Po čiščenju samodejno ponovno naloži zavihek"
+   },
+   "options_common_2": {
+      "message": "Plavajoči gumb \"Čiščenje predpomnilnika\" na vseh straneh"
+   },
+   "options_everything": {
+      "message": "Vse"
+   },
+   "options_header": {
+      "message": "OPCIJE"
+   },
+   "options_last_day": {
+      "message": "Zadnjič"
+   },
+   "options_last_hour": {
+      "message": "Zadnja ura"
+   },
+   "options_last_month": {
+      "message": "Prejšnji mesec"
+   },
+   "options_last_week": {
+      "message": "Prejšnji teden"
+   },
+   "options_remove": {
+      "message": "Podatki za odstranitev"
+   },
+   "options_remove_appcache": {
+      "message": "Predpomnilnik aplikacij"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 zagotavlja mehanizem predpomnjenja aplikacij, ki omogoča spletnim aplikacijam zagon brez povezave. Razvijalci lahko z vmesnikom aplikacijskega predpomnilnika (AppCache) določijo vire, ki naj jih brskalnik predpomni in da na voljo uporabnikom brez povezave. Aplikacije, ki se predpomnijo, se naložijo in delujejo pravilno, tudi če uporabniki brez povezave kliknejo gumb za osvežitev. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">Preberite več\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "predpomnilnik"
+   },
+   "options_remove_cache_desc": {
+      "message": "Besedilo spletnih strani, ki ste jih obiskali v brskalniku Google Chrome, je odstranjeno iz računalnika. Brskalniki hranijo elemente spletnih strani, da pospešijo nalaganje spletne strani med naslednjim obiskom. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Preberite več\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "Piškotki"
+   },
+   "options_remove_cookies_desc": {
+      "message": "Datoteke, ki jih v vašem računalniku shranjujejo spletna mesta, ki ste jih obiskali. Te datoteke vsebujejo podatke o uporabnikih, na primer nastavitve za spletna mesta ali podatke o profilu. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Preberite več\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(opcije)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "Počistite samo naslednje (hitro)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "Ne počistite naslednjega (počasno)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "Ni definiranih filtrov"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "Dodaj domeno"
+   },
+   "options_remove_db": {
+      "message": "Indeksirani DB"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB je API za shranjevanje pomembnih količin strukturiranih podatkov na strani odjemalca, ki omogoča tudi visoko iskanje teh podatkov z uporabo indeksov. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">Preberite več\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "Prenosi"
+   },
+   "options_remove_downloads_desc": {
+      "message": "Seznam datotek, ki ste jih prenesli s programom Google Chrome, je izbrisan, vendar dejanske datoteke niso odstranjene iz računalnika. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Preberite več\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "Podatki obrazca"
+   },
+   "options_remove_forms_desc": {
+      "message": "Vsi vaši vnosi samodejnega izpolnjevanja in zapisi besedila, ki ste ga vnesli na spletne obrazce, so izbrisani. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Preberite več\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "Datotečni sistemi"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Chrome Apps lahko uporabljajo] API chrome.fileSystem za ustvarjanje, branje, krmarjenje in pisanje v uporabnikov lokalni datotečni sistem. S tem API-jem lahko aplikacije Chrome berejo in pišejo na uporabniško izbranem mestu. Na primer, aplikacija za urejanje besedil lahko uporablja API za branje in pisanje lokalnih dokumentov. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">Preberi več\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "Zgodovina"
+   },
+   "options_remove_history_desc": {
+      "message": "Če izbrišete zgodovino brskanja, posebej izbrišete naslednje: Spletni naslovi, ki ste jih obiskali s strani Zgodovina, Predpomnjeno besedilo teh strani, Posnetki teh strani za slike, ki se pojavijo na strani Nov zavihek, Vsi naslovi IP, ki so predhodno pridobljeni s teh strani. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Preberite več\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "Gesla"
+   },
+   "options_remove_passwords_desc": {
+      "message": "Zapisi uporabniških imen in gesel se izbrišejo. Če uporabljate Mac, se zapisi gesla izbrišejo iz Keychain Access. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Preberite več\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "Podatki o vtičnikih"
+   },
+   "options_remove_plugin_desc": {
+      "message": "Vsi podatki na strani odjemalca, shranjeni z vtičniki, ki uporabljajo API NPAPI ClearSiteData. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">Preberite več\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Spletni SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "SQL SQL Database je spletna stran API za shranjevanje podatkov v zbirkah podatkov, ki jih je mogoče poizvedovati z uporabo različice SQL. [...] Delovna skupina za spletne aplikacije W3C je prenehala delati na specifikaciji novembra 2010, pri čemer je navedla pomanjkanje neodvisnih izvedb (tj. Uporabo baze podatkov, ki ni SQLite kot nadomestna različica) kot vzrok, da se specifikacija ni mogla premakniti naprej, da postane priporočilo W3C. Eden od možnih nadomestnih standardov za shranjevanje je IndexedDB. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">Preberite več\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "Lokalno skladiščenje"
+   },
+   "options_remove_storage_desc": {
+      "message": "DOM Storage [vključuje lokalno shrambo] je zasnovan tako, da zagotavlja večjo, varnejšo in enostavnejšo alternativo shranjevanju informacij v piškotkih. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">Preberite več\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "Čisto!"
+   },
+   "popup_clear": {
+      "message": "Jasno"
+   },
+   "popup_clearing": {
+      "message": "Razčiščevanje ..."
+   },
+   "popup_label_rate": {
+      "message": "Prosimo ocenite nas!"
+   },
+   "popup_manage": {
+      "message": "Opcije"
+   }
+}

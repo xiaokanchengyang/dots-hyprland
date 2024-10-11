@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "ตรวจสอบเว็บไซต์สำหรับไวรัส / มัลแวร์"
+   },
+   "city": {
+      "message": "เมือง"
+   },
+   "clickHere": {
+      "message": "คลิกที่นี่"
+   },
+   "commentPage": {
+      "message": "โปรดแสดงความคิดเห็นของคุณเกี่ยวกับหน้าเว็บนี้"
+   },
+   "commentWebsite": {
+      "message": "โปรดอิสระที่จะออกความคิดเห็นของคุณเกี่ยวกับเว็บไซต์ปัจจุบัน"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "อีเมล์"
+   },
+   "embedCode": {
+      "message": "ที่จะวางจากนี้ในเว็บไซต์ / บล็อกของคุณเพียงคัดลอกรหัส html ต่อไปนี้ด้านล่างและวางไว้ในหน้าเว็บของคุณ"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "ชื่อโฮสต์"
+   },
+   "hostingCompany": {
+      "message": "โฮสติ้ง บริษัท"
+   },
+   "hostingOwner": {
+      "message": "โฮสติ้ง / เจ้าของ"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "ที่อยู่ IP"
+   },
+   "ipv4": {
+      "message": "ที่อยู่ IPv4"
+   },
+   "ipv6": {
+      "message": "ที่อยู่ IPv6"
+   },
+   "location": {
+      "message": "สถานที่"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "ไม่มีข้อมูล"
+   },
+   "nsServers": {
+      "message": "เซิร์ฟเวอร์"
+   },
+   "otherSites": {
+      "message": "เว็บไซต์อื่น ๆ ที่ IP"
+   },
+   "owner": {
+      "message": "เจ้าของ"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "อ่านและเขียนความคิดเห็นเกี่ยวกับหน้าปัจจุบันนี้ (หรือผลิตภัณฑ์ที่เกี่ยวกับหน้านี้)"
+   },
+   "permLink": {
+      "message": "การเชื่อมโยงถาวรที่จะแสดงความคิดเห็น"
+   },
+   "popularity": {
+      "message": "ความนิยม"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "รีวิวเกี่ยวกับหน้าเว็บ"
+   },
+   "reviewsWebsite": {
+      "message": "รีวิวทั่วไปเกี่ยวกับเว็บไซต์"
+   },
+   "safeWeb": {
+      "message": "ป้องกันไวรัสเว็บ"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "เห็นประเทศ"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "ผู้เข้าชมต่อวัน"
+   },
+   "website": {
+      "message": "เว็บไซต์"
+   },
+   "websitePopularity": {
+      "message": "ความนิยมของเว็บไซต์ (โดยประมาณ)"
+   },
+   "websiteReview": {
+      "message": "รีวิวเกี่ยวกับเว็บไซต์"
+   },
+   "websiteReviewHint": {
+      "message": "อ่านและเขียนแสดงความคิดเห็นเกี่ยวกับเว็บไซต์นี้"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "เว็บไซต์ยอดนิยมอันดับโลก"
+   },
+   "worldRanking": {
+      "message": "เว็บไซต์ยอดนิยมระดับโลก (Alexa)"
+   },
+   "worldRankingHint": {
+      "message": "แผนภาพนี้จะแสดงการจัดอันดับสำหรับเว็บไซต์เฉพาะในกรณีที่เป็น บริษัท จดทะเบียนในด้านบน 100,000 เว็บไซต์เข้าชมมากที่สุดทั่วโลก . หากเว็บไซต์ในปัจจุบันมีตำแหน่งการจัดอันดับด้านล่าง 100000 คุณจะไม่เห็นข้อมูลใด ๆ และคุณจะต้องคลิกที่แผนภาพนี้เพื่อดูเว็บไซต์ตำแหน่งปัจจุบันในการจัดอันดับเว็บไซต์ \n มากที่สุดเยี่ยมชมเว็บไซต์ - Alexa Ranking - \n # 1 - Facebook \n # 2 - Google \n # 3 - Youtube \n ... ... \n ... ที่ 1,000 - Icloud.com (ประมาณ 250,000 ผู้เข้าชมต่อวัน) \n ... # 5000 - Totaljobs (ประมาณ 40,000 ผู้เข้าชมต่อวัน) \n ... # 10,000 - เอกมัย (ประมาณ 25,000 ผู้เข้าชมต่อวัน) \n ... # 50,000 - Wikitree (ประมาณ 10,000 ผู้เข้าชมต่อวัน) \n ... # 100000 - Transpole (ประมาณ 5,000 ผู้เข้าชมต่อวัน) \n ... # 300000 - Tweaktv (ประมาณ 3,000 ผู้เข้าชมต่อวัน) \n ... # 600000 - Springest (ประมาณ 1,300 ผู้เข้าชมต่อวัน) \n ... # 1000000 - อีเลน (ประมาณ 250 ผู้เข้าชมต่อวัน) \n ... ..."
+   }
+}

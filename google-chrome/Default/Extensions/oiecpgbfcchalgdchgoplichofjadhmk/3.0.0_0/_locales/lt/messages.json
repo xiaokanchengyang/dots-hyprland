@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Vienu paspaudimu išvalykite naršyklės istoriją, talpyklą ir slapukus „Google Chrome“!"
+   },
+   "app_name": {
+      "message": "Istorijos ir talpyklų valymo priemonė"
+   },
+   "options_common": {
+      "message": "Bendrosios parinktys"
+   },
+   "options_common_1": {
+      "message": "Po valymo automatiškai įkelkite aktyvų skirtuką"
+   },
+   "options_common_2": {
+      "message": "Slankusis mygtukas „Talpyklos valiklis“ visuose puslapiuose"
+   },
+   "options_everything": {
+      "message": "Viskas"
+   },
+   "options_header": {
+      "message": "GALIMYBĖS"
+   },
+   "options_last_day": {
+      "message": "Paskutinė diena"
+   },
+   "options_last_hour": {
+      "message": "Paskutinė valanda"
+   },
+   "options_last_month": {
+      "message": "Praeitą mėnesį"
+   },
+   "options_last_week": {
+      "message": "Praeitą savaitę"
+   },
+   "options_remove": {
+      "message": "Duomenys, kuriuos reikia pašalinti"
+   },
+   "options_remove_appcache": {
+      "message": "Programų talpykla"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 pateikia programų talpyklos mechanizmą, leidžiantį internetines programas veikti neprisijungus. Kūrėjai gali naudoti „Application Cache“ („AppCache“) sąsają, kad nurodytų išteklius, kuriuos naršyklė turėtų kaupti talpykloje ir padaryti prieinamus neprisijungusiems vartotojams. Talpykloje esančios programos įkeliamos ir veikia tinkamai, net jei vartotojai spustelėję atnaujinimo mygtuką neprisijungę. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">Skaitykite daugiau\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "Talpykla"
+   },
+   "options_remove_cache_desc": {
+      "message": "Tinklalapių, kuriuose lankėtės „Google Chrome“, tekstas pašalinamas iš jūsų kompiuterio. Naršyklės saugo tinklalapių elementus, kad paspartintų tinklalapio įkėlimą kito apsilankymo metu. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Skaitykite daugiau\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "Slapukai"
+   },
+   "options_remove_cookies_desc": {
+      "message": "Failai, kuriuos jūsų kompiuteryje saugo jūsų aplankytos svetainės. Šiuose failuose yra informacijos apie vartotoją, pvz., Svetainių nuostatas ar profilio informaciją. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Skaitykite daugiau\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(galimybės)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "Išvalykite tik šiuos duomenis (greitai)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "Neišvalykite šių (lėtai)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "Neapibrėžti filtrai"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "Pridėti domeną"
+   },
+   "options_remove_db": {
+      "message": "Indeksuota DB"
+   },
+   "options_remove_db_desc": {
+      "message": "„IndexedDB“ yra API, skirta dideliam kiekiui struktūrizuotų duomenų saugoti kliento pusėje, o tai taip pat įgalina šių duomenų efektyvumą ieškoti naudojant indeksus. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">Skaitykite daugiau\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "Atsisiuntimai"
+   },
+   "options_remove_downloads_desc": {
+      "message": "Failų, kuriuos atsisiuntėte naudodami „Google Chrome“, sąrašas yra išvalytas, tačiau tikrieji failai nėra pašalinti iš jūsų kompiuterio. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Skaitykite daugiau\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "Formos duomenys"
+   },
+   "options_remove_forms_desc": {
+      "message": "Visi automatinio užpildymo įrašai ir teksto įrašai, kuriuos įvedėte žiniatinklio formose, yra ištrinami. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Skaitykite daugiau\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "Failų sistemos"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[„Chrome Apps“ gali naudoti] „chrome.fileSystem“ API norėdama sukurti, skaityti, naršyti ir rašyti į vartotojo vietinę failų sistemą. Naudodamiesi šia API, „Chrome“ programos gali skaityti ir rašyti į vartotojo pasirinktą vietą. Pvz., Teksto rengyklės programa gali naudoti API skaityti ir rašyti vietinius dokumentus. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">Skaitykite daugiau\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "Istorija"
+   },
+   "options_remove_history_desc": {
+      "message": "Jei išvalysite naršymo istoriją, ištrinsite šiuos dalykus: Apsilankykite žiniatinklio adresai iš istorijos istorijos, išsaugotas tų puslapių tekstas, tų puslapių momentinės nuotraukos, rodomos naujo skirtuko puslapyje, bet kokie IP adresai, iš anksto gauti iš tų puslapių. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Skaitykite daugiau\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "Slaptažodžiai"
+   },
+   "options_remove_passwords_desc": {
+      "message": "Panaikinami vartotojo vardų ir slaptažodžių įrašai. Jei naudojate „Mac“, jūsų slaptažodžio įrašai ištrinami iš „Keychain Access“. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Skaitykite daugiau\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "Papildinio duomenys"
+   },
+   "options_remove_plugin_desc": {
+      "message": "Bet kokie kliento duomenys, kuriuos saugo papildiniai, kurie naudoja „NPAPI ClearSiteData API“. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">Skaitykite daugiau\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Žiniatinklio SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "„Web SQL Database“ yra tinklalapio API, skirta duomenims saugoti duomenų bazėse, į kurias galima kreiptis naudojant SQL variantą. [...] 2010 m. Lapkričio mėn. W3C žiniatinklio programų darbo grupė nustojo dirbti su specifikacija, nurodydama, kad trūksta savarankiškų diegimų (ty duomenų bazės sistemos, kuri nėra SQLite, naudojimas kaip pagrindą), dėl kurios specifikacija negalėjo perkelti. ateityje tapti W3C rekomendacija. Vienas iš galimų alternatyvių saugojimo standartų yra „IndexedDB“. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">Skaitykite daugiau\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "Vietinė parduotuvė"
+   },
+   "options_remove_storage_desc": {
+      "message": "DOM saugykla [į kurią įeina vietinė saugykla] yra skirta suteikti didesnę, saugesnę ir lengviau naudojamą informacijos saugojimo slapukuose alternatyvą. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">Skaitykite daugiau\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "Švarus!"
+   },
+   "popup_clear": {
+      "message": "Aišku"
+   },
+   "popup_clearing": {
+      "message": "Išvaloma ..."
+   },
+   "popup_label_rate": {
+      "message": "Prašau Įvertink mus!"
+   },
+   "popup_manage": {
+      "message": "Galimybės"
+   }
+}

@@ -1,0 +1,149 @@
+{
+   "addErrorBad": {
+      "message": "Hinzufügen nicht möglich"
+   },
+   "addErrorDupp": {
+      "message": "Bereits hinzugefügt"
+   },
+   "addFavoritesLabel": {
+      "message": "Favoriten"
+   },
+   "addSkippedLabel": {
+      "message": "Skip-Liste"
+   },
+   "addSuccess": {
+      "message": "Hinzugefügt"
+   },
+   "addTranslateDbg": {
+      "message": "[example.org] den [Favoriten] hinzufügen"
+   },
+   "addVerb": {
+      "description": "part of 'Add example.org to Favorites List' sentence",
+      "message": "Hinzufügen"
+   },
+   "adjust": {
+      "message": "Weitere Einstellungen ..."
+   },
+   "adjustColorsHeader": {
+      "message": "Markierungsfarbe anpassen"
+   },
+   "adjustOnlineDicts": {
+      "message": "Online-Wörterbücher für Schwebe- und Kontextmenüs anpassen"
+   },
+   "adjustPopupHlHeader": {
+      "message": "Popup-Menü für markierte Ausdrücke anpassen"
+   },
+   "adjustPopupOwHeader": {
+      "message": "Popup-Menü nicht markierte Wörter anzeigen"
+   },
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Markiert seltene Wörter und Redewendungen aus dem Englisch-Wörterbuch auf Webseiten. Erleichtert das Erlernen der englischen Sprache - und Sie erweitern Ihren Wortschatz."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Word Discoverer: Erweitern Sie Ihren Wortschatz (Wort-Entdecker)"
+   },
+   "dictNameHeader": {
+      "message": "Wörterbuch-Name:"
+   },
+   "dictUrlHeader": {
+      "message": "Wörterbuch-Abfrage-URL:"
+   },
+   "disabledDescription": {
+      "message": "Nur die Seiten aus \"Favoriten“ markieren"
+   },
+   "emptyListError": {
+      "message": "Die Liste ist leer ;)"
+   },
+   "enableIdiomsLabel": {
+      "message": "\"Ausdrücke markieren\" aktivieren"
+   },
+   "enableWordsLabel": {
+      "message": "\"Wörter markieren\" aktivieren"
+   },
+   "enabledDescription": {
+      "message": "Alle Internet-Websites mit Ausnahme der \"Skip-Liste\" markieren"
+   },
+   "importInfo": {
+      "message": "Ihrem aktuellen Wortschatz werden neue Wörter hinzugefügt."
+   },
+   "loadVocab": {
+      "message": "Wortschatz importieren"
+   },
+   "menuItem": {
+      "description": "Text in context menu",
+      "message": "In dem Wortschatz"
+   },
+   "rateInfo1": {
+      "description": "1-st part of \"Not highlighting 100 most common English words\" sentence",
+      "message": "Keine Markierung"
+   },
+   "rateInfo2": {
+      "description": "2-nd part of \"Not highlighting 100 most common English words\" sentence",
+      "message": "Die häufigsten englischen Wörter"
+   },
+   "rateTranslateDbg": {
+      "message": "Keine Markierung der 100 häufigsten englischen Wörter"
+   },
+   "rbAlways": {
+      "message": "Popup-Menü mit Maus-Zeiger anzeigen"
+   },
+   "rbKey": {
+      "message": "Popup-Menü mit Maus-Zeiger und [Strg]-Taste anzeigen"
+   },
+   "rbNever": {
+      "message": "Popup-Menü nicht anzeigen"
+   },
+   "restoreDefaults": {
+      "message": "Standardeinstellungen wiederherstellen"
+   },
+   "saveVisuals": {
+      "message": "Speichern"
+   },
+   "saveVocab": {
+      "message": "Wortschatz exportieren"
+   },
+   "selectFile": {
+      "message": "Datei auswählen ..."
+   },
+   "showVocab": {
+      "message": "Wortschatz anzeigen"
+   },
+   "switchModeLabel": {
+      "message": "Wechselmodus"
+   },
+   "testBtn": {
+      "message": "Test"
+   },
+   "tipInfo": {
+      "message": "Um Ihrem Vokabular einen neuen Ausdruck hinzuzufügen, nutzen Sie das Maus-Zeige-Menü oder das Browser-Kontextmenü (wählen Sie Text + Rechtsklick) oder dieses Eingabefeld:"
+   },
+   "toVerb": {
+      "description": "part of 'Add example.org to Favorites List' sentence",
+      "message": "nach"
+   },
+   "useBackground": {
+      "message": "Hintergrund-Markierung verwenden"
+   },
+   "useBold": {
+      "message": "Fettschrift vewenden"
+   },
+   "useQuotes": {
+      "message": "Anführungszeichen (anstelle der Markierung) verwenden"
+   },
+   "useText": {
+      "message": "Textmarkierung verwenden"
+   },
+   "vocabSizeInfo1": {
+      "description": "1-st part of \"Your vocabulary size: 100 words.\" sentence",
+      "message": "Ihre Wortschatz-Größe:"
+   },
+   "vocabSizeInfo2": {
+      "description": "2-nd part of \"Your vocabulary size: 100 words.\" sentence",
+      "message": "Wörter."
+   },
+   "vocabSizeTranslateDbg": {
+      "message": "Ihre Wortschatz-Größe: 100 Wörter."
+   }
+}

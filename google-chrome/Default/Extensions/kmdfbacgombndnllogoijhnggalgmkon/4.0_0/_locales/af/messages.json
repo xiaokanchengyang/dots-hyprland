@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "N Webwerf vir virusse/Malware"
+   },
+   "city": {
+      "message": "City"
+   },
+   "clickHere": {
+      "message": "kliek hier"
+   },
+   "commentPage": {
+      "message": "Voel asseblief vry om jou kommentaar te verlaat oor hierdie blad"
+   },
+   "commentWebsite": {
+      "message": "Voel asseblief vry om jou resensies te verlaat oor die huidige webwerf"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "E-pos"
+   },
+   "embedCode": {
+      "message": "Dié resensie te plaas op jou webwerf / blog kopieer die volgende HTML-kode hieronder en plaas dit in jou web bladsy"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "Host"
+   },
+   "hostingCompany": {
+      "message": "Hosting Maatskappy"
+   },
+   "hostingOwner": {
+      "message": "Hosting/Eienaar"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "IP-adres"
+   },
+   "ipv4": {
+      "message": "IPv4-adres"
+   },
+   "ipv6": {
+      "message": "IPv6-adres"
+   },
+   "location": {
+      "message": "Plek"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "Geen Data"
+   },
+   "nsServers": {
+      "message": "Naambedieners"
+   },
+   "otherSites": {
+      "message": "Webwerwe op IP"
+   },
+   "owner": {
+      "message": "Eienaar"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "Lees en skryf kommentaar oor hierdie huidige bladsy (of oor produkte op hierdie bladsy)"
+   },
+   "permLink": {
+      "message": "Permanente skakel na kommentaar"
+   },
+   "popularity": {
+      "message": "Gewildheid"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "Web Bladsy Resensies"
+   },
+   "reviewsWebsite": {
+      "message": "Algemene Webwerf Resensies"
+   },
+   "safeWeb": {
+      "message": "Norton SafeWeb"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "sien land"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "besoekers per dag"
+   },
+   "website": {
+      "message": "Webwerf"
+   },
+   "websitePopularity": {
+      "message": "Webwerf Populariteit (Ongeveer)"
+   },
+   "websiteReview": {
+      "message": "Webwerf Resensies"
+   },
+   "websiteReviewHint": {
+      "message": "Lees en skryf resensies oor hierdie webwerf"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "Webwerf Wêreld Gewilde Rank"
+   },
+   "worldRanking": {
+      "message": "Webwerf Wêreld Gewilde Ranking (Alexa)"
+   },
+   "worldRankingHint": {
+      "message": "Hierdie diagram vertoon 'n posisie vir 'n webwerf slegs indien dit gelys is in die top 100,000 mees besoek webwerwe wêreldwyd. . As die site tans 'n posisie posisie onder 100,000 het sal jy nie sien nie enige data en jy sal nodig het om te klik op die diagram aan die werf sien sy huidige posisie in die wêreld site posisie \n Mees besoekte webwerwe - Alexa Ranking - \n # 1 - Facebook \n # 2 - Google \n # 3 - Youtube \n ... ... \n ... # 1000 - Icloud.com (ongeveer 250,000 besoekers per dag) \n ... # 5000 - Totaljobs (ongeveer 40.000 besoekers per dag) \n ... # 10000 - Akamai (ongeveer 25.000 besoekers per dag) \n ... # 50000 - Wikitree (ongeveer 10,000 besoekers per dag) \n ... # 100000 - Transpole (ongeveer 5000 besoekers per dag) \n ... # 300000 - Tweaktv (ongeveer 3000 besoekers per dag) \n ... # 600000 - Springest (ongeveer 1300 besoekers per dag) \n ... # 1000000 - Elain (sowat 250 besoekers per dag) \n ..."
+   }
+}

@@ -1,0 +1,36 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "Images/action-normal-16.png",
+         "24": "Images/action-normal-24.png",
+         "32": "Images/action-normal-32.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": ""
+   },
+   "background": {
+      "service_worker": "/JavaScript/worker/service_worker.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "/JavaScript/content/content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Comprehensive site information and protection from phishing and malicious JavaScript when browsing the web",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "Images/icon-large.png",
+      "16": "Images/icon-small.png",
+      "48": "Images/icon-mid.png"
+   },
+   "incognito": "split",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCuYslBQ9YcEEgFZgzX0Db5LTv/5hF7INoVmJhHXrn91MmyYwdbqJLyeqAKvUw2ojQQjwAVpIlUC7qIJRqT1K1Cx3ZtlyoplXJZzCIhEiz7RVutB34VKsahyd3+01FC5OZWsA6lUjdnFqptOMozoU47rtl+jrf2deECY/wL/j9P7wIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "102",
+   "name": "Netcraft Extension",
+   "options_page": "options.html",
+   "permissions": [ "storage", "tabs", "webRequest" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1.2"
+}

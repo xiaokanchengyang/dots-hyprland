@@ -1,0 +1,149 @@
+{
+   "addErrorBad": {
+      "message": "जोड़ने में असमर्थ।"
+   },
+   "addErrorDupp": {
+      "message": "पहले से जोड़ा गया।"
+   },
+   "addFavoritesLabel": {
+      "message": "पसंदीदा सूची"
+   },
+   "addSkippedLabel": {
+      "message": "स्किप सूची"
+   },
+   "addSuccess": {
+      "message": "जोड़ा गया।"
+   },
+   "addTranslateDbg": {
+      "message": "[example.org] को [पसंदीदा सूची] पर जोड़ें"
+   },
+   "addVerb": {
+      "description": "part of 'Add example.org to Favorites List' sentence",
+      "message": "जोड़ें"
+   },
+   "adjust": {
+      "message": "अधिक सेटिंग..."
+   },
+   "adjustColorsHeader": {
+      "message": "हाइलाइटिंग रंग समायोजित करें"
+   },
+   "adjustOnlineDicts": {
+      "message": "होवर और कॉन्टेक्स्ट मेनू के लिए ऑनलाइन शब्दकोश समायोजित करें"
+   },
+   "adjustPopupHlHeader": {
+      "message": "हाइलाइट की गई वाक्यरीति के लिए पॉपअप मेनू समायोजित करें"
+   },
+   "adjustPopupOwHeader": {
+      "message": "हाइलाइट नहीं किए गए शब्दों के लिए पॉपअप मेनू समायोजित करें"
+   },
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "वेबपेज पर अंग्रेजी शब्दकोश के दुर्लभ शब्द और मुहावरों को हाइलाइट करता है। अंग्रेजी भाषा सीखना सहज बनाता है और आपकी शब्दावली को बढ़ाता है।"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "वर्ड डिस्कवर्र: अपनी शब्दावली बढ़ाएं"
+   },
+   "dictNameHeader": {
+      "message": "शब्दकोश का नाम:"
+   },
+   "dictUrlHeader": {
+      "message": "शब्दकोश क्वेरी URL:"
+   },
+   "disabledDescription": {
+      "message": "केवल “पसंदीदा सूची” साइट हाइलाइट करें।"
+   },
+   "emptyListError": {
+      "message": "सूची खाली है;)"
+   },
+   "enableIdiomsLabel": {
+      "message": "वाक्यरीति हाइलाइटिंग सक्षम करें"
+   },
+   "enableWordsLabel": {
+      "message": "शब्द हाइलाइटिंग सक्षम करें"
+   },
+   "enabledDescription": {
+      "message": "\"स्किप सूची (सूची छोड़ें)\" साइट के अलावा पूरा इंटरनेट हाइलाइट करें।"
+   },
+   "importInfo": {
+      "message": "नए शब्दों को आपके वर्तमान शब्दावली में जोड़ा जाएगा।"
+   },
+   "loadVocab": {
+      "message": "शब्दावली आयात करें"
+   },
+   "menuItem": {
+      "description": "Text in context menu",
+      "message": "शब्दावली में जोड़ें"
+   },
+   "rateInfo1": {
+      "description": "1-st part of \"Not highlighting 100 most common English words\" sentence",
+      "message": "हाइलाइट नहीं किए गए"
+   },
+   "rateInfo2": {
+      "description": "2-nd part of \"Not highlighting 100 most common English words\" sentence",
+      "message": "सबसे आम अंग्रेजी शब्द।"
+   },
+   "rateTranslateDbg": {
+      "message": "हाइलाइट नहीं किए गए 100 सबसे आम अंग्रेजी शब्द"
+   },
+   "rbAlways": {
+      "message": "माउस होवर पर पॉपअप मेनू दिखाएं"
+   },
+   "rbKey": {
+      "message": "माउस होवर और [Ctrl] पर पॉपअप मेनू दिखाएं"
+   },
+   "rbNever": {
+      "message": "पॉपउप मेनू न दिखाएं"
+   },
+   "restoreDefaults": {
+      "message": "डिफ़ॉल्ट पुनर्स्थापित करें"
+   },
+   "saveVisuals": {
+      "message": "सहेजें"
+   },
+   "saveVocab": {
+      "message": "शब्दावली निर्यात करें"
+   },
+   "selectFile": {
+      "message": "फाइल का चयन करें..."
+   },
+   "showVocab": {
+      "message": "शब्दावली दिखाएं"
+   },
+   "switchModeLabel": {
+      "message": "मोड स्विच करें"
+   },
+   "testBtn": {
+      "message": "टेस्ट"
+   },
+   "tipInfo": {
+      "message": "अपनी शब्दावली में नई वाक्यरीति जोड़ने के लिए आप माउस होवर मेनू या ब्राउज़र कॉन्टेक्स्ट मेनू (टेक्स्ट + राइट क्लिक का करें) या निम्न इनपुट फ़ील्ड का उपयोग कर सकते हैं:"
+   },
+   "toVerb": {
+      "description": "part of 'Add example.org to Favorites List' sentence",
+      "message": "से"
+   },
+   "useBackground": {
+      "message": "पृष्ठभूमि हाइलाइटिंग उपयोग करें"
+   },
+   "useBold": {
+      "message": "बोल्ड फॉन्ट उपयोग करें"
+   },
+   "useQuotes": {
+      "message": "उद्धरण चिह्नों का उपयोग करें (हाइलाइटिंग के बजाए)"
+   },
+   "useText": {
+      "message": "टेक्स्ट हाइलाइटिंग उपयोग करें"
+   },
+   "vocabSizeInfo1": {
+      "description": "1-st part of \"Your vocabulary size: 100 words.\" sentence",
+      "message": "आपकी शब्दावली का आकार:"
+   },
+   "vocabSizeInfo2": {
+      "description": "2-nd part of \"Your vocabulary size: 100 words.\" sentence",
+      "message": "शब्द।"
+   },
+   "vocabSizeTranslateDbg": {
+      "message": "आपकी शब्दावली का आकार: 100 शब्द।"
+   }
+}

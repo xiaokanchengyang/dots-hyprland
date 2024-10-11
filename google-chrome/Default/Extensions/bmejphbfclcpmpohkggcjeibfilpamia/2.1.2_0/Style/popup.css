@@ -1,0 +1,208 @@
+/*
+ * Netcraft Extension
+ * popup page style sheet
+ */
+
+body {
+    font-family: verdana, sans-serif;
+    font-size: 11px;
+    color: #303030;
+    max-width: 350px;
+    min-width: 325px;
+    overflow: hidden;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+header img {
+    display: block;
+    margin: 0px auto;
+}
+
+h1 {
+    font-size: 15px;
+    font-weight: normal;
+    margin-bottom: 0px;
+    opacity: 0;
+}
+
+div#flag-container {
+    display: block;
+    text-align: center;
+    height: 48px;
+    width: 48px;
+    margin: auto;
+}
+
+#resources,
+#other-resources {
+    display: none;
+}
+
+#reasonContainer {
+    display: none;
+}
+
+#reason {
+    font-size: 14px;
+    font-weight: bold;
+    color: #ff0000;
+    line-height: 25px;
+}
+
+#blockedtext {
+    display: none;
+    text-align: center;
+    line-height: 25px;
+    font-weight: bold;
+    color: #ff0000;
+}
+
+table {
+    width: 100%;
+    border-bottom: 1px solid #303030;
+    border-top: 1px solid #303030;
+}
+
+td.title {
+    font-weight: bold;
+}
+
+td.title,
+td.value {
+    padding: 3px;
+}
+
+a {
+    text-decoration: none;
+    color: #0040af;
+}
+
+a:hover {
+    color: #f38b18;
+}
+
+footer {
+    margin: 15px 10px 10px 10px;
+    height: 30px;
+}
+
+button {
+    color: #428bca;
+    background-color: white;
+    padding: 6px 10px 6px 10px;
+    border: 1px solid #951100;
+    text-align: center;
+    border-radius: 3px;
+    border: solid 1px #428bca;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #428bca;
+    color: white;
+}
+
+.yes {
+    color: #007700;
+}
+
+.no {
+    color: #ff3333;
+}
+
+/* Submission form styling */
+
+.whitelist-container,
+.report-form {
+    padding: 10px 10px 0px 10px;
+}
+
+.whitelist-container-content,
+.report-form-inputs {
+    display: grid;
+    grid-template-rows: auto auto auto;
+}
+
+.whitelist-content,
+.reason-container {
+    display: grid;
+    grid-template-rows: auto auto;
+}
+
+whitelist-content > .container,
+,
+.reason-container > .container {
+    grid-template-columns: 1fr;
+    grid-template-areas: 'input';
+}
+
+.whitelist-content > span > span,
+.reason-container > span > span {
+    float: right;
+}
+
+.whitelist-content > span > span > p,
+.reason-container > span > span > p {
+    float: left;
+}
+
+button.disabled {
+    opacity: 0.3;
+    cursor: default;
+}
+
+button.disabled:hover {
+    background-color: white;
+    color: #428bca;
+}
+
+.message > p {
+    font-size: 13px;
+    margin-top: 16px;
+    margin-left: 40px;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.spinner {
+    max-width: 30px;
+    height: 20px;
+    width: auto;
+    animation: 2s infinite linear spin;
+}
+
+.message > .icon {
+    height: 30px;
+    margin-right: 0;
+    margin-top: 0;
+}
+
+#reportFormHeader {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+#reportPhish {
+    float: right;
+    margin-top: 15px;
+}
+
+.logo {
+    width: 150px;
+}
+
+.hidden {
+    display: none;
+}

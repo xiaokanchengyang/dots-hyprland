@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "Zkontrolujte si webové stránky pro viry / malware"
+   },
+   "city": {
+      "message": "Město"
+   },
+   "clickHere": {
+      "message": "klikněte zde"
+   },
+   "commentPage": {
+      "message": "Prosím, neváhejte zanechat své připomínky k této stránce"
+   },
+   "commentWebsite": {
+      "message": "Prosím, neváhejte se nechat recenze o aktuální webové stránky"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "embedCode": {
+      "message": "Chcete-li umístit tuto recenzi na vaše webové stránky / blog jednoduše zkopírovat následující html kód níže a umístěte ho na své webové stránky"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "Hostitel"
+   },
+   "hostingCompany": {
+      "message": "Hosting Společnost"
+   },
+   "hostingOwner": {
+      "message": "Hosting/Majitel"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "IP Adresa"
+   },
+   "ipv4": {
+      "message": "IPv4 Adresa"
+   },
+   "ipv6": {
+      "message": "IPv6 Adresa"
+   },
+   "location": {
+      "message": "Umístění"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "žádná data"
+   },
+   "nsServers": {
+      "message": "Název Servery"
+   },
+   "otherSites": {
+      "message": "Jiné stránky o IP"
+   },
+   "owner": {
+      "message": "Majitel"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "Číst a psát komentáře k této aktuální stránky (nebo o produkty na této stránce)"
+   },
+   "permLink": {
+      "message": "Stálý odkaz na připomínky"
+   },
+   "popularity": {
+      "message": "Popularita"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "Recenze webové stránky"
+   },
+   "reviewsWebsite": {
+      "message": "Obecné webových stránek Recenze"
+   },
+   "safeWeb": {
+      "message": "Norton SafeWeb"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "viz zemi"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "návštěvníků za den"
+   },
+   "website": {
+      "message": "Webové Stránky"
+   },
+   "websitePopularity": {
+      "message": "Webová stránka popularity (přibližně)"
+   },
+   "websiteReview": {
+      "message": "Website Recenze"
+   },
+   "websiteReviewHint": {
+      "message": "Číst a psát recenze o tomto webu"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "Web svět populární hodnocení"
+   },
+   "worldRanking": {
+      "message": "Webová stránka světě populární hodnocení (Alexa)"
+   },
+   "worldRankingHint": {
+      "message": "Tento diagram zobrazuje pořadí pro webové stránky, pouze pokud je uveden v horní 100000 nejnavštěvovanějších internetových stránek po celém světě. . Pokud je stránka má v současné době průměrnou pozici pod 100.000 neuvidíte žádné údaje, a budete muset kliknout na tento diagram pro zobrazení webu jeho aktuální pozici na žebříčku světového dědictví \n nejnavštěvovanějších webových stránek - Alexa Ranking - \n # 1 - Facebook \n # 2 - Google \n # 3 - Youtube \n ... ... \n ... # 1000 - Icloud.com (asi 250 tisíc návštěvníků za den) \n ... # 5000 - Totaljobs (kolem 40.000 návštěvníků za den) \n ... # 10000 - Akamai (kolem 25.000 návštěvníků za den) \n ... # 50000 - Wikitree (kolem 10.000 návštěvníků za den) \n ... # 100000 - Transpole (kolem 5000 návštěvníků za den) \n ... # 300000 - Tweaktv (kolem 3000 návštěvníků za den) \n ... # 600000 - Springest (kolem 1300 návštěvníků za den) \n ... # 1000000 - Elain (kolem 250 návštěvníků denně) \n ... ..."
+   }
+}

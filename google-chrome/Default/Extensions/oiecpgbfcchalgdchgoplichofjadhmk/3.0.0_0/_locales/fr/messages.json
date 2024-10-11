@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Effacez l&#39;historique de votre navigateur, le cache et les cookies pour Google Chrome en un seul clic!"
+   },
+   "app_name": {
+      "message": "Nettoyeur d&#39;historique et de cache"
+   },
+   "options_common": {
+      "message": "Options communes"
+   },
+   "options_common_1": {
+      "message": "Recharger automatiquement l'onglet actif après avoir effacé"
+   },
+   "options_common_2": {
+      "message": "Bouton flottant \"Cache Cleaner\" sur toutes les pages"
+   },
+   "options_everything": {
+      "message": "Tout"
+   },
+   "options_header": {
+      "message": "LES OPTIONS"
+   },
+   "options_last_day": {
+      "message": "Dernier jour"
+   },
+   "options_last_hour": {
+      "message": "Dernière heure"
+   },
+   "options_last_month": {
+      "message": "Le mois dernier"
+   },
+   "options_last_week": {
+      "message": "La semaine dernière"
+   },
+   "options_remove": {
+      "message": "Données à supprimer"
+   },
+   "options_remove_appcache": {
+      "message": "Cache d'application"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 fournit un mécanisme de mise en cache des applications qui permet aux applications Web de s'exécuter en mode hors connexion. Les développeurs peuvent utiliser l'interface de cache d'applications (AppCache) pour spécifier les ressources que le navigateur doit mettre en cache et mettre à la disposition des utilisateurs hors ligne. Les applications mises en cache se chargent et fonctionnent correctement même si les utilisateurs cliquent sur le bouton d'actualisation lorsqu'ils sont hors ligne. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">Lire plus\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "Cache"
+   },
+   "options_remove_cache_desc": {
+      "message": "Le texte des pages Web que vous avez visitées dans Google Chrome est supprimé de votre ordinateur. Les navigateurs stockent des éléments de pages Web pour accélérer le chargement de la page Web lors de votre prochaine visite. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lire plus\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "Biscuits"
+   },
+   "options_remove_cookies_desc": {
+      "message": "Fichiers stockés sur votre ordinateur par les sites Web visités. Ces fichiers contiennent des informations sur l'utilisateur, telles que les préférences pour les sites Web ou les informations de profil. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lire plus\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(Les options)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "Seulement effacer ce qui suit (rapide)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "Ne pas effacer ce qui suit (lent)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "Aucun filtre défini"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "Ajouter un domaine"
+   },
+   "options_remove_db": {
+      "message": "DB indexée"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB est une API pour le stockage côté client de quantités importantes de données structurées, ce qui permet également des recherches hautes performances de ces données à l'aide d'index. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">Lire plus\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "Téléchargements"
+   },
+   "options_remove_downloads_desc": {
+      "message": "La liste des fichiers que vous avez téléchargés à l'aide de Google Chrome est effacée, mais les fichiers réels ne sont pas supprimés de votre ordinateur. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lire plus\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "Données de formulaire"
+   },
+   "options_remove_forms_desc": {
+      "message": "Toutes vos entrées de saisie automatique et les enregistrements de texte entrés dans des formulaires Web sont supprimés. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lire plus\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "Systèmes de fichiers"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Les applications Chrome peuvent utiliser] l'API chrome.fileSystem pour créer, lire, naviguer et écrire dans le système de fichiers local de l'utilisateur. Avec cette API, les applications Chrome peuvent lire et écrire à un emplacement sélectionné par l'utilisateur. Par exemple, une application d'éditeur de texte peut utiliser l'API pour lire et écrire des documents locaux. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">Lire la suite\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "L'histoire"
+   },
+   "options_remove_history_desc": {
+      "message": "Effacer votre historique de navigation supprime spécifiquement les éléments suivants: les adresses Web visitées de la page Historique, le texte mis en cache de ces pages, les instantanés de ces pages pour les images qui apparaissent sur la page Nouvel onglet, Toutes les adresses IP pré-extraites à partir de ces pages. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lire plus\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "Mots de passe"
+   },
+   "options_remove_passwords_desc": {
+      "message": "Les enregistrements de noms d'utilisateur et de mots de passe sont supprimés. Si vous utilisez un Mac, vos enregistrements de mot de passe sont supprimés de Keychain Access. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lire plus\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "Données du plugin"
+   },
+   "options_remove_plugin_desc": {
+      "message": "Toutes les données côté client stockées par les plug-ins qui utilisent l'API NPAPI ClearSiteData. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">Lire plus\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Web SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "Web SQL Database est une API de page Web permettant de stocker des données dans des bases de données pouvant être interrogées à l'aide d'une variante de SQL. [...] Le groupe de travail sur les applications Web du W3C a cessé de travailler sur la spécification en novembre 2010, invoquant un manque d'implémentations indépendantes (c'est-à-dire l'utilisation d'un système de base de données autre que SQLite en tant que backend) en raison de l'impossibilité de déplacer la spécification. transmettre pour devenir une recommandation du W3C. IndexedDB est une alternative de stockage potentielle. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">Lire plus\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "Stockage local"
+   },
+   "options_remove_storage_desc": {
+      "message": "Le stockage DOM [qui inclut le stockage local] est conçu pour offrir une alternative plus grande, plus sûre et plus facile à utiliser que le stockage d'informations dans des cookies. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">Lire plus\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "Nettoyer!"
+   },
+   "popup_clear": {
+      "message": "Clair"
+   },
+   "popup_clearing": {
+      "message": "Clairière..."
+   },
+   "popup_label_rate": {
+      "message": "Veuillez nous évaluer!"
+   },
+   "popup_manage": {
+      "message": "Les options"
+   }
+}

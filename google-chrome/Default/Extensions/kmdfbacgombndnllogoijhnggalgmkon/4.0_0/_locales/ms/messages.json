@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "Semak Laman Web untuk virus/malware"
+   },
+   "city": {
+      "message": "Bandar"
+   },
+   "clickHere": {
+      "message": "klik di sini"
+   },
+   "commentPage": {
+      "message": "Sila berasa bebas untuk meninggalkan komen anda mengenai page web"
+   },
+   "commentWebsite": {
+      "message": "Sila berasa bebas untuk meninggalkan ulasan anda tentang laman web semasa"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "E-mel"
+   },
+   "embedCode": {
+      "message": "Untuk meletakkan Kajian ini di laman web / blog anda hanya menyalin kod html berikut di bawah dan letakkan di laman web anda"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "Hos"
+   },
+   "hostingCompany": {
+      "message": "Syarikat hosting"
+   },
+   "hostingOwner": {
+      "message": "Hosting/Pemilik"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "alamat IP"
+   },
+   "ipv4": {
+      "message": "alamat IPv4"
+   },
+   "ipv6": {
+      "message": "alamat IPv6"
+   },
+   "location": {
+      "message": "Lokasi"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "Tiada Data"
+   },
+   "nsServers": {
+      "message": "Nama Pelayan"
+   },
+   "otherSites": {
+      "message": "Tapak lain pada IP"
+   },
+   "owner": {
+      "message": "Pemilik"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "Membaca dan menulis komen tentang halaman ini semasa (atau mengenai produk di laman ini)"
+   },
+   "permLink": {
+      "message": "Pautan kekal ke komen"
+   },
+   "popularity": {
+      "message": "Populariti"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "Ulasan Page Web"
+   },
+   "reviewsWebsite": {
+      "message": "Am Ulasan tentang laman web"
+   },
+   "safeWeb": {
+      "message": "Norton Antivirus"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "melihat negara"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "pelawat setiap hari"
+   },
+   "website": {
+      "message": "Laman Web"
+   },
+   "websitePopularity": {
+      "message": "Populariti laman web (kira-kira)"
+   },
+   "websiteReview": {
+      "message": "Laman web Ulasan"
+   },
+   "websiteReviewHint": {
+      "message": "Membaca dan menulis ulasan tentang laman web ini"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "Dunia Kedudukan Laman Web Popular"
+   },
+   "worldRanking": {
+      "message": "Dunia Kedudukan Laman Web Popular (Alexa)"
+   },
+   "worldRankingHint": {
+      "message": "Gambarajah ini memaparkan kedudukan untuk laman web hanya jika ia disenaraikan dalam 100,000 teratas yang paling melawat laman web di seluruh dunia. . Jika laman itu kini mempunyai kedudukan ranking bawah 100,000 anda tidak akan melihat apa-apa data dan anda akan perlu klik pada gambarajah ini untuk melihat laman web ini kedudukannya dalam ranking laman web dunia \n Kebanyakan Dilawati Web - Alexa Ranking - \n # 1 - Facebook \n # 2 - Google \n # 3 - Youtube \n ... ... \n ... # 1,000 - Icloud.com (kira-kira 250,000 pelawat setiap hari) \n ... # 5,000 - Totaljobs (kira-kira 40,000 pelawat sehari) \n ... # 10,000 - Akamai (kira-kira 25,000 pelawat sehari) \n ... # 50,000 - Wikitree (kira-kira 10,000 pelawat setiap hari) \n ... # 100,000 - Transpole (kira-kira 5,000 pelawat setiap hari) \n ... # 300,000 - Tweaktv (kira-kira 3,000 pelawat setiap hari) \n ... # 600,000 - Springest (kira-kira 1,300 pelawat setiap hari) \n ... # 1,000,000 - Elain (kira-kira 250 pelawat setiap hari) \n ... ..."
+   }
+}

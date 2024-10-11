@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Ryd din browserhistorie, cache og cookies til Google Chrome med et enkelt klik!"
+   },
+   "app_name": {
+      "message": "Historie &amp; cache-renser"
+   },
+   "options_common": {
+      "message": "Almindelige indstillinger"
+   },
+   "options_common_1": {
+      "message": "Genindlæs automatisk den aktive fane efter rydding"
+   },
+   "options_common_2": {
+      "message": "Flydende knap \"Cache Cleaner\" på alle sider"
+   },
+   "options_everything": {
+      "message": "Alt"
+   },
+   "options_header": {
+      "message": "MULIGHEDER"
+   },
+   "options_last_day": {
+      "message": "Sidste dag"
+   },
+   "options_last_hour": {
+      "message": "Sidste time"
+   },
+   "options_last_month": {
+      "message": "Sidste måned"
+   },
+   "options_last_week": {
+      "message": "Sidste uge"
+   },
+   "options_remove": {
+      "message": "Data, der skal fjernes"
+   },
+   "options_remove_appcache": {
+      "message": "App-cache"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 giver en applikationscache-mekanisme, der lader webbaserede applikationer køre offline. Udviklere kan bruge Application Cache (AppCache) interface til at specificere ressourcer, som browseren skal cache og gøre tilgængelig for offline brugere. Programmer, der er cache, indlæses og fungerer korrekt, selvom brugerne klikker på opdateringsknappen, når de er offline. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">Læs mere\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "Cache"
+   },
+   "options_remove_cache_desc": {
+      "message": "Tekst til websider, du har besøgt i Google Chrome, fjernes fra din computer. Browsere gemmer elementer af websider for at fremskynde indlæsningen af websiden under dit næste besøg. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Læs mere\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "småkager"
+   },
+   "options_remove_cookies_desc": {
+      "message": "Filer, der er gemt på din computer af websteder, du har besøgt. Disse filer indeholder brugerinformation, såsom præferencer til websteder eller profiloplysninger. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Læs mere\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(muligheder)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "Ryd kun følgende (hurtigt)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "Ryd ikke følgende (langsomt)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "Ingen filtre defineret"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "Tilføj domæne"
+   },
+   "options_remove_db": {
+      "message": "Indekseret DB"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB er en API til opbevaring på klientsiden af betydelige mængder strukturerede data, som også muliggør søgninger med høj ydeevne af disse data ved hjælp af indekser. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">Læs mere\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "Downloads"
+   },
+   "options_remove_downloads_desc": {
+      "message": "Listen over filer, du har downloadet ved hjælp af Google Chrome, er ryddet, men de faktiske filer fjernes ikke fra din computer. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Læs mere\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "Formular data"
+   },
+   "options_remove_forms_desc": {
+      "message": "Alle dine autofyld-poster og poster af tekst, du har indtastet på webformularer, bliver slettet. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Læs mere\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "Filsystemer"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Chrome Apps kan bruge] chrome.fileSystem API til at oprette, læse, navigere og skrive til brugerens lokale filsystem. Med denne API kan Chrome Apps læse og skrive til et brugervalgt sted. For eksempel kan en tekstredigeringsapp bruge API'en til at læse og skrive lokale dokumenter. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">Læs mere\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "Historie"
+   },
+   "options_remove_history_desc": {
+      "message": "Når du rydder din browserhistorik, slettes specifikt følgende: Webadresser, du har besøgt fra historik-siden, cache-tekst på disse sider, snapshots af disse sider for billeder, der vises på siden Ny fane, Alle IP-adresser, der er forhåndshentet fra disse sider. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Læs mere\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "Passwords"
+   },
+   "options_remove_passwords_desc": {
+      "message": "Registreringer af brugernavne og adgangskoder slettes. Hvis du bruger en Mac, slettes dine adgangskodeposter fra Keychain Access. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Læs mere\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "Plugin-data"
+   },
+   "options_remove_plugin_desc": {
+      "message": "Alle klientside-data, der er gemt af plug-ins, der bruger NPAPI ClearSiteData API. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">Læs mere\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Web SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "Web SQL Database er en webside API til lagring af data i databaser, der kan spørges ved hjælp af en variant af SQL. [...] W3C Web Applications Working Group ophørte med at arbejde på specifikationen i november 2010, med henvisning til en mangel på uafhængige implementeringer (dvs. brugen af et andet databasesystem end SQLite som backend), da grunden til, at specifikationen ikke kunne flytte frem til at blive en W3C-anbefaling. En potentiel alternativ lagringsstandard er IndexedDB. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">Læs mere\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "Lokal opbevaring"
+   },
+   "options_remove_storage_desc": {
+      "message": "DOM-opbevaring [som inkluderer lokal opbevaring] er designet til at give et større, mere sikkert og lettere at bruge alternativ til at gemme information i cookies. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">Læs mere\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "Ren!"
+   },
+   "popup_clear": {
+      "message": "Klar"
+   },
+   "popup_clearing": {
+      "message": "Clearing..."
+   },
+   "popup_label_rate": {
+      "message": "Bedøm os!"
+   },
+   "popup_manage": {
+      "message": "Muligheder"
+   }
+}

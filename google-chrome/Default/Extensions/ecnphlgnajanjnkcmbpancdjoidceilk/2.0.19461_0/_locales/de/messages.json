@@ -1,0 +1,44 @@
+{
+   "AnnotateWithKami": {
+      "message": "Über Kami mit Anmerkungen versehen"
+   },
+   "CheckingAssignmentType": {
+      "message": "Aufgabentyp wird überprüft …"
+   },
+   "ClassView": {
+      "message": "Klassenansicht"
+   },
+   "GotIt": {
+      "message": "Verstanden"
+   },
+   "GradeWithKami": {
+      "message": "Mit Kami bewerten"
+   },
+   "KamiAssignment": {
+      "message": "Kami-Aufgabe"
+   },
+   "KamiIsAttachingYourFile": {
+      "message": "Kami hängt deine Datei an"
+   },
+   "LearnMore": {
+      "message": "Mehr erfahren"
+   },
+   "MakeEditsToAssignedWorkAndPublishChangesToAllStudentsCopies": {
+      "message": "Zugewiesene Arbeit bearbeiten und Änderung in allen Schülerkopien veröffentlichen."
+   },
+   "OpenWithKami": {
+      "message": "Mit Kami öffnen"
+   },
+   "PleaseKeepThisWindowOpenAndOnTop": {
+      "message": "Bitte lasse dieses Fenster offen und im Vordergrund"
+   },
+   "UnknownErrorCouldNotGetMessageFromErrorCard": {
+      "message": "Unbekannter Fehler: Konnte keine Meldung von Fehlerkarte abrufen"
+   },
+   "UpdateWithKami": {
+      "message": "Mit Kami aktualisieren"
+   },
+   "UpdateWork": {
+      "message": "Arbeit aktualisieren"
+   }
+}

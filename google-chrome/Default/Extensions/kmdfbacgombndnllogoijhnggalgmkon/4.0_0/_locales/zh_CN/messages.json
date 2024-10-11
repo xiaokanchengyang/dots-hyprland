@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "查看网站的病毒/恶意软件"
+   },
+   "city": {
+      "message": "城市"
+   },
+   "clickHere": {
+      "message": "请点击这里"
+   },
+   "commentPage": {
+      "message": "请随时留下您的意见对本网页"
+   },
+   "commentWebsite": {
+      "message": "请随时留下您的评论，对当前网站"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "电子邮件"
+   },
+   "embedCode": {
+      "message": "在您的网站/博客的评论，只需复制下面的超文本标记语言代码，并将其放置在您的网页"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "主机名"
+   },
+   "hostingCompany": {
+      "message": "托管公司"
+   },
+   "hostingOwner": {
+      "message": "托管/所有者"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "IP地址"
+   },
+   "ipv4": {
+      "message": "IPv4地址"
+   },
+   "ipv6": {
+      "message": "IPv6地址"
+   },
+   "location": {
+      "message": "位置"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "无资料"
+   },
+   "nsServers": {
+      "message": "域名"
+   },
+   "otherSites": {
+      "message": "其他网站IP"
+   },
+   "owner": {
+      "message": "业主"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "阅读和写评论关于这个当前页面（或约此页面上的产品）"
+   },
+   "permLink": {
+      "message": "永久链接评论"
+   },
+   "popularity": {
+      "message": "声望"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "网页点评"
+   },
+   "reviewsWebsite": {
+      "message": "一般网站评语"
+   },
+   "safeWeb": {
+      "message": "网络防病毒"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "看到国家"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "每天的游客"
+   },
+   "website": {
+      "message": "网站"
+   },
+   "websitePopularity": {
+      "message": "网站人气（约）"
+   },
+   "websiteReview": {
+      "message": "网站评语"
+   },
+   "websiteReviewHint": {
+      "message": "关于本网站的读，写评语"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "网站世界流行评分"
+   },
+   "worldRanking": {
+      "message": "网站世界热门排行"
+   },
+   "worldRankingHint": {
+      "message": "此图显示了一个网站的排名，只有当它被列在顶部十万访问量最大的网站。世界各地。如果该网站目前有低于10万的排序位置，你不会看到任何数据，你需要点击此图，看到该网站目前在世界网站排名的位置。\n 最常访问的网站 - Alexa的排名 -\n#1 - Facebook\n#2 - Google\n#3 - Youtube\n... ...\n#10,000 - Akamai\n... ...\n#300,000 - Tweaktv\n... ..."
+   }
+}

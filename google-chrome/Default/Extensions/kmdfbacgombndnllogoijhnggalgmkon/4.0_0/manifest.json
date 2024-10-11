@@ -1,0 +1,24 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "default_locale": "en",
+   "description": "Display Website Country Flag. Website Whois - how many Visitors are visiting, Reputation Reviews, Antivirus Check, Alexa, Incognito",
+   "homepage_url": "https://myip.ms",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "64": "images/icon64.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwSg/hgXFsnc5jGg28rJdMsNPyYNrhEIJZ38ZL2IBzvuNuONvAZefcq6xt0qijBR64cH0Lgy0HfWFCg3LiahXQttPNXsCs5eMRNI62h8Rkj0r6IIa9gwIBTsb+LWI44IUsrpNZIil0ALBM0YMMTyLDs4uAza626G/4qTg/JoXaiwIDAQAB",
+   "manifest_version": 2,
+   "name": "IP Whois & Flags Chrome & Websites Rating",
+   "page_action": {
+      "default_icon": "images/world.png",
+      "default_popup": "popup.html"
+   },
+   "permissions": [ "https://plugin.myip.ms/*", "tabs", "chrome://favicon/", "webRequest", "webRequestBlocking", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.0"
+}

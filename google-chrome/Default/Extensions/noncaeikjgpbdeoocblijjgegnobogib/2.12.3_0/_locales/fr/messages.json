@@ -1,0 +1,149 @@
+{
+   "addErrorBad": {
+      "message": "Impossible d'ajouter."
+   },
+   "addErrorDupp": {
+      "message": "Déjà ajouté."
+   },
+   "addFavoritesLabel": {
+      "message": "Liste des favoris"
+   },
+   "addSkippedLabel": {
+      "message": "Liste à ignorer"
+   },
+   "addSuccess": {
+      "message": "Ajouté."
+   },
+   "addTranslateDbg": {
+      "message": "Ajouter [example.org] à [Favoris Liste]"
+   },
+   "addVerb": {
+      "description": "part of 'Add example.org to Favorites List' sentence",
+      "message": "Ajouter"
+   },
+   "adjust": {
+      "message": "Plus de paramètres..."
+   },
+   "adjustColorsHeader": {
+      "message": "Régler la couleur de surlignage"
+   },
+   "adjustOnlineDicts": {
+      "message": "Régler les dictionnaires en ligne pour les menus sensitif et contextuel"
+   },
+   "adjustPopupHlHeader": {
+      "message": "Régler le menu contextuel pour les expressions surlignées"
+   },
+   "adjustPopupOwHeader": {
+      "message": "Régler le menu contextuel pour les mots non surlignés"
+   },
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Surligne les mots et les expressions rares du dictionnaire anglais sur les pages Web. Facilite l’apprentissage de la langue anglaise et élargit votre vocabulaire."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store. Note to the translator: Do not translate first two words 'Words Discoverer'",
+      "message": "Word Discoverer : Développez votre vocabulaire"
+   },
+   "dictNameHeader": {
+      "message": "Nom du dictionnaire :"
+   },
+   "dictUrlHeader": {
+      "message": "URL de requête du dictionnaire :"
+   },
+   "disabledDescription": {
+      "message": "Surlignez que sur les sites de la « Liste des favoris »."
+   },
+   "emptyListError": {
+      "message": "La liste est vide ;)"
+   },
+   "enableIdiomsLabel": {
+      "message": "Activer le surlignage des expressions"
+   },
+   "enableWordsLabel": {
+      "message": "Activer le surlignage des mots"
+   },
+   "enabledDescription": {
+      "message": "Surlignez sur tous les sites Internet à l'exception de ceux de la « Liste à ignorer »."
+   },
+   "importInfo": {
+      "message": "De nouveaux mots seront ajoutés à votre vocabulaire actuel."
+   },
+   "loadVocab": {
+      "message": "Importer le vocabulaire"
+   },
+   "menuItem": {
+      "description": "Text in context menu",
+      "message": "Ajouter au vocabulaire"
+   },
+   "rateInfo1": {
+      "description": "1-st part of \"Not highlighting 100 most common English words\" sentence",
+      "message": "Ne pas surligner les"
+   },
+   "rateInfo2": {
+      "description": "2-nd part of \"Not highlighting 100 most common English words\" sentence",
+      "message": "mots anglais les plus courants."
+   },
+   "rateTranslateDbg": {
+      "message": "Ne pas surligner les 100 mots anglais les plus courants"
+   },
+   "rbAlways": {
+      "message": "Afficher le menu contextuel sur le menu sensitif de la souris"
+   },
+   "rbKey": {
+      "message": "Afficher le menu contextuel sur le menu sensitif de la souris et la touche [Ctrl]"
+   },
+   "rbNever": {
+      "message": "Ne pas afficher le menu contextuel"
+   },
+   "restoreDefaults": {
+      "message": "Restaurer les paramètres par défaut"
+   },
+   "saveVisuals": {
+      "message": "Enregistrer"
+   },
+   "saveVocab": {
+      "message": "Exporter le vocabulaire"
+   },
+   "selectFile": {
+      "message": "Choisir un dossier..."
+   },
+   "showVocab": {
+      "message": "Afficher le vocabulaire"
+   },
+   "switchModeLabel": {
+      "message": "Changer de mode"
+   },
+   "testBtn": {
+      "message": "Test"
+   },
+   "tipInfo": {
+      "message": "Pour ajouter une nouvelle expression à votre vocabulaire, vous pouvez utiliser le menu sensitif de la souris ou le menu contextuel du navigateur (sélection du texte + clic droit) ou ce champ d’entrée :"
+   },
+   "toVerb": {
+      "description": "part of 'Add example.org to Favorites List' sentence",
+      "message": "à"
+   },
+   "useBackground": {
+      "message": "Utiliser le surlignage d'arrière-plan"
+   },
+   "useBold": {
+      "message": "Utiliser des caractères gras"
+   },
+   "useQuotes": {
+      "message": "Utiliser les guillemets (au lieu du surlignage)"
+   },
+   "useText": {
+      "message": "Utiliser le surlignage de texte"
+   },
+   "vocabSizeInfo1": {
+      "description": "1-st part of \"Your vocabulary size: 100 words.\" sentence",
+      "message": "Taille de votre vocabulaire :"
+   },
+   "vocabSizeInfo2": {
+      "description": "2-nd part of \"Your vocabulary size: 100 words.\" sentence",
+      "message": "mots."
+   },
+   "vocabSizeTranslateDbg": {
+      "message": "Taille  de votre vocabulaire : 100 mots."
+   }
+}

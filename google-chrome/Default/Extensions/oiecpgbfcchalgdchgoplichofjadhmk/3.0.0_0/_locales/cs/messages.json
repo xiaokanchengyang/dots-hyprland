@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Vymažte historii prohlížeče, mezipaměť a soubory cookie pro Google Chrome jediným kliknutím!"
+   },
+   "app_name": {
+      "message": "History &amp; Cache Cleaner"
+   },
+   "options_common": {
+      "message": "Běžné možnosti"
+   },
+   "options_common_1": {
+      "message": "Po vymazání automaticky načíst aktivní kartu"
+   },
+   "options_common_2": {
+      "message": "Plovoucí tlačítko „Cache Cleaner“ na všech stránkách"
+   },
+   "options_everything": {
+      "message": "Všechno"
+   },
+   "options_header": {
+      "message": "MOŽNOSTI"
+   },
+   "options_last_day": {
+      "message": "Poslední den"
+   },
+   "options_last_hour": {
+      "message": "Poslední hodina"
+   },
+   "options_last_month": {
+      "message": "Minulý měsíc"
+   },
+   "options_last_week": {
+      "message": "Minulý týden"
+   },
+   "options_remove": {
+      "message": "Data k odebrání"
+   },
+   "options_remove_appcache": {
+      "message": "Mezipaměť aplikace"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 poskytuje mechanismus ukládání do mezipaměti aplikací, který umožňuje webové aplikace běžet offline. Vývojáři mohou pomocí rozhraní aplikační mezipaměti (AppCache) určit prostředky, které by měl prohlížeč ukládat do mezipaměti a zpřístupňovat uživatelům offline. Aplikace v mezipaměti se načítají a fungují správně, i když uživatelé klepnou na tlačítko aktualizace, když jsou offline. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">Přečtěte si více\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "Mezipaměti"
+   },
+   "options_remove_cache_desc": {
+      "message": "Text webových stránek, které jste navštívili v prohlížeči Google Chrome, je z vašeho počítače odstraněn. Prohlížeče ukládají prvky webových stránek, aby se při příští návštěvě urychlilo načítání webové stránky. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Přečtěte si více\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "Soubory cookie"
+   },
+   "options_remove_cookies_desc": {
+      "message": "Soubory uložené v počítači podle navštívených webů. Tyto soubory obsahují informace o uživateli, například preference webových stránek nebo informace o profilu. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Přečtěte si více\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(možnosti)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "Vymažte pouze následující (rychle)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "Nečistěte následující (pomalu)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "Nejsou definovány žádné filtry"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "Přidat doménu"
+   },
+   "options_remove_db": {
+      "message": "Indexovaná DB"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB je API pro ukládání významného množství strukturovaných dat na straně klienta, což také umožňuje vysoce výkonné vyhledávání těchto dat pomocí indexů. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">Přečtěte si více\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "Stahování"
+   },
+   "options_remove_downloads_desc": {
+      "message": "Seznam souborů, které jste stáhli pomocí prohlížeče Google Chrome, bude vymazán, ale skutečné soubory nebudou z počítače odstraněny. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Přečtěte si více\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "Data formuláře"
+   },
+   "options_remove_forms_desc": {
+      "message": "Všechny vaše položky automatického vyplňování a záznamy textu, které jste zadali do webových formulářů, budou smazány. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Přečtěte si více\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "Souborové systémy"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Chrome Apps mohou používat] rozhraní chrome.fileSystem API pro vytváření, čtení, navigaci a zápis do místního systému souborů uživatele. Díky tomuto rozhraní API mohou aplikace Chrome číst a zapisovat do uživatelem vybraného umístění. Například textový editor může pomocí API číst a zapisovat místní dokumenty. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">Přečíst více\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "Dějiny"
+   },
+   "options_remove_history_desc": {
+      "message": "Vymazáním historie prohlížení se konkrétně odstraní následující položky: Webové adresy, které jste navštívili ze stránky Historie, Text v mezipaměti těchto stránek, Snímky těchto stránek pro obrázky, které se zobrazují na stránce Nová karta, Všechny adresy IP předem načtené z těchto stránek. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Přečtěte si více\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "Hesla"
+   },
+   "options_remove_passwords_desc": {
+      "message": "Záznamy uživatelských jmen a hesel jsou vymazány. Pokud používáte počítač Mac, budou vaše záznamy hesel z aplikace Keychain Access odstraněny. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Přečtěte si více\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "Data pluginu"
+   },
+   "options_remove_plugin_desc": {
+      "message": "Všechna data na straně klienta uložená pomocí modulů plug-in, které používají rozhraní API NPAPI ClearSiteData. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">Přečtěte si více\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Web SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "Web SQL Database je webové stránky API pro ukládání dat do databází, které lze dotazovat pomocí varianty SQL. [...] Pracovní skupina W3C pro webové aplikace přestala pracovat na specifikaci v listopadu 2010 a uvedla nedostatek nezávislých implementací (tj. Použití databázového systému jiného než SQLite jako backendu) jako důvodu, proč se specifikace nemohla pohnout. dopředu, aby se stal doporučením W3C. Jedním z možných standardů alternativního úložiště je IndexedDB. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">Přečtěte si více\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "Místní úložiště"
+   },
+   "options_remove_storage_desc": {
+      "message": "Úložiště DOM [zahrnující místní úložiště] je navrženo tak, aby poskytovalo větší, bezpečnější a snadněji použitelnou alternativu k ukládání informací do souborů cookie. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">Přečtěte si více\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "Čistý!"
+   },
+   "popup_clear": {
+      "message": "Průhledná"
+   },
+   "popup_clearing": {
+      "message": "Zúčtování ..."
+   },
+   "popup_label_rate": {
+      "message": "Ohodnoťte nás!"
+   },
+   "popup_manage": {
+      "message": "Možnosti"
+   }
+}

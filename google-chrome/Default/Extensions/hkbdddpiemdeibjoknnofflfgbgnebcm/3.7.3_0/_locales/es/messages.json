@@ -1,0 +1,14 @@
+{
+   "description": {
+      "message": "Subtítulos bilingües de YouTube, visualización simultánea de dos idiomas, soporta estilos personalizados."
+   },
+   "name": {
+      "message": "YouTube™ Subtítulos dobles"
+   },
+   "popup1": {
+      "message": "La configuración de subtítulos se movió a la esquina superior izquierda de los subtítulos."
+   },
+   "popup2": {
+      "message": "Pase el cursor para ver las descripciones del menú"
+   }
+}

@@ -1,0 +1,1 @@
+(function(){"use strict";console.debug("Kami: injecting page script"),t("src/integrations/office365/outer_page.js");function t(c){const e=document.createElement("script");e.src=chrome.runtime.getURL(c),document.head.appendChild(e),e.remove()}})();

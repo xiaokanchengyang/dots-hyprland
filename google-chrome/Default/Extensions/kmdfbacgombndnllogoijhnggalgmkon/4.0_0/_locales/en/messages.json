@@ -1,0 +1,134 @@
+{
+   "alexa": {
+      "message": "Alexa"
+   },
+   "checkVirus": {
+      "message": "Check a Website for Viruses/Malware"
+   },
+   "city": {
+      "message": "City"
+   },
+   "clickHere": {
+      "message": "click here"
+   },
+   "commentPage": {
+      "message": "Please feel free to leave your comments about this web page"
+   },
+   "commentWebsite": {
+      "message": "Please feel free to leave your reviews about current website"
+   },
+   "diagram": {
+      "message": "Diagram"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "embedCode": {
+      "message": "To place this Review on your website/blog simply copy the following html code below and place it in your web page"
+   },
+   "homePage": {
+      "message": "Plugin Home Page"
+   },
+   "host": {
+      "message": "Host"
+   },
+   "hostingCompany": {
+      "message": "Hosting Company"
+   },
+   "hostingOwner": {
+      "message": "Hosting/Owner"
+   },
+   "incognito": {
+      "message": "Incognito"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "ip": {
+      "message": "IP Address"
+   },
+   "ipv4": {
+      "message": "IPv4 Address"
+   },
+   "ipv6": {
+      "message": "IPv6 Address"
+   },
+   "location": {
+      "message": "Location"
+   },
+   "more": {
+      "message": "more ..."
+   },
+   "noData": {
+      "message": "No Data"
+   },
+   "nsServers": {
+      "message": "Nameservers"
+   },
+   "otherSites": {
+      "message": "Other sites on IP"
+   },
+   "owner": {
+      "message": "Owner"
+   },
+   "pageReview": {
+      "message": "Page Review"
+   },
+   "pageReviewHint": {
+      "message": "Read and write comments about this current page (or about products on this page)"
+   },
+   "permLink": {
+      "message": "Permanent link to comments"
+   },
+   "popularity": {
+      "message": "Popularity"
+   },
+   "reputation": {
+      "message": "Reputation"
+   },
+   "reviewsPage": {
+      "message": "Current Page Reviews"
+   },
+   "reviewsWebsite": {
+      "message": "Website Reviews"
+   },
+   "safeWeb": {
+      "message": "Norton SafeWeb"
+   },
+   "safeweb": {
+      "message": "SafeWeb"
+   },
+   "seeCountry": {
+      "message": "see country"
+   },
+   "siteReviews": {
+      "message": "Site Reviews"
+   },
+   "visitors": {
+      "message": "visitors per day"
+   },
+   "website": {
+      "message": "Website"
+   },
+   "websitePopularity": {
+      "message": "Website Popularity (Approximately)"
+   },
+   "websiteReview": {
+      "message": "Website Reviews"
+   },
+   "websiteReviewHint": {
+      "message": "Read and write reviews about this website"
+   },
+   "whois": {
+      "message": "Whois"
+   },
+   "worldAverageRank": {
+      "message": "Website World Popular Rank"
+   },
+   "worldRanking": {
+      "message": "Website World Popular Ranking (Alexa)"
+   },
+   "worldRankingHint": {
+      "message": "This diagram displays a ranking for a website only if it is listed in the top 100,000 most visited\n websites worldwide. If the site currently has a ranking position below 100,000 you will not see\n any data and you would need to click on this diagram to see the site its current position\n in world site ranking.\n\n Most Visited Websites - Alexa Ranking -\n#1 - Facebook\n#2 - Google\n#3 - Youtube\n... ...\n... #1,000 - Icloud.com (around 250,000 visitors per day)\n... #5,000 - Totaljobs (around 40,000 visitors per day)\n... #10,000 - Akamai (around 25,000 visitors per day)\n... #50,000 - Wikitree (around 10,000 visitors per day)\n... #100,000 - Transpole (around 5,000 visitors per day)\n... #300,000 - Tweaktv (around 3,000 visitors per day)\n... #600,000 - Springest (around 1,300 visitors per day)\n... #1,000,000 - Elain (around 250 visitors per day)\n... ..."
+   }
+}

@@ -1,0 +1,9 @@
+importScripts('/backgrounds/constant.js');
+importScripts('/backgrounds/migration.js');
+importScripts('/backgrounds/utils.js');
+importScripts('/backgrounds/endpoints.js');
+importScripts('/backgrounds/chatApis.js');
+importScripts('/backgrounds/amplitude.js');
+importScripts('/backgrounds/messageHandlerSync.js');
+importScripts('/backgrounds/handler.js');
+importScripts('/backgrounds/helper.js');

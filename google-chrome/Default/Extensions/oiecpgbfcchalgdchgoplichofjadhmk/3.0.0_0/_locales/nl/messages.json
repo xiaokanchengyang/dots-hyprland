@@ -1,0 +1,140 @@
+{
+   "app_description": {
+      "message": "Wis uw browsergeschiedenis, cache en cookies voor Google Chrome in slechts één klik!"
+   },
+   "app_name": {
+      "message": "Geschiedenis en cachereiniger"
+   },
+   "options_common": {
+      "message": "Gemeenschappelijke opties"
+   },
+   "options_common_1": {
+      "message": "Laad het actieve tabblad automatisch opnieuw na het wissen"
+   },
+   "options_common_2": {
+      "message": "Zwevende knop \"Cache Cleaner\" op alle pagina's"
+   },
+   "options_everything": {
+      "message": "Alles"
+   },
+   "options_header": {
+      "message": "OPTIES"
+   },
+   "options_last_day": {
+      "message": "Laatste dag"
+   },
+   "options_last_hour": {
+      "message": "Laatste uur"
+   },
+   "options_last_month": {
+      "message": "Vorige maand"
+   },
+   "options_last_week": {
+      "message": "Vorige week"
+   },
+   "options_remove": {
+      "message": "Gegevens om te verwijderen"
+   },
+   "options_remove_appcache": {
+      "message": "App-cache"
+   },
+   "options_remove_appcache_desc": {
+      "message": "HTML5 biedt een applicatiecachingmechanisme waarmee webapplicaties offline kunnen worden uitgevoerd. Ontwikkelaars kunnen de Application Cache (AppCache) -interface gebruiken om bronnen op te geven die de browser moet cachen en beschikbaar moet maken voor offline gebruikers. Applicaties met cache laden en werken correct, zelfs als gebruikers op de knop Vernieuwen klikken wanneer ze offline zijn. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache\"\n target=\"_blank\">Lees meer\u003C/a>"
+   },
+   "options_remove_cache": {
+      "message": "Cache"
+   },
+   "options_remove_cache_desc": {
+      "message": "Tekst van webpagina's die u in Google Chrome heeft bezocht, wordt van uw computer verwijderd. Browsers slaan elementen van webpagina's op om het laden van de webpagina bij uw volgende bezoek te versnellen. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lees meer\u003C/a>"
+   },
+   "options_remove_cookies": {
+      "message": "koekjes"
+   },
+   "options_remove_cookies_desc": {
+      "message": "Bestanden die op uw computer zijn opgeslagen door websites die u hebt bezocht. Deze bestanden bevatten gebruikersinformatie, zoals voorkeuren voor websites of profielinformatie. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lees meer\u003C/a>"
+   },
+   "options_remove_cookies_opt": {
+      "message": "(Opties)"
+   },
+   "options_remove_cookies_opt_1": {
+      "message": "Wis alleen het volgende (snel)"
+   },
+   "options_remove_cookies_opt_2": {
+      "message": "Wis het volgende niet (langzaam)"
+   },
+   "options_remove_cookies_opt_3": {
+      "message": "Geen filters gedefinieerd"
+   },
+   "options_remove_cookies_opt_4": {
+      "message": "Domein toevoegen"
+   },
+   "options_remove_db": {
+      "message": "Geïndexeerde DB"
+   },
+   "options_remove_db_desc": {
+      "message": "IndexedDB is een API voor client-side opslag van aanzienlijke hoeveelheden gestructureerde gegevens, die ook het zoeken naar deze gegevens met behulp van indexen mogelijk maakt. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API\" target=\"_blank\">Lees meer\u003C/a>"
+   },
+   "options_remove_downloads": {
+      "message": "Downloads"
+   },
+   "options_remove_downloads_desc": {
+      "message": "De lijst met bestanden die u met Google Chrome hebt gedownload, wordt gewist, maar de daadwerkelijke bestanden worden niet van uw computer verwijderd. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lees meer\u003C/a>"
+   },
+   "options_remove_forms": {
+      "message": "Formuliergegevens"
+   },
+   "options_remove_forms_desc": {
+      "message": "Al uw gegevens voor automatisch aanvullen en records van tekst die u op webformulieren hebt ingevoerd, worden verwijderd. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lees meer\u003C/a>"
+   },
+   "options_remove_fsys": {
+      "message": "Bestandssystemen"
+   },
+   "options_remove_fsys_desc": {
+      "message": "[Chrome Apps kan] de chrome.fileSystem API gebruiken om het lokale bestandssysteem van de gebruiker te maken, lezen, navigeren en schrijven. Met deze API kunnen Chrome-apps lezen en schrijven naar een door de gebruiker geselecteerde locatie. Een teksteditor-app kan bijvoorbeeld de API gebruiken om lokale documenten te lezen en te schrijven. [...] - \u003Ca href=\"https://developer.chrome.com/apps/fileSystem\" target=\"_blank\">Lees meer\u003C/a>"
+   },
+   "options_remove_history": {
+      "message": "Geschiedenis"
+   },
+   "options_remove_history_desc": {
+      "message": "Als u uw browsegeschiedenis wist, worden met name de volgende items verwijderd: webadressen die u hebt bezocht vanaf de pagina Geschiedenis, in de cache opgeslagen tekst van die pagina's, momentopnamen van die pagina's voor afbeeldingen die worden weergegeven op de pagina Nieuw tabblad, alle IP-adressen die vooraf zijn opgehaald van die pagina's. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lees meer\u003C/a>"
+   },
+   "options_remove_passwords": {
+      "message": "wachtwoorden"
+   },
+   "options_remove_passwords_desc": {
+      "message": "Records van gebruikersnamen en wachtwoorden worden verwijderd. Als u een Mac gebruikt, worden uw wachtwoordrecords verwijderd uit Keychain Access. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\n target=\"_blank\">Lees meer\u003C/a>"
+   },
+   "options_remove_plugin": {
+      "message": "Plugin gegevens"
+   },
+   "options_remove_plugin_desc": {
+      "message": "Alle gegevens aan de clientzijde die zijn opgeslagen door plug-ins die de NPAPI ClearSiteData API gebruiken. - \u003Ca href=\"https://support.google.com/chrome/answer/95582?p=settings_clear_browsing_data&rd=1\"\ntarget=\"_blank\">Lees meer\u003C/a>"
+   },
+   "options_remove_sql": {
+      "message": "Web SQL"
+   },
+   "options_remove_sql_desc": {
+      "message": "Web SQL Database is een webpagina-API voor het opslaan van gegevens in databases die met een variant van SQL kunnen worden opgevraagd. [...] De W3C Web Applications Working Group stopte met werken aan de specificatie in november 2010, onder verwijzing naar een gebrek aan onafhankelijke implementaties (dwz het gebruik van een ander databasesysteem dan SQLite als backend) als de reden dat de specificatie niet kon worden verplaatst vooruit om een W3C-aanbeveling te worden. Een mogelijke alternatieve opslagstandaard is IndexedDB. - \u003Ca href=\"http://en.wikipedia.org/wiki/Web_SQL_Database\" target=\"_blank\">Lees meer\u003C/a>"
+   },
+   "options_remove_storage": {
+      "message": "Lokale opslag"
+   },
+   "options_remove_storage_desc": {
+      "message": "DOM Storage [inclusief lokale opslag] is ontworpen om een groter, veiliger en gebruiksvriendelijker alternatief te bieden voor het opslaan van informatie in cookies. - \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage\" target=\"_blank\">Lees meer\u003C/a>"
+   },
+   "popup_clean": {
+      "message": "Schoon!"
+   },
+   "popup_clear": {
+      "message": "Doorzichtig"
+   },
+   "popup_clearing": {
+      "message": "Clearing ..."
+   },
+   "popup_label_rate": {
+      "message": "Beoordeel ons alstublieft!"
+   },
+   "popup_manage": {
+      "message": "opties"
+   }
+}

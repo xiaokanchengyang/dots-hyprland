@@ -1,0 +1,24 @@
+/*!
+ * clipboard.js v2.0.11
+ * https://clipboardjs.com/
+ *
+ * Licensed MIT © Zeno Rocha
+ */
+
+/*!
+ * enhanced-github
+ * https://github.com/softvar/enhanced-github
+ *
+ * Licensed MIT (c) Varun Malhotra
+*/
+
+/*!
+ * enhanced-github - v6.0.0
+ *
+ * URL - https://github.com/softvar/ehanced-github
+ *
+ * MIT License, Copyright Varun Malhotra
+ *
+ * Dependencies used -
+ *  1. clipboard - ^2.0.11
+ */

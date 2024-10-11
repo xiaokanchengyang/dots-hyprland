@@ -1,0 +1,2 @@
+const o=()=>window.location.href,t=e=>e?/log(-|_| )?in|sign(-|_| )?in|sign(-|_| )?up|oauth/.test(e.toLowerCase()):!1,c=()=>!!(t(o())||t(document.title)||document.querySelector("input[type=password],input[autocomplete=username]")||[...document.head.querySelectorAll("meta[name=description],meta[itemprop=name]")].some(n=>t(n.content))||[...document.querySelectorAll("h1,h2,h3")].some(n=>t(n.textContent??"")));export{c as d};
+//# sourceMappingURL=bTMwkpkr.js.map

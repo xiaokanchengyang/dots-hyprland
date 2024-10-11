@@ -1,0 +1,229 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Hello" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1x264tci7ycd0" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="350">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Main.java","foregroundColor":-5524801,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 10,
+      "lastUsed": 1728560873122
+    },
+    "Properties": {
+      "usageCount": 3,
+      "lastUsed": 1728553933409
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Main.java" />
+      <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="10" lastUsage="1728560873125" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="3" lastUsage="1728553933409" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/change/IdeaProjects/Hello}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/change/IdeaProjects/Hello}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/change/IdeaProjects/Hello/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="icons/toolwindows/toolWindowProject.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Hello" />
+            <item name="Hello" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="icons/mt/modules/ModuleOpen.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Hello" />
+              <item name="dir{file:///home/change/IdeaProjects/Hello}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/change/IdeaProjects/Hello/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/out" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="out" />
+                <item name="dir{file:///home/change/IdeaProjects/Hello/out}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="src" />
+                <item name="dir{file:///home/change/IdeaProjects/Hello/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/Main.java" />
+                    </map>
+                  </attributes>
+                  <data iconPath="glyphs/nodes/class.svg" iconPlugin="com.mallowigi" isLeaf="true" text="Main" />
+                  <item name="Main" type="1a9f42e2:ClassTreeNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Hello.iml" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="Hello.iml" />
+                <item name="Hello.iml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/nodes/ppLib.svg" iconPlugin="com.mallowigi" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/scope/scratches.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Main" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3051000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1721698" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.3300926" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.3299266" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Translation.Wordbook" order="4" side_tool="true" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <unified_weights bottom="0.3300926" left="0.1721698" right="0.3299266" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1838" height="313" key="GridCell.Tab.0.bottom" timestamp="1728554585248">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="313" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1728554585248" />
+    <state width="1838" height="313" key="GridCell.Tab.0.center" timestamp="1728554585248">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="313" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1728554585248" />
+    <state width="1838" height="313" key="GridCell.Tab.0.left" timestamp="1728554585248">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="313" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1728554585248" />
+    <state width="1838" height="313" key="GridCell.Tab.0.right" timestamp="1728554585248">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="313" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1728554585248" />
+    <state x="0" y="195" key="SettingsEditor" timestamp="1728561000852">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="195" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1728561000852" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

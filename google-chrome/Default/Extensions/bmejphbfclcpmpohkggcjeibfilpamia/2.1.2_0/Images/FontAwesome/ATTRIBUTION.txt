@@ -1,0 +1,3 @@
+The icons in this directory are from FontAwesome.
+
+Website: https://fontawesome.com/

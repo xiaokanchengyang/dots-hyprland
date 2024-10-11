@@ -1,0 +1,22 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <extensionMap>
+      <mapping pattern="application" type="AUTO_DETECTED" />
+      <mapping ext="xmind" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="vmoptions" type="Native" />
+      <mapping ext="lic" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="json" approved="true" type="JSON" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
+      <mapping ext="model" type="Tabnine project model file" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
+    </extensionMap>
+  </component>
+</application>
